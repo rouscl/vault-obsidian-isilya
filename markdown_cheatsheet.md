@@ -39,6 +39,10 @@
 ## Links
 
 [Google](https://www.google.com)
+  
+### For linking to a heading:
+
+[[Note Title#Heading]]
 
 ## Images
 

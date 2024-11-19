@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1332a107ac52148a",
+        "id": "5286787e6ec2b0ea",
         "type": "tabs",
         "children": [
           {
-            "id": "4eba2816dd7e6fa7",
+            "id": "ccd9289c5e1d40f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Casas nobles/Casa Eledhril.md",
+                "file": "markdown_cheatsheet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Casa Eledhril"
-            },
-            "group": "64d14c975f4f2a5b"
-          }
-        ]
-      },
-      {
-        "id": "36cf7ea49f6a9900",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a8d14ef1d8de849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Casas nobles/Casa Eledhril.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Casa Eledhril"
-            },
-            "group": "64d14c975f4f2a5b"
+              "title": "markdown_cheatsheet"
+            }
           }
         ]
       }
@@ -75,7 +53,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,26 +72,12 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "fe8b61645e0b6c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Personajes/Juaniguel.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Juaniguel"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 222.5
   },
   "right": {
     "id": "73b503fc35e2c464",
@@ -129,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Partenón/Lolth.md",
+                "file": "markdown_cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Lolth"
+              "title": "Enlaces entrantes de markdown_cheatsheet"
             }
           },
           {
@@ -195,57 +159,58 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3a8d14ef1d8de849",
+  "active": "ccd9289c5e1d40f8",
   "lastOpenFiles": [
-    "6 - Casas nobles/Casa Talorian.md",
+    "0 - templates/Sesión.md",
+    "0 - templates/Lugares.md",
+    "0 - templates/Ficha de personaje.md",
+    "0 - templates/Deidad.md",
+    "0 - templates/Casas nobles.md",
+    "2 - Lugares/Isilya.md",
+    "2 - Lugares/Ibermaris.md",
+    "2 - Lugares/Rogaril.md",
+    "2 - Lugares/Menzoberranzan.md",
+    "0 - templates/NPC.md",
     "6 - Casas nobles/Casa Valdrak.md",
     "6 - Casas nobles/Casa Umbrafel.md",
-    "6 - Casas nobles/Casa Lumena.md",
-    "6 - Casas nobles/Casa Eledhril.md",
-    "3 - NPCs/Meranor Umbrafel.md",
-    "3 - NPCs/Yaharis Eledhril.md",
-    "3 - NPCs/Humbert Talorian.md",
-    "3 - NPCs/Alphonse Valdrak.md",
-    "3 - NPCs/Lidy Lumena.md",
-    "markdown_cheatsheet.md",
+    "6 - Casas nobles/Casa Talorian.md",
     "6 - Casas nobles/Casa Rhomduil.md",
+    "6 - Casas nobles/Casa Lumena.md",
     "6 - Casas nobles/Casa Ilythiss.md",
+    "6 - Casas nobles/Casa Eledhril.md",
     "6 - Casas nobles/Casa A'Dariir.md",
-    "0 - templates/Casas nobles.md",
-    "5 - Partenón/Lolth.md",
+    "5 - Panteón/Tymora.md",
+    "5 - Panteón/Lolth.md",
     "4 - Personajes/Alyre A'Dariir.md",
-    "5 - Partenón/Tymora.md",
-    "0 - templates/Deidad.md",
-    "Lolailo.md",
-    "4 - Personajes/Juaniguel.md",
-    "0 - templates/Lugares.md",
-    "0 - templates/Sin título.md",
-    "2 - Lugares/Menzoberranzan.md",
+    "3 - NPCs/Ildan.md",
+    "3 - NPCs/Humbert Talorian.md",
+    "3 - NPCs/Elendar.md",
+    "3 - NPCs/Alphonse Valdrak.md",
+    "3 - NPCs/Meranor Umbrafel.md",
+    "Pasted image 20241119193049.png",
+    "0 - templates/Scripts",
+    "0 - img/Padres Alyre.png",
+    "0 - img/Padres Alyre.jpg.sb-fa270c4f-I9AQZn",
+    "0 - img/Elendar.png",
+    "0 - img/Elendar.jpg.sb-fa270c4f-vyZV93",
+    "0 - img/Xerathor.png",
+    "0 - img/Xerathor.jpg.sb-fa270c4f-vc3RVk",
+    "0 - img/Padres Alyre.jpg",
+    "0 - img/Elendar.jpg",
+    "0 - img/Xerathor.jpg",
     "0 - img/Tymora.png",
     "0 - img/Tymora.webp",
-    "0 - templates/Ficha de personaje.md",
     "0 - img/Lolthholysymbol.png",
-    "0 - img/Lolthholysymbol.webp",
-    "5 - Partenón/Lloth.md",
     "0 - img/Lidy.png.sb-fa270c4f-yhGJip",
     "0 - img/Humbert.png.sb-fa270c4f-UyCicd",
     "0 - img/Yaharis.png.sb-fa270c4f-nXA3ZE",
-    "0 - img/Lidy.png",
     "0 - img/Lidy.jpg.sb-fa270c4f-uGZ48h",
-    "0 - img/Humbert.png",
     "0 - img/Humbert.jpg.sb-fa270c4f-hoX2Rs",
-    "0 - img/Alphonse.png",
     "0 - img/Alphonse.jpg.sb-fa270c4f-aKh3Yp",
-    "0 - img/Yaharis.png",
-    "0 - img/Yaharis.jpg.sb-fa270c4f-Fqq8Fq",
-    "0 - img/Meranor.png",
-    "0 - img/Meranor.jpg.sb-fa270c4f-qxRKXN",
-    "0 - img/Lidy.jpg",
-    "0 - img/Emblema Casa Rhomduil.png.sb-fa270c4f-yOO8eV",
-    "0 - img/Emblema Casa Ilythiss.png.sb-fa270c4f-ZjEiLw",
     "Personajes/Sin título.canvas"
   ]
 }

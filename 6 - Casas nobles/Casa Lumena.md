@@ -1,10 +1,10 @@
-> [!caption|right] Floats to the right
+> [!caption|right]
 > ![[image.png]]
 > "**_Tejemos el destino en hilos dorados._**"
 
 # Introducción
 
-Los Lumena son la última incorporación al gobierno. Su familia minera escaló rápido destronando a la antigua Casa Goldpeak, que se encargaba de la gestión económica en el gobierno. Los Cinco supieron ver el gran potencial de la joven líder y echaron a votación al anterior regente para que su casa ocupase su lugar.
+Los Lumena son la última incorporación al gobierno. Su familia minera escaló rápido destronando a la antigua Casa Goldpeak, que se encargaba de la gestión económica en el gobierno. "Los Cinco" supieron ver el gran potencial de la joven líder y echaron a votación al anterior regente para que su casa ocupase su lugar.
 
 ## Ideales
 

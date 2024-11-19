@@ -1,6 +1,6 @@
-> [!caption|right] Floats to the right
+> [!caption|right] 
 > ![[image.png]]
-> Lema de la casa
+> **_"Lema de la casa"_**
 
 # Introducción
 
@@ -10,8 +10,8 @@
 
 ## Aliados y enemigos
 
-> [!kith|friend] **Character Name** _Subtitle/Brief Relationship Description_
+> [!kith|friend] **Character Name**
 
-> [!kith|antagonist] **Character Name** _Subtitle/Brief Relationship Description_
+> [!kith|antagonist] **Character Name** 
 
 

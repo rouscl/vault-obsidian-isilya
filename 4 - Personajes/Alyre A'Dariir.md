@@ -25,7 +25,7 @@
 >
 > | Panteón |
 > | -------- |
-> | [[Deidad]]      |
+> | [[Lolth]]      |
 > 
 >| Trasfondo |
 > | -------- |
@@ -44,7 +44,7 @@
 
 ## Infancia
 
-La infancia de Alyre estuvo marcada por una educación estricta y despiadada dentro de su casa noble en [[Menzoberranzan]]. Nacida en la [[Casa A'Dariir| familia A'Dariir]], fue criada bajo las expectativas severas de su madre, [[Livra]], una matrona cruel que inculcaba en Alyre la devoción hacia [[Deidad]] y las reglas implacables de su sociedad. Desde muy pequeña, Alyre fue entrenada en combate, venenos y estrategia, desarrollando una resistencia única ante toxinas que se le administraban desde el vientre materno. Este entrenamiento, que incluía lecciones para resistir el veneno y manipular a los demás, dejaba claro que cualquier muestra de debilidad sería castigada sin piedad.
+La infancia de Alyre estuvo marcada por una educación estricta y despiadada dentro de su casa noble en [[Menzoberranzan]]. Nacida en la [[Casa A'Dariir| familia A'Dariir]], fue criada bajo las expectativas severas de su madre, [[Livra]], una matrona cruel que inculcaba en Alyre la devoción hacia [[Lolth]] y las reglas implacables de su sociedad. Desde muy pequeña, Alyre fue entrenada en combate, venenos y estrategia, desarrollando una resistencia única ante toxinas que se le administraban desde el vientre materno. Este entrenamiento, que incluía lecciones para resistir el veneno y manipular a los demás, dejaba claro que cualquier muestra de debilidad sería castigada sin piedad.
 
 Alyre creció sin conocer a su abuela materna, sobre quien nunca se hablaba en su casa. La joven sospechaba que su madre, [[Livra]], la había asesinado por considerarla débil. Este hecho, junto con la naturaleza cruel y dominante de su madre, moldeó la percepción de Alyre sobre el poder y la traición como herramientas necesarias para sobrevivir y liderar. Su padre, [[Ildan]], por otro lado, era visto por ella como una figura débil y sumisa, apenas valorado por su devoción absoluta hacia [[Livra]], lo cual reforzó en Alyre la idea de que solo debía rodearse de personas fuertes que pudieran retarla y ser sus iguales.
 
@@ -68,7 +68,7 @@ La tragedia golpeó cuando, durante una misión, [[Elendar]] fue envenenado por 
 
 Una vez [[Elendar]] estuvo fuera de peligro, Alyre no olvidó la deuda de sangre con la [[casa Rhomduil]]. Impulsada por el odio y su nueva arma, se infiltró en su fortaleza y, en un acto de venganza meticulosa y brutal, envenenó y asesinó a cada miembro de la familia, dejando a la matrona Rhomduil indefensa y forzada a ver cómo su linaje era destruido.
 
-Alyre mantuvo en secreto el poder demoníaco que ahora habitaba en su estoque, pero pronto se dio cuenta de que la presión del pacto y la sed de sangre de [[Xerathor]] la ponían en peligro constante. Para evitar ser descubierta por su propia familia y por la diosa [[Deidad]], decidió abandonar [[Menzoberranzan]]. En silencio, y con la determinación de seguir fortaleciendo su vínculo con [[Elendar]], Alyre marchó hacia un exilio forzado, llevándose consigo su pacto con [[Xerathor]] y su ambición, a la espera de un día en que podría regresar más poderosa y sin ataduras.
+Alyre mantuvo en secreto el poder demoníaco que ahora habitaba en su estoque, pero pronto se dio cuenta de que la presión del pacto y la sed de sangre de [[Xerathor]] la ponían en peligro constante. Para evitar ser descubierta por su propia familia y por la diosa [[Lolth]], decidió abandonar [[Menzoberranzan]]. En silencio, y con la determinación de seguir fortaleciendo su vínculo con [[Elendar]], Alyre marchó hacia un exilio forzado, llevándose consigo su pacto con [[Xerathor]] y su ambición, a la espera de un día en que podría regresar más poderosa y sin ataduras.
 
 ## Actualidad
 

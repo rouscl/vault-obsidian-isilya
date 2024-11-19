@@ -1,4 +1,4 @@
-> [!caption|right] Floats to the right
+> [!caption|right] 
 > ![[Emblema Casa Rhomduil.png]]
 > Lema de la casa
 

@@ -1,4 +1,4 @@
-> [!caption|right] Floats to the right
+> [!caption|right]
 > ![[image.png]]
 > **_"Ampollas y rocas."_**
 

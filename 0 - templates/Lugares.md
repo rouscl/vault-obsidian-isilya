@@ -1,5 +1,5 @@
 
-> [!caption|sban] Full width caption sizing
+> [!caption|sban] 
 > ![[image.png]]
 
 ---
@@ -12,5 +12,7 @@
 ## Religión
 
 ## Razas & Sociedad
+
+## Ubicación Geográfica
   
 

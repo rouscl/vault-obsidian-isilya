@@ -34,6 +34,8 @@ El miedo es tan fuerte como el acero, mientras que el amor y el respeto son blan
 
 Los rituales a Lolth suelen implicar la quema de aceites e incienso y ofrendas de gemas y riquezas a la diosa. Las ofrendas son depositadas en cuencos en un altar negro o en un brasero ardiente de donde surgen llamas negras para consumir las ofrendas . Si la diosa esta enfadada o hay un impostor en la sala, esas llamas pueden trazar arcos consumiendo lo que encuentren a su paso.
 
+Los ritos ceremoniales a Lloth suelen ser sangrientos y brutales, acabando a menudo en sacrificios. Las sacerdotisas se comunican con su deidad mediante rituales complejos que requieren dolor y sangre, tanto de enemigos como de seguidores desafortunados que desafían sus principios y deben ser castigados.
+
 En los rituales más importantes, se suelen instalar ocho braseros, como símbolo de las ocho patas de Lolth.
 
 Por norma los rituales suelen ser celebrados solo por sus sacerdotisas en una habitación especial. Sin embargo, en los casos en los que se pide un gran favor o tienen como objetivo a los fieles se suele celebran en sitios públicos y con ambos sexos presentes.
