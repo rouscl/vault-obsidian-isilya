@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "4b56b88930afb9ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "1332a107ac52148a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eba2816dd7e6fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Casas nobles/Casa Eledhril.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Casa Eledhril"
+            },
+            "group": "64d14c975f4f2a5b"
+          }
+        ]
+      },
+      {
+        "id": "36cf7ea49f6a9900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a8d14ef1d8de849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Casas nobles/Casa Eledhril.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Casa Eledhril"
+            },
+            "group": "64d14c975f4f2a5b"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc76b4324c9be7b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8725a9979a58b53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda32a76fcf34c88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ff1b24bdccd5217a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "da8baed0ca78d29c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "fe8b61645e0b6c73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Personajes/Juaniguel.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Juaniguel"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "73b503fc35e2c464",
+    "type": "split",
+    "children": [
+      {
+        "id": "22bd35ab19ca53a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78671f1e9a498e4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 - Partenón/Lolth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Lolth"
+            }
+          },
+          {
+            "id": "2d19cecfab3e418c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 - Partenón/Lolth.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Lolth"
+            }
+          },
+          {
+            "id": "ef9417137a8377cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "eea9beb30d11c076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personajes/Alyre A'Dariir.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Alyre A'Dariir"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3a8d14ef1d8de849",
+  "lastOpenFiles": [
+    "6 - Casas nobles/Casa Talorian.md",
+    "6 - Casas nobles/Casa Valdrak.md",
+    "6 - Casas nobles/Casa Umbrafel.md",
+    "6 - Casas nobles/Casa Lumena.md",
+    "6 - Casas nobles/Casa Eledhril.md",
+    "3 - NPCs/Meranor Umbrafel.md",
+    "3 - NPCs/Yaharis Eledhril.md",
+    "3 - NPCs/Humbert Talorian.md",
+    "3 - NPCs/Alphonse Valdrak.md",
+    "3 - NPCs/Lidy Lumena.md",
+    "markdown_cheatsheet.md",
+    "6 - Casas nobles/Casa Rhomduil.md",
+    "6 - Casas nobles/Casa Ilythiss.md",
+    "6 - Casas nobles/Casa A'Dariir.md",
+    "0 - templates/Casas nobles.md",
+    "5 - Partenón/Lolth.md",
+    "4 - Personajes/Alyre A'Dariir.md",
+    "5 - Partenón/Tymora.md",
+    "0 - templates/Deidad.md",
+    "Lolailo.md",
+    "4 - Personajes/Juaniguel.md",
+    "0 - templates/Lugares.md",
+    "0 - templates/Sin título.md",
+    "2 - Lugares/Menzoberranzan.md",
+    "0 - img/Tymora.png",
+    "0 - img/Tymora.webp",
+    "0 - templates/Ficha de personaje.md",
+    "0 - img/Lolthholysymbol.png",
+    "0 - img/Lolthholysymbol.webp",
+    "5 - Partenón/Lloth.md",
+    "0 - img/Lidy.png.sb-fa270c4f-yhGJip",
+    "0 - img/Humbert.png.sb-fa270c4f-UyCicd",
+    "0 - img/Yaharis.png.sb-fa270c4f-nXA3ZE",
+    "0 - img/Lidy.png",
+    "0 - img/Lidy.jpg.sb-fa270c4f-uGZ48h",
+    "0 - img/Humbert.png",
+    "0 - img/Humbert.jpg.sb-fa270c4f-hoX2Rs",
+    "0 - img/Alphonse.png",
+    "0 - img/Alphonse.jpg.sb-fa270c4f-aKh3Yp",
+    "0 - img/Yaharis.png",
+    "0 - img/Yaharis.jpg.sb-fa270c4f-Fqq8Fq",
+    "0 - img/Meranor.png",
+    "0 - img/Meranor.jpg.sb-fa270c4f-qxRKXN",
+    "0 - img/Lidy.jpg",
+    "0 - img/Emblema Casa Rhomduil.png.sb-fa270c4f-yOO8eV",
+    "0 - img/Emblema Casa Ilythiss.png.sb-fa270c4f-ZjEiLw",
+    "Personajes/Sin título.canvas"
+  ]
+}

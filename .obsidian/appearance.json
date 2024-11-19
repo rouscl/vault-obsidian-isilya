@@ -1,0 +1,10 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "image_snippets",
+    "S - All Alt Themes"
+  ],
+  "theme": "obsidian"
+}
