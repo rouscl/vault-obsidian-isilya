@@ -1,5 +1,5 @@
 > [!caption|right]
-> ![[image.png]]
+> ![[Emblema Lumena.png]]
 > "**_Tejemos el destino en hilos dorados._**"
 
 # Introducción

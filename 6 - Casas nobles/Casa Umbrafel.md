@@ -1,5 +1,5 @@
 > [!caption|right] 
-> ![[image.png]]
+> ![[Casa_Umbrafel.png]]
 > **_"Con el silencio de las estrellas."_**
 
 # Introducción

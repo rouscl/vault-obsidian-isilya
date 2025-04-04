@@ -1,5 +1,5 @@
 > [!caption|right] 
-> ![[image.png]]
+> ![[Casa_Valdrak.png]]
 > **_"La espada nunca miente"_**
 
 # Introducción

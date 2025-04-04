@@ -1,5 +1,5 @@
 > [!caption|right]
-> ![[image.png]]
+> ![[Emblema Talorian.png]]
 > **_"Ampollas y rocas."_**
 
 # Introducción

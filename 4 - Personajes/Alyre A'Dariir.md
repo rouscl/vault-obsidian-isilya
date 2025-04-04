@@ -38,9 +38,10 @@
 > - [[Elendar]]
 > - [[Xerathor]] 
 > # Vínculos Nuevos
-> - [[Juaniguel]]
+> - [[Juaniguel de la Ola|Juaniguel]]
 > - [[Mathulio]]
-> - [[Urko]]
+> - [[Urko Puño de Viuda Lamento de Hierro]]
+> - [[Duster Sukuna|Duster]]
 
 ## Infancia
 

@@ -1,5 +1,5 @@
 > [!caption|right] 
-> ![[image.png]]
+> ![[Emblema_Eledrhil.png]]
 > **_Lema desconocido_**.
 
 # Introducción
