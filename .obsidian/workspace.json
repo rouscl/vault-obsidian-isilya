@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Crónica/Sesión 14.md",
+                "file": "1 - Crónica/Sesión 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 14"
+              "title": "Sesión 1"
             },
             "group": "fe2ed4946b0d2d16"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Crónica/Sesión 14.md",
+                "file": "1 - Crónica/Sesión 1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 14"
+              "title": "Sesión 1"
             },
             "group": "fe2ed4946b0d2d16"
           }
@@ -192,12 +192,17 @@
   },
   "active": "1caa40673eb7c653",
   "lastOpenFiles": [
+    "4 - Personajes/Alyre A'Dariir.md",
+    "0 - img/Elendar y Alyre.png",
+    "2 - Lugares/Isilya.md",
+    "1 - Crónica/Sesión 1.md",
+    "1 - Crónica/Sesión 14.md",
+    "1 - Crónica/Sesión 11.md",
     "0 - img/Mathulio y Alyre hablando.png",
     "0 - img/Lucha jabalí de hielo.png",
     "0 - img/Alyre, Juaniguel y Mathulio en la cueva.png",
     "0 - img/Qué frío hace.png",
     "3 - NPCs/Paige.md",
-    "1 - Crónica/Sesión 14.md",
     "3 - NPCs/Xuai.md",
     "3 - NPCs/Kerindall.md",
     "3 - NPCs/Ruka.md",
@@ -213,12 +218,9 @@
     "0 - img/Alyre y Bornira.png",
     "0 - img/Alyre y su madre.png",
     "0 - img/Juaniguel y Laura 2.png",
-    "0 - img/Juaniguel y Laura.png",
     "3 - NPCs/Laura.md",
     "6 - Casas nobles/Casa Rhomduil.md",
     "3 - NPCs/Bornira.md",
-    "1 - Crónica/Sesión 11.md",
-    "0 - img/Muerte de Duster.png",
     "1 - Crónica/Sesión 10.md",
     "1 - Crónica/Sesión 9.md",
     "1 - Crónica/Sesión 8.md",
@@ -226,8 +228,6 @@
     "2 - Lugares/Almariz.md",
     "3 - NPCs/Moh’to.md",
     "2 - Lugares/Gallix.md",
-    "3 - NPCs/Gango.md",
-    "2 - Lugares/Castimandra.md",
     "0 - img/Lest.png.sb-fa270c4f-9Tpyvd",
     "0 - img/Viuda Fillai.png.sb-fa270c4f-k1lf4m",
     "0 - img/kaziya.png.sb-fa270c4f-ULqRJw",

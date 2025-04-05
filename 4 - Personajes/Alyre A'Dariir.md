@@ -51,6 +51,9 @@ Alyre creció sin conocer a su abuela materna, sobre quien nunca se hablaba en s
 
 En esta sociedad hostil, Alyre aprendió a ocultar cualquier signo de vulnerabilidad, y fue preparada desde temprana edad para seguir el camino de las intrigas y las alianzas traicioneras.
 
+
+
+
 ## Adolescencia
 
 Durante su adolescencia, Alyre continuó su implacable entrenamiento en combate y en las artes de la manipulación, perfeccionando sus habilidades con el estoque y profundizando en el arte del engaño y la estrategia. Guiada por su madre, fue introducida en las intrigas políticas de [[Menzoberranzan]], participando en conspiraciones y alianzas temporales, al mismo tiempo que aprendía a desconfiar de todos, incluyendo a su propia familia.
@@ -64,6 +67,8 @@ Su vida cambió al conocer a [[Elendar]], un drow de la [[casa Ilythiss]], una f
 ## Adultez
 
 En su adultez, Alyre se estableció como una guerrera temida y respetada en la [[casa A'Dariir]], tomando misiones de alto riesgo y formando un equipo letal junto a [[Elendar]], su amante y compañero de batalla. Su conexión era tal que ambos actuaban en perfecta sincronía en combate e intriga, y soñaban con un futuro en el que podrían gobernar con una autoridad firme y despiadada.
+
+![[Elendar y Alyre.png]]
 
 La tragedia golpeó cuando, durante una misión, [[Elendar]] fue envenenado por un agente de la [[casa Rhomduil]]. Desesperada, Alyre tomó una decisión arriesgada: invocar al demonio [[Xerathor]] y forjar un pacto oscuro. A cambio de derramar sangre en su nombre, el demonio le otorgó un estoque con poder sobre la sangre, permitiéndole extraer el veneno de [[Elendar]] y devolverle la vida. Sin embargo, este pacto ató a Alyre a [[Xerathor]], obligándola a cumplir su parte en silencio.
 
