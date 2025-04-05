@@ -8,6 +8,9 @@
 
 ## Integrantes
 
+- [[Bornira]]
+- 
+
 ## Aliados y enemigos
 
 > [!kith|friend] **Character Name** _Subtitle/Brief Relationship Description_

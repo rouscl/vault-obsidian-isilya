@@ -4,6 +4,7 @@
 
 ---
 
+## Underdark
 
 El Underdark, hogar de drows y otras razas que viven para servirles, se expande por miles de kilómetros en la parte más profunda del continente de [[Isilya]], siendo casi tan amplio como la misma superficie. Su capital, Menzoberranzan, justo debajo de la capital oficial del continente, [[Rogaril]]. La conforman una vasta red de túneles y cavernas, con una preciosa arquitectura gótica esculpida en piedra negra y únicamente iluminada por la tenue luz de cristales fosforescentes púrpuras. Muchos de sus elevados puentes y retorcidas torres se encuentran construidos encima de criaturas gigantes petrificadas. La ciudad está dividida en distritos, donde los nobles ocupan los lugares más seguros y estratégicos mientras que los distritos de los plebeyos y esclavos colindan con las zonas más salvajes, expuestos al peligro constante.
 

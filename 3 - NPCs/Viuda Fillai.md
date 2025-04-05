@@ -7,8 +7,8 @@ tags:
 ---
 
 > [!infobox]
-> # Nombre completo
-> ![[image.png]]
+> # Viuda Fillai
+> ![[Viuda Fillai.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

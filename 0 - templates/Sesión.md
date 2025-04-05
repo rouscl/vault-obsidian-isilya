@@ -37,6 +37,6 @@ date_created: {{date}}
 
 #### Seguir leyendo
 
-[[Sesión|Página anterior|]]
+[[Sesión|Página anterior]]
 [[Sesión|Página siguiente]]
 

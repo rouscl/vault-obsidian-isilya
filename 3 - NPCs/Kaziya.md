@@ -8,7 +8,7 @@ tags:
 
 > [!infobox]
 > # Nombre completo
-> ![[image.png]]
+> ![[kaziya.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

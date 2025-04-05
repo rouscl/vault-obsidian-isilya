@@ -4,46 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd7d0e28baa1f40",
+        "id": "6a5550270f40d01c",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "1b926af8ba74bf40",
+            "id": "1caa40673eb7c653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Crónica/Sesión 6.md",
+                "file": "1 - Crónica/Sesión 14.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 6"
+              "title": "Sesión 14"
             },
-            "group": "49e21255cdaa617d"
+            "group": "fe2ed4946b0d2d16"
           }
         ]
       },
       {
-        "id": "858d508c79fdc055",
+        "id": "abf9815723719881",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "c576b33cddc642d7",
+            "id": "3e6696657e8916ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Crónica/Sesión 6.md",
+                "file": "1 - Crónica/Sesión 14.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 6"
+              "title": "Sesión 14"
             },
-            "group": "49e21255cdaa617d"
+            "group": "fe2ed4946b0d2d16"
           }
         ]
       }
@@ -192,54 +190,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b926af8ba74bf40",
+  "active": "1caa40673eb7c653",
   "lastOpenFiles": [
-    "3 - NPCs/Kaziya.md",
-    "1 - Crónica/Sesión 6.md",
-    "0 - img/Viuda Fillai.png",
-    "3 - NPCs/Viuda Fillai.md",
-    "04/12/2024.md",
+    "0 - img/Mathulio y Alyre hablando.png",
+    "0 - img/Lucha jabalí de hielo.png",
+    "0 - img/Alyre, Juaniguel y Mathulio en la cueva.png",
+    "0 - img/Qué frío hace.png",
+    "3 - NPCs/Paige.md",
+    "1 - Crónica/Sesión 14.md",
+    "3 - NPCs/Xuai.md",
+    "3 - NPCs/Kerindall.md",
+    "3 - NPCs/Ruka.md",
+    "3 - NPCs/Benedict.md",
+    "1 - Crónica/Sesión 13.md",
+    "0 - img/Kerindal.png",
+    "3 - NPCs/Vulka.md",
+    "3 - NPCs/Cassandra.md",
+    "3 - NPCs/Marek.md",
+    "3 - NPCs/Tessy.md",
+    "1 - Crónica/Sesión 12.md",
+    "0 - img/Juaniguel y bandido.png",
+    "0 - img/Alyre y Bornira.png",
+    "0 - img/Alyre y su madre.png",
+    "0 - img/Juaniguel y Laura 2.png",
+    "0 - img/Juaniguel y Laura.png",
+    "3 - NPCs/Laura.md",
+    "6 - Casas nobles/Casa Rhomduil.md",
+    "3 - NPCs/Bornira.md",
+    "1 - Crónica/Sesión 11.md",
+    "0 - img/Muerte de Duster.png",
+    "1 - Crónica/Sesión 10.md",
+    "1 - Crónica/Sesión 9.md",
+    "1 - Crónica/Sesión 8.md",
+    "3 - NPCs/Alphonse Valdrak.md",
+    "2 - Lugares/Almariz.md",
+    "3 - NPCs/Moh’to.md",
+    "2 - Lugares/Gallix.md",
+    "3 - NPCs/Gango.md",
+    "2 - Lugares/Castimandra.md",
+    "0 - img/Lest.png.sb-fa270c4f-9Tpyvd",
+    "0 - img/Viuda Fillai.png.sb-fa270c4f-k1lf4m",
+    "0 - img/kaziya.png.sb-fa270c4f-ULqRJw",
     "04/12",
     "04",
-    "1 - Crónica/Sesión 5.md",
-    "0 - img/Ponzoña.png",
-    "0 - img/Nota Caraxys.png",
-    "1 - Crónica/Sesión 4.md",
-    "4 - Personajes/Juaniguel de la Ola.md",
-    "4 - Personajes/Mathulio.md",
     "0 - img/Mathulio.png.sb-fa270c4f-gmTYSt",
-    "4 - Personajes/Alyre A'Dariir.md",
-    "3 - NPCs/Azahara.md",
-    "5 - Panteón/Timora.md",
-    "3 - NPCs/Ri’La’Or Stolzmoore.md",
-    "4 - Personajes/Duster Sukuna.md",
-    "0 - img/Alyre y Xerathor.png",
-    "0 - img/El gremio.png",
-    "1 - Crónica/Sesión 3.md",
-    "1 - Crónica/Sesión 2.md",
-    "Alyre y Urko sentados fuera de la taberna.png",
-    "0 - img/Alyre y Urko sentados fuera de la taberna.png",
-    "Alyre y Urko en casa de Alyre.png",
-    "1 - Crónica/Sesión 1.md",
-    "0 - img/Alyre y Urko en casa de Alyre.png",
-    "0 - img/Mathil ladronsuelo.png",
-    "0 - templates/Sesión.md",
-    "0 - templates/NPC.md",
-    "5 - Panteón/Ponzoña.md",
-    "0 - templates/Lugares.md",
-    "0 - templates/Deidad.md",
-    "0 - templates/Casas nobles.md",
-    "2 - Lugares/Isilya.md",
-    "2 - Lugares/Ibermaris.md",
-    "2 - Lugares/Rogaril.md",
-    "5 - Panteón/Tyr.md",
     "0 - img/Maya.png.sb-fa270c4f-0LC6HE",
     "0 - img/Mel.png.sb-fa270c4f-iKgA0u",
     "0 - img/Osha.png.sb-fa270c4f-n0idPj",
     "0 - img/Osha.jpg.sb-fa270c4f-EkNzUS",
-    "0 - img/Jasper.png.sb-fa270c4f-CBytXy",
-    "8 - Escenas",
-    "7 - Buzón",
     "Sin título.canvas",
     "Personajes/Sin título.canvas"
   ]

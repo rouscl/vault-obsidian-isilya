@@ -35,7 +35,7 @@ date_created: 2024-12-22
 
 - **[[Meranor Umbrafel|Umbrafel]] recomienda investigar leyendas lunares** relacionadas con el hilo rojo.
 
-- **Lindale está gestionando el “tema del Underdark”**, según Eledhril.
+- **Lindale está gestionando el “tema del [[Menzoberranzan#Underdark|Underdark]]”**, según Eledhril.
 
 - **[[Caraxys]] reaparece y aclara que no es el causante del vínculo**. Quiere intercambiar ayuda por la recuperación de unas armas legendarias.
     
@@ -48,7 +48,7 @@ date_created: 2024-12-22
 
 # Capítulo 3: A cien pasos del desastre
 
-La mañana llegó con el sabor agrio de una noche en vela. [[Helga]], como siempre, ya estaba en pie, y con una mirada que mezclaba resignación y complicidad, se acercó a [[Alyre A'Dariir|Alyre]]. La conversación fue breve pero honesta: ella sabía que [[Alyre A'Dariir|Alyre]] prefería estar sola, que la confianza no venía fácil. [[Alyre A'Dariir|Alyre]] se lo confirmó. No quería dormir con el resto del grupo, no todavía. [[Helga]], con esa sabiduría tranquila de quien ha visto pasar demasiada gente por su barra, le contó lo último que había oído: [[Meranor Umbrafel\Umbrafel]] terminó la fiesta de la noche anterior completamente borracho. Tuvieron que llevarlo a rastras a casa.
+La mañana llegó con el sabor agrio de una noche en vela. [[Helga]], como siempre, ya estaba en pie, y con una mirada que mezclaba resignación y complicidad, se acercó a [[Alyre A'Dariir|Alyre]]. La conversación fue breve pero honesta: ella sabía que [[Alyre A'Dariir|Alyre]] prefería estar sola, que la confianza no venía fácil. [[Alyre A'Dariir|Alyre]] se lo confirmó. No quería dormir con el resto del grupo, no todavía. [[Helga]], con esa sabiduría tranquila de quien ha visto pasar demasiada gente por su barra, le contó lo último que había oído: [[Meranor Umbrafel|Umbrafel]] terminó la fiesta de la noche anterior completamente borracho. Tuvieron que llevarlo a rastras a casa.
 
 Entre pasos, instintos y dolores punzantes, el grupo descubrió algo importante: si se alejaban más de unos 120 o 150 metros los unos de los otros, el vínculo que los unía comenzaba a doler. Como un hilo invisible que se tensaba en carne viva.
 
@@ -56,7 +56,7 @@ Entre pasos, instintos y dolores punzantes, el grupo descubrió algo importante:
 
 Decidieron dirigirse a la casa del ministro [[Meranor Umbrafel\Umbrafel]]. Los guardias los dejaron entrar cuando mencionaron que venían de parte del encargado de la tienda de magia, [[Gareth]]. El ministro, aún con la resaca pintada en el rostro, los recibió con cortesía distante. Les pidió toda la información que pudieran ofrecerle y prometió buscarles en su taberna si encontraba algo útil. Antes de despedirse, les dejó una pista enigmática: por el color del hilo que los unía, sería buena idea investigar antiguas leyendas sobre la luna.
 
-La siguiente parada fue _The Emerald Cat_, una taberna de lujo donde se suponía que podrían encontrar a la ministra [[Yaharis Eledhril|Eledhril]]. Allí estaba, rodeada de gente bien vestida, copas caras y conversaciones crípticas. [[Urko Puño de Viuda Lamento de Hierro|Urko]] y [[Duster Sukuna|Duster]] pidieron algo para comer, el resto se limitó a observar. Intentaron escuchar disimuladamente, pero su presencia fue notada y un biombo fue colocado entre las mesas. A pesar de todo, captaron algo: la ministra mencionó que un tal Lindale estaba gestionando el “tema del [[Underdark]]”.
+La siguiente parada fue _The Emerald Cat_, una taberna de lujo donde se suponía que podrían encontrar a la ministra [[Yaharis Eledhril|Eledhril]]. Allí estaba, rodeada de gente bien vestida, copas caras y conversaciones crípticas. [[Urko Puño de Viuda Lamento de Hierro|Urko]] y [[Duster Sukuna|Duster]] pidieron algo para comer, el resto se limitó a observar. Intentaron escuchar disimuladamente, pero su presencia fue notada y un biombo fue colocado entre las mesas. A pesar de todo, captaron algo: la ministra mencionó que un tal Lindale estaba gestionando el “tema del [[Menzoberranzan#Underdark|Underdark]]”.
 
 [[Alyre A'Dariir|Alyre]] salió a la calle, buscando oídos más discretos. Pero cinco guardias la interceptaron. La acusaron de causar problemas, intentando echarla. Con frialdad y habilidad, logró convencerlos de que simplemente esperaba a alguien. Incluso aceptaron quedarse con ella para vigilarla, sin expulsarla.
 

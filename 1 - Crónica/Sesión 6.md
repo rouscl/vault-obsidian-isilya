@@ -17,6 +17,7 @@ date_created: 2025-01-12
 ## Lugares Visitados
 - Casa de [[Alyre A'Dariir|Alyre]]
 - Mercado
+- Burdel Hart
 - El Jarrazo
 - Gremio de aventureros
 - Cementerio de [[Rogaril]]
@@ -37,7 +38,7 @@ date_created: 2025-01-12
     
 - **El mausoleo está protegido por maldiciones** impuestas por Umbrafel. Sacar objetos del mausoleo es muy peligroso.
 
-- [[Mathulio]] intenta quedarse con una tiara tras matar a un esqueleto, pero [[Alyre A'Dariir|Alyre]] lo detiene a tiempo.
+- [[Juaniguel de la Ola|Juaniguel]] intenta quedarse con una tiara tras matar a un esqueleto, pero [[Alyre A'Dariir|Alyre]] lo detiene a tiempo.
 
 
 <br>
@@ -46,17 +47,28 @@ date_created: 2025-01-12
 
 La noche le trajo a [[Alyre A'Dariir|Alyre]] un recuerdo envuelto en acero y autoridad. Tenía nueve años. Su instructora, una mujer firme y dura como el metal de las dagas que empuñaban, la hacía entrenar con un muñeco de combate. Le enseñaba precisión, control, muerte limpia. Desde una esquina, [[Livra]] observaba con fría atención. Cuando la niña tocó todos los puntos vitales del muñeco, su madre levantó una ceja. Sorpresa. Orgullo. Silencio.
 
-A la mañana siguiente, [[Alyre A'Dariir|Alyre]] y [[Urko Puño de Viuda Lamento de Hierro|Urko]] compartieron el desayuno en casa. Salieron a comprar provisiones al mercado, y al regresar, encontraron un cartel oficial clavado en la puerta. El gobierno de [[Rogaril]] prohibía el acceso al Puerto Bajo por una contaminación grave. Había cadáveres en descomposición. Agua envenenada. Ambos entendieron al instante: la muerte de las sacerdotisas en las alcantarillas tenía consecuencias más allá del ritual fallido.
+Esa mañana, [[Rogaril]] amaneció con una calma engañosa. [[Alyre A'Dariir|Alyre]] y Urko desayunaron en casa y se dirigieron al mercado antes de continuar hacia el gremio. Al salir de casa encontraron un cartel oficial clavado en la puerta. El gobierno de [[Rogaril]] prohibía el acceso al Puerto Bajo por una contaminación grave. Había cadáveres en descomposición. Agua envenenada. Ambos entendieron al instante: la muerte de las sacerdotisas en las alcantarillas tenía consecuencias más allá del ritual fallido.
 
 ![[octavilla.png]]
 
-[[Urko Puño de Viuda Lamento de Hierro|Urko]] se adelantó a la taberna para ver a [[Helga]]. Quería impresionarla, así que se ofreció como cocinero. Ella le hizo una prueba de y acabó contratándole. Mientras tanto, [[Mathulio]] y [[Juaniguel de la Ola|Juaniguel]] despertaban en _El Jarrazo_, donde encontraron una nota clavada en su puerta. No dijeron mucho al respecto, pero la llevaron consigo rumbo al Gremio.
+Una vez en el mercado, entre el bullicio de comerciantes, telas ondeantes y puestos cargados de frutas pasadas, se abrieron paso sin prisa. [[Alyre A'Dariir|Alyre]] recorría los tenderetes con la mirada afilada: buscaba ingredientes que resistieran varios días, algo que pudiera servirle tanto para preparar una cena como para algún experimento alquímico. [[Urko Puño de Viuda Lamento de Hierro|Urko]], más suelto, charlaba con algún vendedor, olisqueaba hierbas, tanteaba carnes. Cuando encontraba algo que le gustaba, su rostro se iluminaba con una sonrisa que duraba apenas un segundo, pero que decía más que muchas de sus frases.
+
+A unos barrios de distancia, [[Juaniguel de la Ola|Juaniguel]] y [[Mathulio]] seguían otra pista. La nota que [[Maya]] le había entregado llevaba al **Burdel Hart**, un local discreto en las zonas medias de [[Rogaril]], donde los ladrillos eran más nuevos y las calles menos torcidas. [[Juaniguel de la Ola|Juaniguel]] fue el primero en entrar. Dentro lo esperaba un lugar de terciopelos rojos, luz baja y aroma a perfume caro. Le recibió una elfa llamada [[Lest]], tan impecable como su dicción. Los precios fueron el golpe real: cantidades astronómicas por cualquier servicio. [[Juaniguel de la Ola|Juaniguel]] fingió interés, sonrió con elegancia y se marchó antes de tener que justificar por qué no podía pagar.
+
+Afuera, se reunió con [[Mathulio]] en un callejón discreto. "Esto es para ricos", le dijo. "Los que entran aquí nadan en oro."
+
+Decidieron esperar un rato, ocultos tras unas cajas, observando. Poco después vieron entrar a un tiefling bien vestido, el tipo de presa que podría hacer sonar las campanas de oportunidad en más de una mente. Se miraron, y sin necesidad de palabras, supieron que esa información sería útil. Tal vez [[Alyre A'Dariir|Alyre]] querría oírla. Tal vez había algo que sacar.
+
+
+[[Urko Puño de Viuda Lamento de Hierro|Urko]] se adelantó a la taberna para ver a [[Helga]]. Quería impresionarla, así que se ofreció como cocinero. Ella le hizo una prueba de y acabó contratándole. Mientras tanto, [[Mathulio]] y [[Juaniguel de la Ola|Juaniguel]] despertaban en _El Jarrazo_, donde encontraron una nota clavada en su puerta. No dijeron mucho al respecto, pero la llevaron consigo rumbo al Gremio y la enseñaron al resto de compañeros. 
+
+![[Nota Caraxys.png]]
 
 Allí, [[Kaziya]] —encargada temporal por ausencia de [[Erik Kael Stormborn|Erik]]— les explicó la misión: el mausoleo de la familia [[Casa Talorian|Talorian]] debía ser limpiado de no muertos. Les pagarían 100 piezas de oro, pero había zonas marcadas en el mapa donde no debían entrar bajo ningún concepto. [[Mel]], la curandera, les lanzó un hechizo de _Protección contra el Bien y el Mal_, por lo que pudiera aparecer dentro.
 
 Al llegar al cementerio, una [[Viuda Fillai|figura vestida de negro]] los detuvo en seco. Lloraba sobre dos tumbas con un dolor que no parecía humano. No tanto por el volumen de su llanto, sino por la forma en que calaba los huesos. Su cuerpo, apenas una silueta entre sombras, parecía no ser del todo humano. Verla resultaba insoportable. Escucharla, aún más.
 
-![[Viuda Fillai.png]]
+![[Viuda cementerio.png]]
 
 El grupo intercambió miradas. Decidieron ignorarla.
 
@@ -72,6 +84,6 @@ Y aún quedaban más salas por explorar.
 
 #### Seguir leyendo
 
-[[Sesión|Página anterior]]
-[[Sesión|Página siguiente]]
+[[Sesión 5|Página anterior]]
+[[Sesión 7|Página siguiente]]
 
