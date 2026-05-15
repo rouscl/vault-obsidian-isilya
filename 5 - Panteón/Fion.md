@@ -6,6 +6,8 @@ tags:
 
 # Fion
 
+> ![[Fion.png]]
+
 Dios del viento y las nubes mencionado en la leyenda de [[Lúa]] y [[Reiro]].
 
 ## Información conocida

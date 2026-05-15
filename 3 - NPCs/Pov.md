@@ -9,6 +9,7 @@ tags:
 
 > [!infobox]
 > # Pov
+> ![[Pov.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

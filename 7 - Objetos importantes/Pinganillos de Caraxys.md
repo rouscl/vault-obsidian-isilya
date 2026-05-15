@@ -15,7 +15,7 @@ Los pinganillos de [[Caraxys]] son un conjunto de pequeños auriculares entregad
 
 En la [[Sesión 15]] aparecen junto a una carta de [[Caraxys]] como tres aros azules con símbolos, vinculados a su mensaje sobre profecías, vestigios y una cueva ancestral.
 
-En la [[Sesión 32]] se usan de forma práctica en [[Castimandra]]: [[Mathulio]] ayuda a Alyre por el pinganillo durante su conversación con la goblin del Nido, y más tarde el grupo se coordina por el mismo medio para acudir a la cita con [[Caraxys]] en el claro.
+En la [[Sesión 32]] se usan de forma práctica en [[Castimandra]]: [[Mathulio]] ayuda a Alyre por el pinganillo durante su conversación con la goblin de [[El Nido]], y más tarde el grupo se coordina por el mismo medio para acudir a la cita con [[Caraxys]] en el claro.
 
 ## Estado actual
 

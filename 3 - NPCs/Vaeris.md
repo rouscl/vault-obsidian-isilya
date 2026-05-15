@@ -11,6 +11,7 @@ tags:
 
 > [!infobox]
 > # Vaeris
+> ![[Vaeris.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

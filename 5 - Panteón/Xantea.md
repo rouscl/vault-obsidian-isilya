@@ -7,6 +7,7 @@ tags:
 
 > [!infobox|right]
 > # Xantea
+> ![[Xantea.JPG]]
 > 
 > | Títulos | 
 > | ---- |  

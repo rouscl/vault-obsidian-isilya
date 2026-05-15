@@ -19,7 +19,7 @@ date_created: 2026-04-18
 | Falba | Miembro presente en la Asamblea. |
 | [[Una Fa]] | Miembro presente en la Asamblea. |
 | [[Púpil]] | Jefe del bureau de seguridad. |
-| [[Peeves]] | Contacto del Nido; advierte sobre la vigilancia de la ciudad. |
+| [[Peeves]] | Contacto de [[El Nido]]; advierte sobre la vigilancia de la ciudad. |
 | [[Caraxys]] | Recibe la profecía, afirma que está incompleta y dirige al grupo hacia el este. |
 | [[Reiro]] | Mencionado por [[Caraxys]] como representación del bien en la profecía. |
 
@@ -33,7 +33,7 @@ date_created: 2026-04-18
 - Zonas altas y más humildes de [[Castimandra]]
 - Taberna de Chert
 - Sala de la Asamblea
-- El Nido
+- [[El Nido]]
 - Habitación de la taberna
 - Claro de reunión con [[Caraxys]]
 
@@ -41,7 +41,7 @@ date_created: 2026-04-18
 
 ## Información relevante
 - En [[Castimandra]], muchos druidas pasan la vida en la forma en la que se sienten más cómodos; el gato de la goblin es una persona druida.
-- Alyre contacta con el gremio de ladrones local mediante la goblin del gato y localiza el Nido.
+- Alyre contacta con el gremio de ladrones local mediante la goblin del gato y localiza [[El Nido]].
 - [[Pov]] tatúa a Nérthoran para permitirle lanzar _hablar con los muertos_ una vez al día sin coste.
 - La Asamblea trata la aparición de no muertos, barbechos estériles, libros de nigromancia retirados y asesinatos de niños.
 - Se revela la frase completa: "Los niños no sucumben, los niños no despiertan".
@@ -49,7 +49,7 @@ date_created: 2026-04-18
 - En [[Rogaril]] han empezado a llamar "las lloronas" a entidades como la viuda Fillai.
 - Se sospecha que las lloronas son mujeres que se suicidaron tras matar a sus hijos y fueron alzadas para extender su germen a madres vivas.
 - [[Peeves]] advierte al grupo de que la ciudad está vigilada por búhos y dragoncitos, y que la Asamblea sospecha de Nérthoran.
-- En el Nido encuentran carteles de búsqueda del grupo y un cartel de unas dagas llamadas _Pixie's Wawings_.
+- En [[El Nido]] encuentran carteles de búsqueda del grupo y un cartel de unas dagas llamadas _Pixie's Wawings_.
 - [[Caraxys]] afirma que la profecía está incompleta y que existe una segunda parte en las ruinas del Este.
 - [[Caraxys]] dice no saber de dónde viene la maldición ni por qué el grupo fue elegido, y asegura que no sabía que el ritual de Nérthoran fallaría.
 - [[Caraxys]] interpreta a [[Reiro]] como una representación del bien; el nombre concreto variaría según la cultura.
@@ -69,7 +69,7 @@ Alyre preguntó a Mathulio si había encontrado señales del gremio de ladrones 
 
 Castimandra no se organizaba por barrios, sino por alturas. Las zonas altas eran más descuidadas y menos decoradas, aunque incluso allí las necesidades básicas parecían cubiertas. Alyre encontró una taberna de trabajadores del campo, regentada por Chert. A mediodía vio entrar a la goblin con su gato.
 
-Cuando Alyre se acercó, la goblin preguntó: "¿boa o mamba?". Alyre se quedó sin palabras y Mathulio tuvo que ayudarla por el [[Pinganillos de Caraxys|pinganillo]], improvisando jerga de ladrones como pudo. La conversación salió adelante. La goblin la acompañó fuera y le señaló la ubicación del Nido, explicando que los golpes, fueran ratón o tejón, y los huevos que buscasen tendrían información allí.
+Cuando Alyre se acercó, la goblin preguntó: "¿boa o mamba?". Alyre se quedó sin palabras y Mathulio tuvo que ayudarla por el [[Pinganillos de Caraxys|pinganillo]], improvisando jerga de ladrones como pudo. La conversación salió adelante. La goblin la acompañó fuera y le señaló la ubicación de [[El Nido]], explicando que los golpes, fueran ratón o tejón, y los huevos que buscasen tendrían información allí.
 
 En la sala de la Asamblea había una gran mesa, una vidriera enorme y cuatro estatuas de [[Xantea]]. Estaban Falba, Veggie, [[Una Fa]], el guardián de la biblioteca y otros rostros desconocidos. Una figura llamada [[Tunia]] abrió la sesión y su sola presencia hizo callar a todos.
 
@@ -83,7 +83,7 @@ Una mujer sentada junto a Alyre contó que en [[Rogaril]] había madres que hab�
 
 Tras cenar, una semilla cayó sobre la mesa del grupo y los condujo de nuevo a la sala de la Asamblea. Allí les explicaron que en [[Rogaril]] llamaban "las lloronas" a entidades como la viuda Fillai. Sospechaban que eran mujeres que se habían suicidado después de matar a sus hijos y habían sido alzadas para extender su germen a madres vivas. Prestaron a Nérthoran el libro.
 
-Camino del Nido, el grupo repasó nociones básicas de jerga de ladrones. [[Peeves]] les advirtió de que la ciudad estaba vigilada por búhos y dragoncitos, y de que los miembros de la Asamblea estaban muy mosqueados con Nérthoran. El hecho de que Juaniguel se ofreciera voluntario para el juicio de Paige y Lovna había ayudado a mejorar algo la impresión del grupo. En el tablón del Nido encontraron sus carteles de búsqueda. Mathulio los arrancó junto con un cartel de unas dagas llamadas _Pixie's Wawings_.
+Camino de [[El Nido]], el grupo repasó nociones básicas de jerga de ladrones. [[Peeves]] les advirtió de que la ciudad estaba vigilada por búhos y dragoncitos, y de que los miembros de la Asamblea estaban muy mosqueados con Nérthoran. El hecho de que Juaniguel se ofreciera voluntario para el juicio de Paige y Lovna había ayudado a mejorar algo la impresión del grupo. En el tablón de [[El Nido]] encontraron sus carteles de búsqueda. Mathulio los arrancó junto con un cartel de unas dagas llamadas _Pixie's Wawings_.
 
 De vuelta en la taberna, unos golpes en la ventana anunciaron a un druida que les recordó que no habían acudido a la cita con [[Caraxys]] en el claro. El grupo se coordinó por el [[Pinganillos de Caraxys|pinganillo]] y fue al encuentro.
 

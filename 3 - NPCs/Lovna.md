@@ -10,6 +10,7 @@ tags:
 
 > [!infobox]
 > # Lovna
+> ![[Lovna.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

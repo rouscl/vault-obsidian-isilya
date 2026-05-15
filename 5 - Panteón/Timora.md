@@ -28,7 +28,7 @@
 
 ## Nota de canon
 
-Timora aparece también como Tymora en algunas notas fuente. En el vault se mantiene `Timora` como nombre principal por consistencia con las fichas existentes. La información de dogmas, rituales y estructura religiosa procede del canon base usado como referencia; lo confirmado para la campaña está en "Apariciones en la crónica".
+La información de dogmas, rituales y estructura religiosa procede del canon base usado como referencia; lo confirmado para la campaña está en "Apariciones en la crónica".
 
 ## Dogmas
 

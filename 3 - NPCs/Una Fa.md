@@ -9,6 +9,7 @@ tags:
 
 > [!infobox]
 > # Una Fa
+> ![[Una Fa.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

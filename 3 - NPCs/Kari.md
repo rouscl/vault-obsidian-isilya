@@ -9,6 +9,7 @@ tags:
 
 > [!infobox]
 > # Kari
+> ![[Kari.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

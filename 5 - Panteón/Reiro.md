@@ -6,6 +6,8 @@ tags:
 
 # Reiro
 
+> ![[Reiro.png]]
+
 Dios de la luna roja, la sangre y la fuerza en la tradición antigua de [[Gallix]].
 
 ## Información conocida

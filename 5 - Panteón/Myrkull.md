@@ -1,5 +1,6 @@
 > [!infobox|right]
 > # Myrkull
+> ![[Myrkull.png]]
 > 
 > | Títulos | 
 > | ---- |  

@@ -1,7 +1,7 @@
 
 > [!infobox]
 > # Alyre A'Dariir
-> ![[Alyre.png]]
+> ![[Alyre tatuaje.png]]
 > ###### Información
 > | Raza  | Subraza |
 > | ------ | -------- |
@@ -51,6 +51,8 @@ Ver: [[Alyre A'Dariir - evolución]]
 ## Estado en campaña
 
 Alyre es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]] y [[Nérthoran Yúribel]].
+
+Su aspecto actual incorpora la transformación como bruja de [[Xerathor]] y el tatuaje mágico vinculado a [[Loth]], recibido en [[Castimandra]] durante la [[Sesión 33]].
 
 ## Infancia
 

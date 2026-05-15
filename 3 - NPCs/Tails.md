@@ -9,6 +9,7 @@ tags:
 
 > [!infobox]
 > # Tails
+> ![[Tails.jpg]]
 > ###### Información
 > | Raza  |
 > | ----- |

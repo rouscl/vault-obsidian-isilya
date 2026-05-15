@@ -9,6 +9,7 @@ tags:
 
 > [!infobox]
 > # Púpil
+> ![[Púpil.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

@@ -17,7 +17,7 @@ Castimandra es una ciudad druídica organizada por alturas, con una relación pr
 
 - Castimandra está habitada por druidas y criaturas vinculadas a formas naturales. Algunos druidas pasan la vida en la forma en la que se sienten más cómodos, incluso como animales.
 - La ciudad no parece organizarse por barrios, sino por alturas; las zonas altas son más descuidadas y menos decoradas.
-- Lugares y personas relevantes vistos en la crónica: Correos y paquetes de Lorien, La Carnívora, la biblioteca, la tienda de magia de Lir'Ohn, la herboristería de [[Una Fa]], la herrería de Veggie y la tienda de tatuajes de [[Pov]].
+- Lugares y personas relevantes vistos en la crónica: Correos y paquetes de Lorien, La Carnívora, la biblioteca, la tienda de magia de Lir'Ohn, la herboristería de [[Una Fa]], la herrería de Veggie, la tienda de tatuajes de [[Pov]] y [[El Nido]], sede local del gremio de ladrones.
 
 ## Amenazas actuales
 

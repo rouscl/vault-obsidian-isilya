@@ -9,6 +9,7 @@ tags:
 
 > [!infobox]
 > # Peeves
+> ![[Peeves.png]]
 > ###### Información
 > | Raza  |
 > | ----- |
@@ -20,7 +21,7 @@ tags:
 > 
 > | Lugar de encuentro |
 > | --------- |
-> | El Nido, [[Castimandra]] |
+> | [[El Nido]], [[Castimandra]] |
 > 
 > | Relación       |
 > | ----------------- |
@@ -28,14 +29,14 @@ tags:
 
 ## Información
 
-Peeves es un contacto del gremio de ladrones de [[Castimandra]]. En la [[Sesión 28]], [[Mathulio]] recibe la indicación de preguntar por Peeves al llegar a la ciudad.
+Peeves es un contacto de [[El Nido]], el gremio de ladrones de [[Castimandra]]. En la [[Sesión 28]], [[Mathulio]] recibe la indicación de preguntar por Peeves al llegar a la ciudad.
 
-En la [[Sesión 32]], el grupo entra en el Nido y Peeves advierte de que la ciudad está vigilada por búhos y dragoncitos. También señala que la Asamblea está muy mosqueada con [[Nérthoran Yúribel|Nérthoran]], aunque la intervención de [[Juaniguel de la Ola|Juaniguel]] en favor del juicio de [[Paige]] y [[Lovna]] ha mejorado un poco la impresión del grupo.
+En la [[Sesión 32]], el grupo entra en [[El Nido]] y Peeves advierte de que la ciudad está vigilada por búhos y dragoncitos. También señala que la Asamblea está muy mosqueada con [[Nérthoran Yúribel|Nérthoran]], aunque la intervención de [[Juaniguel de la Ola|Juaniguel]] en favor del juicio de [[Paige]] y [[Lovna]] ha mejorado un poco la impresión del grupo.
 
 ## Notas
 
-- En el tablón del Nido aparecen carteles de búsqueda del grupo y un cartel de unas dagas llamadas _Pixie's Wawings_.
+- En el tablón de [[El Nido]] aparecen carteles de búsqueda del grupo y un cartel de unas dagas llamadas _Pixie's Wawings_.
 
 ## Estado actual
 
-Sigue siendo un contacto útil en [[Castimandra]] y en el Nido. No tiene una trama activa propia, pero puede servir como vía de información, acceso al gremio de ladrones local o lectura de riesgos dentro de la ciudad.
+Sigue siendo un contacto útil en [[Castimandra]] y en [[El Nido]]. No tiene una trama activa propia, pero puede servir como vía de información, acceso al gremio de ladrones local o lectura de riesgos dentro de la ciudad.

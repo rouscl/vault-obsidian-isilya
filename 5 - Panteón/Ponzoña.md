@@ -7,6 +7,7 @@ tags:
 
 > [!infobox|right]
 > # Ponzoña
+> ![[Ponzoña.jpg]]
 > 
 > | Títulos | 
 > | ---- |  

@@ -13,7 +13,7 @@ Relacionado con: [[Alyre A'Dariir]]
 > - **Clase / subclase:** Bruja de [[Xerathor]] tras la transformación de la [[Sesión 29]].
 > - **Aspecto actual:** Ojos completamente rojos, cicatriz de la frente convertida en un hueco luminoso rojo, tatuajes tenues de [[Xerathor]] por el cuerpo y tatuaje mágico vinculado a [[Loth]].
 > - **Estado narrativo:** Personaje jugador activo; viaja con [[Juaniguel de la Ola]], [[Mathulio]] y [[Nérthoran Yúribel]].
-> - **Imagen principal actual:** ![[Alyre bruja.png]]
+> - **Imagen principal actual:** ![[Alyre tatuaje.png]]
 
 ## Línea de evolución
 

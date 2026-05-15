@@ -1,5 +1,6 @@
 > [!infobox|right]
 > # Bhaal
+> ![[Bhaal.jpg]]
 > 
 > | Títulos | 
 > | ---- |  

@@ -5,6 +5,8 @@ tags:
 
 # Kigenlen
 
+> ![[Kigenlen.png]]
+
 Goliath, líder de [[Pico Helado]] y figura radical contraria a los dioses.
 
 ## Información

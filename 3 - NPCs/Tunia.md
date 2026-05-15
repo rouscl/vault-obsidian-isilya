@@ -7,6 +7,7 @@ tags:
 
 > [!infobox]
 > # Tunia
+> ![[Tunia.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

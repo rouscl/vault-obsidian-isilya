@@ -1,5 +1,6 @@
 > [!infobox|right]
 > # Loth
+> ![[Loth.webp]]
 > ![[Lothholysymbol.png]]
 > 
 > | Títulos | 
