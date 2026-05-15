@@ -71,7 +71,7 @@ Castimandra no se organizaba por barrios, sino por alturas. Las zonas altas eran
 
 Cuando Alyre se acercó, la goblin preguntó: "¿boa o mamba?". Alyre se quedó sin palabras y Mathulio tuvo que ayudarla por el [[Pinganillos de Caraxys|pinganillo]], improvisando jerga de ladrones como pudo. La conversación salió adelante. La goblin la acompañó fuera y le señaló la ubicación de [[El Nido]], explicando que los golpes, fueran ratón o tejón, y los huevos que buscasen tendrían información allí.
 
-En la sala de la Asamblea había una gran mesa, una vidriera enorme y cuatro estatuas de [[Xantea]]. Estaban Falba, Veggie, [[Una Fa]], el guardián de la biblioteca y otros rostros desconocidos. Una figura llamada [[Tunia]] abrió la sesión y su sola presencia hizo callar a todos.
+En la sala de la Asamblea había una gran mesa, una vidriera enorme y cuatro estatuas de [[Xauntea]]. Estaban Falba, Veggie, [[Una Fa]], el guardián de la biblioteca y otros rostros desconocidos. Una figura llamada [[Tunia]] abrió la sesión y su sola presencia hizo callar a todos.
 
 Se habló de presencias de no muertos en los terrenos, de barbechos donde no crecía nada y de libros de nigromancia que habían tenido que consultar hasta contactar con [[Felindraith]]. La relación entre nigromancia y muertes de niños quedó sobre la mesa. También se mencionaron muertes y raptos de niños en el [[Puente de la Paz]].
 

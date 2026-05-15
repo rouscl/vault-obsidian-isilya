@@ -27,6 +27,7 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 - Los cuerpos de niños son desmembrados y colgados del árbol, y parecen alimentar de algún modo la amenaza.
 - Dos personas no identificadas abandonaron [[Castimandra]] durante la madrugada posterior al ataque en la granja.
 - El grupo plantea que el guardián más amante del árbol madre podría estar maldito e infectando el árbol desde dentro.
+- La investigación conduce al grupo hacia las [[Ruinas bajo el monolito]], aunque aún no está confirmado si allí está el guardián, una defensa del lugar o una vía de acceso.
 
 ## Sospechas y preguntas abiertas
 
@@ -46,6 +47,7 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 ## Relacionado
 
 - [[Guardián del árbol madre]]
+- [[Ruinas bajo el monolito]]
 - [[Castimandra]]
 - [[Mama Rott]]
 - [[Paige]]

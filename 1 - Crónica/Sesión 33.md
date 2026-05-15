@@ -28,7 +28,7 @@ date_created: 2026-05-15
 - Tienda de tatuajes de [[Pov]]
 - Camino hacia el pueblo abandonado
 - Claro del monolito
-- Ruinas bajo el monolito
+- [[Ruinas bajo el monolito]]
 
 <br>
 
@@ -46,7 +46,7 @@ date_created: 2026-05-15
 - [[Pov]] ofrece a Alyre un tatuaje con materiales del [[Menzoberranzan#Underdark|Underdark]] que la vincula más a [[Loth]] y le permite contactar con ella una vez al mes.
 - [[Pov]] menciona que una drow, probablemente [[Vaeris]], se hizo un tatuaje relacionado con el mar.
 - En el claro del pueblo abandonado, un monolito plantea el enigma: "la vida es un ciclo que vuelve a empezar, pero sólo una vez lo puedes probar".
-- Las ruinas contienen cristales y glifos en fae con la frase: "Con un reflejo has de pagar".
+- Las [[Ruinas bajo el monolito|ruinas]] contienen cristales y glifos en fae con la frase: "Con un reflejo has de pagar".
 - Un cadáver interrogado por Nérthoran afirma que fue traicionado por un amigo y apuñalado.
 - La sesión termina cuando Lothi se sube a una estatua y unas gárgolas búho enormes se activan de forma amenazante.
 
@@ -71,7 +71,7 @@ De camino al pueblo abandonado, Púpil habló desde las sombras. Sabía que el g
 
 Antes de seguir hacia la aldea, pasaron por la tienda de tatuajes para que Nérthoran pagase su deuda. [[Pov]] quedó fascinado al ver la piel drow de Alyre y le ofreció tatuarla cobrando sólo los materiales, procedentes del [[Menzoberranzan#Underdark|Underdark]]. Le propuso un tatuaje que la vincularía más a [[Loth]] y le permitiría contactar con ella una vez al mes. Alyre aceptó, no sin advertirle con toda claridad de que cualquier sacrilegio sobre su cuerpo tendría consecuencias peores que la muerte. Pov también mencionó que otra drow había pasado por allí para hacerse un tatuaje relacionado con el mar; Alyre concluyó que probablemente se trataba de [[Vaeris]], aunque Pov no conocía su nombre.
 
-El camino hacia el pueblo abandonado los llevó hasta un claro con un monolito enorme, marcado por un mecanismo de apariencia antigua. En él podía leerse: "la vida es un ciclo que vuelve a empezar, pero sólo una vez lo puedes probar". Al resolver el enigma, se abrió la entrada a unas ruinas.
+El camino hacia el pueblo abandonado los llevó hasta un claro con un monolito enorme, marcado por un mecanismo de apariencia antigua. En él podía leerse: "la vida es un ciclo que vuelve a empezar, pero sólo una vez lo puedes probar". Al resolver el enigma, se abrió la entrada a unas [[Ruinas bajo el monolito|ruinas]].
 
 Dentro encontraron un gran pasillo con cristales y glifos en fae: "Con un reflejo has de pagar". Mathulio acercó un cadáver a un espejo para que Nérthoran pudiera hablar con él. El muerto contó que un amigo lo había traicionado y apuñalado. El grupo consiguió cruzar el pasillo dejando a un no muerto en la entrada.
 
@@ -87,6 +87,10 @@ Al otro lado había una sala de mampostería elaborada y una estatua al fondo. A
 - El tatuaje de Alyre abre una vía directa y periódica con [[Loth]], aunque queda por ver cómo responderá la diosa y qué precio simbólico tendrá ese vínculo.
 - La drow tatuada por [[Pov]] parece ser [[Vaeris]], pero es una deducción de Alyre, no una identificación confirmada por Pov.
 
+
+<br>
+
+![[Alyre y Mathulio en las ruinas bajo el monolito.png]]
 
 <br>
 

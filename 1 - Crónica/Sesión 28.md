@@ -88,6 +88,8 @@ Alyre quedó desangrándose.
 - El uso de la imagen de [[Elendar]] demuestra que [[Bhaal]] conoce puntos vulnerables muy íntimos de Alyre.
 
 
+![[Alyre y el engendro de Bhaal v2.png]]
+
 <br>
 
 <br>

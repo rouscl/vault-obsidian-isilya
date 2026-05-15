@@ -50,7 +50,6 @@ date_created: 2025-10-25
 - La tripulación de La Impalante ofrece al grupo quedarse dos semanas y superar una prueba en vez de entregarlos a cazarrecompensas.
 - Tails identifica el ancla de Juaniguel como señal de una familia importante para los lobos del mar.
 - La prueba consiste en encontrar un cofre en una isla; el cofre solo contiene una nota burlona.
-- Alyre conserva un pergamino de disco flotante de Tenser, veneno de Beso de Umbra y espinas de sirena.
 
 
 <br>

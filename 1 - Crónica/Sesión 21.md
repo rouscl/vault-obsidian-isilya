@@ -10,9 +10,9 @@ date_created: 2025-08-30
 |---------|--------------------------------------------| 
 | [[Xerathor]] | Presiona mentalmente a Alyre recordándole que su pacto era a cambio de sangre.| 
 | Enano moribundo | Miembro de un grupo enviado desde [[Rogaril]] para buscar la profecía de los vestigios; Alyre lo mata tras ganarse su confianza.|
-| Hombre fumador | Se presenta ante [[Juaniguel de la Ola]] y confirma que todos buscan un [[Pergamino de la profecía de los vestigios|pergamino con una profecía]].|
+| Hombre fumador | Se presenta ante [[Juaniguel de la Ola]] y confirma que todos buscan un [[Pergamino de la profecía de los vestigios]].|
 | Yeti gigantesco | Guardián de la arena final; al morir aparece mágicamente el pergamino.|
-| [[Jackie]] | Reaparece fuera de la montaña y se interesa por el [[Pergamino de la profecía de los vestigios|pergamino de la profecía]].|
+| [[Jackie]] | Reaparece fuera de la montaña y se interesa por el [[Pergamino de la profecía de los vestigios]].|
 
 <br>
 

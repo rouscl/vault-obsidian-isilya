@@ -68,6 +68,8 @@ La noche transcurrió tranquila. Alyre compartió con sus compañeros la carta d
 
 <br>
 
+![[Alyre encuentro con Bhaal capítulo 25 v2.png]]
+
 <br>
 
 #### Seguir leyendo
