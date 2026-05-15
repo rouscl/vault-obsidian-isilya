@@ -12,7 +12,8 @@ La usuaria no tiene que pedir ramas, commits, staging ni mensajes tecnicos salvo
 4. Separar los cambios nuevos de cualquier cambio previo de la usuaria.
 5. Hacer cambios pequeños y coherentes.
 6. Verificar lo que sea razonable verificar.
-7. Explicar al cierre que se ha cambiado, que queda pendiente y que comandos git se han ejecutado.
+7. Si se ha subido a GitHub, comprobar que CI ha terminado en verde.
+8. Explicar al cierre que se ha cambiado, que queda pendiente y que comandos git se han ejecutado.
 
 ## Politica automatica
 
@@ -118,6 +119,8 @@ El repositorio debe tener comprobaciones automaticas para reducir friccion y obl
 
 Si CI falla, Codex debe tratarlo como parte normal del cierre de la tarea: leer el fallo, corregir lo que proceda y volver a verificar. No debe pedir a la usuaria que decida detalles tecnicos salvo que el fallo revele una decision de canon o una mezcla peligrosa de cambios.
 
+Codex no debe decir que una tarea subida a GitHub esta terminada, cerrada o bien hasta que los workflows de GitHub Actions asociados a ese commit hayan terminado correctamente. Las validaciones locales sirven para anticipar problemas, pero no sustituyen el verde real de CI.
+
 ## Trazabilidad al final
 
 Cuando Codex termine una tarea con git, debe informar de forma breve:
@@ -126,6 +129,7 @@ Cuando Codex termine una tarea con git, debe informar de forma breve:
 - commit creado, si lo hay;
 - archivos principales modificados;
 - verificacion realizada;
+- estado de CI en GitHub, si se ha hecho push;
 - cambios existentes que se dejaron fuera, si los habia.
 
 Si no se ha podido ejecutar git, debe decir exactamente que ha fallado y que accion manual queda pendiente.
