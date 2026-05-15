@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "4b56b88930afb9ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e87c08b63357f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c40b8ea72cfb40a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Objetos importantes/Pinganillos de Caraxys.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pinganillos de Caraxys"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc76b4324c9be7b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8725a9979a58b53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda32a76fcf34c88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ff1b24bdccd5217a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "da8baed0ca78d29c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "73b503fc35e2c464",
+    "type": "split",
+    "children": [
+      {
+        "id": "22bd35ab19ca53a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78671f1e9a498e4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Crónica/Sin título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sin título"
+            }
+          },
+          {
+            "id": "2d19cecfab3e418c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Crónica/Sin título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Sin título"
+            }
+          },
+          {
+            "id": "ef9417137a8377cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "eea9beb30d11c076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Casas nobles/Casa Valdrak.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Casa Valdrak"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0c40b8ea72cfb40a",
+  "lastOpenFiles": [
+    "7 - Objetos importantes/Pergamino de la profecía de los vestigios.md",
+    "7 - Objetos importantes/Pinganillos de Caraxys.md",
+    "4 - Personajes/Juaniguel de la Ola - evolución.md",
+    "4 - Personajes/Duster Sukuna - evolución.md",
+    "4 - Personajes/Alyre A'Dariir - evolución.md",
+    "4 - Personajes/Mathulio - evolución.md",
+    "4 - Personajes/Nérthoran Yúribel - evolución.md",
+    "5 - Panteón/Xantea.md",
+    "5 - Panteón/Reiro.md",
+    "5 - Panteón/Verán.md",
+    "3 - NPCs/Mama Rott.md",
+    "3 - NPCs/Livra.md",
+    "3 - NPCs/Kerindall.md",
+    "3 - NPCs/Jasper.md",
+    "3 - NPCs/Bornira.md",
+    "3 - NPCs/Azahara.md",
+    "0 - img/Mama Rott.png",
+    "0 - img/Verán.jpeg",
+    "9 - Líneas argumentales/Índice de líneas argumentales.md",
+    "0 - img/Jasper.jpg",
+    "0 - img/Bornira Rhomduil.png",
+    "10 - Gestión y recursos/Chuleta pre-sesión de Alyre.md",
+    "10 - Gestión y recursos/Pendientes del vault.md",
+    "10 - Gestión y recursos/Pendientes de Alyre.md",
+    "2 - Lugares/Ibermaris.md",
+    "2 - Lugares/Gallix.md",
+    "2 - Lugares/Felindraith.md",
+    "2 - Lugares/Espinazo del Mundo.md",
+    "2 - Lugares/Castimandra.md",
+    "2 - Lugares/Almariz.md",
+    "10 - Gestión y recursos",
+    "0 - img/Juaniguel y Azahara.jpeg",
+    "0 - img/Luma.png",
+    "0 - img/Juaniguel pirata.png",
+    "0 - img/Alyre_pirata.png",
+    "0 - img/Nérthoran pirata.png",
+    "0 - img/Mathulio pirata.png",
+    "9 - Líneas argumentales",
+    "8 - Misiones",
+    "7 - Objetos importantes",
+    "Sin título.canvas",
+    "30/08",
+    "30",
+    "Sin nombre 1",
+    "Sin nombre",
+    "12/04",
+    "12",
+    "Personajes/Sin título.canvas"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "image_snippets",
+    "S - All Alt Themes",
+    "J1L - Graph View"
+  ],
+  "theme": "obsidian"
+}
