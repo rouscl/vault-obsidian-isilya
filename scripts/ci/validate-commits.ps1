@@ -28,8 +28,8 @@ if (-not $commits) {
 $failures = New-Object System.Collections.Generic.List[string]
 
 foreach ($commit in $commits) {
-  $subject = git log -1 --format=%s $commit
-  $body = git log -1 --format=%b $commit
+  $subject = (git log -1 --format=%s $commit) -join "`n"
+  $body = (git log -1 --format=%b $commit) -join "`n"
 
   $typePattern = "^(" + (($allowedTypes | ForEach-Object { [regex]::Escape($_) }) -join "|") + "): .+"
   if ($subject -notmatch $typePattern) {
