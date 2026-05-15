@@ -13,9 +13,19 @@ function Get-RelativeVaultPath {
     [Parameter(Mandatory = $true)][string]$TargetPath
   )
 
-  $baseUri = [System.Uri]((Join-Path $BasePath ".") + [System.IO.Path]::DirectorySeparatorChar)
-  $targetUri = [System.Uri]$TargetPath
-  return [System.Uri]::UnescapeDataString($baseUri.MakeRelativeUri($targetUri).ToString()).Replace("\", "/")
+  $baseFull = [System.IO.Path]::GetFullPath($BasePath).Replace("\", "/").TrimEnd("/")
+  $targetFull = [System.IO.Path]::GetFullPath($TargetPath).Replace("\", "/")
+  $prefix = "$baseFull/"
+
+  if ($targetFull.StartsWith($prefix, [System.StringComparison]::OrdinalIgnoreCase)) {
+    return $targetFull.Substring($prefix.Length)
+  }
+
+  if ($targetFull -eq $baseFull) {
+    return ""
+  }
+
+  throw "Target path is not inside vault root: $TargetPath"
 }
 
 $failures = New-Object System.Collections.Generic.List[string]
