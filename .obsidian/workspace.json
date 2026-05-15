@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e87c08b63357f8",
+        "id": "5405389e974a4551",
         "type": "tabs",
         "children": [
           {
-            "id": "0c40b8ea72cfb40a",
+            "id": "816f6f68cd6fdeff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Objetos importantes/Pinganillos de Caraxys.md",
+                "file": "5 - Panteón/Ponzoña.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pinganillos de Caraxys"
+              "title": "Ponzoña"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 244.5
   },
   "right": {
     "id": "73b503fc35e2c464",
@@ -169,45 +169,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c40b8ea72cfb40a",
+  "active": "eda32a76fcf34c88",
   "lastOpenFiles": [
-    "7 - Objetos importantes/Pergamino de la profecía de los vestigios.md",
-    "7 - Objetos importantes/Pinganillos de Caraxys.md",
-    "4 - Personajes/Juaniguel de la Ola - evolución.md",
-    "4 - Personajes/Duster Sukuna - evolución.md",
-    "4 - Personajes/Alyre A'Dariir - evolución.md",
-    "4 - Personajes/Mathulio - evolución.md",
-    "4 - Personajes/Nérthoran Yúribel - evolución.md",
-    "5 - Panteón/Xantea.md",
+    "scripts/ci/validate-vault.ps1",
+    "scripts/ci/validate-commits.ps1",
+    "scripts/ci",
+    "scripts",
+    "AGENTS.md",
+    "GIT-WORKFLOW.md",
     "5 - Panteón/Reiro.md",
-    "5 - Panteón/Verán.md",
-    "3 - NPCs/Mama Rott.md",
-    "3 - NPCs/Livra.md",
-    "3 - NPCs/Kerindall.md",
-    "3 - NPCs/Jasper.md",
-    "3 - NPCs/Bornira.md",
-    "3 - NPCs/Azahara.md",
-    "0 - img/Mama Rott.png",
-    "0 - img/Verán.jpeg",
+    "5 - Panteón/Timora.md",
+    "5 - Panteón/Tyr.md",
+    "0 - img/Tyr.png",
+    "6 - Casas nobles/Casa Ilythiss.md",
+    "6 - Casas nobles/Casa Eledhril.md",
+    "6 - Casas nobles/Casa A'Dariir.md",
+    "8 - Misiones/Romper la maldición del vínculo.md",
+    "8 - Misiones/Reliquias y vestigios.md",
+    "8 - Misiones/Guardián del árbol madre.md",
     "9 - Líneas argumentales/Índice de líneas argumentales.md",
-    "0 - img/Jasper.jpg",
-    "0 - img/Bornira Rhomduil.png",
-    "10 - Gestión y recursos/Chuleta pre-sesión de Alyre.md",
-    "10 - Gestión y recursos/Pendientes del vault.md",
-    "10 - Gestión y recursos/Pendientes de Alyre.md",
-    "2 - Lugares/Ibermaris.md",
-    "2 - Lugares/Gallix.md",
-    "2 - Lugares/Felindraith.md",
-    "2 - Lugares/Espinazo del Mundo.md",
-    "2 - Lugares/Castimandra.md",
-    "2 - Lugares/Almariz.md",
+    "9 - Líneas argumentales/Gallix y la crisis de los dioses.md",
+    "9 - Líneas argumentales/Amenaza nigromántica de Castimandra.md",
+    "9 - Líneas argumentales/Alyre entre Loth, Xerathor y Bhaal.md",
+    "5 - Panteón/Bhaal.md",
+    "4 - Personajes/Alyre A'Dariir.md",
+    "4 - Personajes/Mathulio.md",
+    "5 - Panteón/Xantea.md",
+    "5 - Panteón/Verán.md",
+    "5 - Panteón/Ponzoña.md",
+    "5 - Panteón/Myrkull.md",
+    "5 - Panteón/Loth.md",
+    "5 - Panteón/Fion.md",
+    "5 - Panteón/Dios barbudo del mar.md",
+    "0 - img/Portada.png",
+    "0 - img/Loth.webp",
+    "0 - img/Fion.png",
+    "0 - img/Bhaal.jpg",
+    "0 - img/Myrkull.png",
+    "0 - img/Ponzoña.jpg",
+    "0 - img/Reiro.png",
+    "0 - img/Xantea.JPG",
+    "0 - img/Una Fa.png",
     "10 - Gestión y recursos",
-    "0 - img/Juaniguel y Azahara.jpeg",
-    "0 - img/Luma.png",
-    "0 - img/Juaniguel pirata.png",
-    "0 - img/Alyre_pirata.png",
-    "0 - img/Nérthoran pirata.png",
-    "0 - img/Mathulio pirata.png",
     "9 - Líneas argumentales",
     "8 - Misiones",
     "7 - Objetos importantes",
@@ -215,9 +218,6 @@
     "30/08",
     "30",
     "Sin nombre 1",
-    "Sin nombre",
-    "12/04",
-    "12",
     "Personajes/Sin título.canvas"
   ]
 }

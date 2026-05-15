@@ -1,58 +1,44 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:\"2 - Lugares\" OR path:\"4 - Personajes\" OR path:\"5 - Panteón\"  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"4 - Personajes\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2735182
-      }
-    },
-    {
-      "query": "path:\"3 - NPCs\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15126327
-      }
-    },
-    {
       "query": "path:\"2 - Lugares\"  ",
       "color": {
         "a": 1,
-        "rgb": 7236265
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:\"1 - Crónica\"  ",
+      "query": "path:\"4 - Personajes\"  ",
       "color": {
         "a": 1,
-        "rgb": 9091015
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:\"6 - Casas nobles\"  ",
+      "query": "path:\"5 - Panteón\"  ",
       "color": {
         "a": 1,
-        "rgb": 7878330
+        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.99751383463542,
-  "lineSizeMultiplier": 2.030810546875,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.39453125,
-  "repelStrength": 11.3053385416667,
-  "linkStrength": 0.52001953125,
-  "linkDistance": 398,
-  "scale": 0.5234865442151497,
-  "close": true
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0289421418020035,
+  "close": false
 }
