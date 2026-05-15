@@ -1,0 +1,21 @@
+name: Vault validation
+
+on:
+  pull_request:
+  push:
+    branches:
+      - "**"
+
+jobs:
+  validate-vault:
+    name: Validate vault structure and links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate vault
+        shell: pwsh
+        run: ./scripts/ci/validate-vault.ps1

@@ -1,0 +1,21 @@
+name: Commit trace
+
+on:
+  pull_request:
+  push:
+    branches:
+      - "**"
+
+jobs:
+  validate-commits:
+    name: Validate verbose commit history
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate commit messages
+        shell: pwsh
+        run: ./scripts/ci/validate-commits.ps1
