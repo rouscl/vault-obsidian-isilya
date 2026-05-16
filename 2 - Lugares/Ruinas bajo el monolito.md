@@ -11,7 +11,7 @@ tags:
 
 ## Descripción
 
-Las ruinas bajo el monolito son un complejo antiguo situado cerca de un pueblo abandonado en las inmediaciones de [[Castimandra]]. El acceso se abre desde un claro presidido por un monolito enorme, marcado por un mecanismo de apariencia antigua.
+Las ruinas bajo el monolito son un complejo antiguo situado cerca de un pueblo abandonado en las inmediaciones de [[Castimandra]]. El grupo llega hasta ellas siguiendo el encargo secundario de [[Lir'Ohn]], la regente de la tienda de magia, que promete acelerar la eclosión del [[Huevo de Juaniguel]] si recuperan para ella un objeto mágico. El acceso se abre desde un claro presidido por un monolito enorme, marcado por un mecanismo de apariencia antigua.
 
 En la [[Sesión 33]], el monolito plantea el enigma: "la vida es un ciclo que vuelve a empezar, pero sólo una vez lo puedes probar". Al resolverlo, el grupo descubre la entrada a las ruinas.
 
@@ -23,25 +23,32 @@ En la [[Sesión 33]], el monolito plantea el enigma: "la vida es un ciclo que vu
 - El cadáver afirma que fue traicionado por un amigo y apuñalado.
 - El grupo cruza el pasillo dejando a un no muerto en la entrada.
 - Más adelante hay una sala de mampostería elaborada, con una estatua al fondo.
-- Cuando Lothi se sube a la estatua, se activan unas gárgolas búho enormes de actitud amenazante.
+- Cuando Lothi se sube a la estatua, se activan unas gárgolas con forma de lechúcico: cuerpo enorme y garras de oso grande, con cabeza de búho.
+- En la [[Sesión 34]], la sala de las gárgolas empieza a derrumbarse durante el combate.
+- [[Nérthoran Yúribel|Nérthoran]] y [[Juaniguel de la Ola|Juaniguel]] mueren en el enfrentamiento, aunque ambos son devueltos a la vida por la [[La Luna Roja|Luna Roja]].
+- Tras huir del derrumbe, el grupo alcanza una sala amplia con luz y escaleras ascendentes.
+- Más adelante hay una cámara inundada con una puerta grande de grabados rúnicos y dos palancas enormes. Al manipularlas, el nivel del agua cambia y aparece un humo verde.
+- Detrás de la puerta hay una gran sala cubierta de musgo verde, con una figura estilizada que se mueve de forma errática al fondo.
 
 ## Estado actual
 
-El grupo está explorando las ruinas. Todavía no está confirmado si este lugar contiene al guardián del árbol madre, una vía hacia él o una prueba previa relacionada con la corrupción de [[Castimandra]].
+El grupo está explorando las ruinas para cumplir el [[Encargo de Lir'Ohn]]. No consta que el lugar forme parte de la misión del guardián del árbol madre, aunque la muerte y resurrección de Juaniguel y Nérthoran dentro de las ruinas ha reforzado la conexión entre las reliquias, la [[La Luna Roja|Luna Roja]] y fuerzas capaces de intervenir entre vida y muerte.
 
 ## Dudas abiertas
 
 - Qué función cumplen el monolito, el enigma del ciclo vital y el pago mediante reflejo.
 - Quién construyó las ruinas y por qué los glifos están en fae.
-- Qué relación tienen las gárgolas búho con la vigilancia de [[Castimandra]] o con la defensa del lugar.
-- Si el cadáver traicionado pertenece a la historia del guardián, de las ruinas o de otro conflicto anterior.
+- Qué relación tienen las gárgolas lechúcico con la vigilancia de [[Castimandra]] o con la defensa del lugar.
+- Si el cadáver traicionado pertenece a la historia de las ruinas, al objeto buscado por [[Lir'Ohn]] o a otro conflicto anterior.
+- Qué es la figura estilizada de la sala cubierta de musgo verde.
 
 ## Sesiones relacionadas
 
 - [[Sesión 33]]
+- [[Sesión 34]]
 
 ## Relacionado
 
 - [[Castimandra]]
-- [[Guardián del árbol madre]]
-- [[Amenaza nigromántica de Castimandra]]
+- [[Encargo de Lir'Ohn]]
+- [[Huevo de Juaniguel]]

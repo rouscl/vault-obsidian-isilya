@@ -50,6 +50,8 @@ Ver: [[Juaniguel de la Ola - evolución]]
 
 Juaniguel es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]] y [[Nérthoran Yúribel]].
 
+En la [[Sesión 34]], Juaniguel muere en las [[Ruinas bajo el monolito]] y es devuelto a la vida por la [[La Luna Roja|Luna Roja]]. Durante su muerte alcanza los jardines dorados de [[Timora]], pero es arrancado hacia un mar infinito donde la Luna Roja se manifiesta ante él y [[Nérthoran Yúribel|Nérthoran]]. Juaniguel identifica a esa entidad como Grana en canciones de [[Ibermaris]] y como [[Reiro]] en [[Gallix]].
+
 ## **Infancia**
 
 Juaniguel creció en la aldea costera de [[Ibermaris]], sin conocer a sus padres biológicos. Fue criado por un viejo marinero llamado **[[Ri’La’Or Stolzmoore]]**, a quien cariñosamente llamaba "el Viejo Morsa", por su barba descomunal. [[Ri’La’Or Stolzmoore|Ri'La'Or]], antiguo pirata y aventurero, le transmitió no solo su apellido, sino también un legado de historias, valores e independencia.

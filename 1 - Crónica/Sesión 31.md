@@ -18,7 +18,7 @@ date_created: 2026-04-02
 | Falba | Atiende el servicio de correos y banco de Lorien. |
 | [[Xauntea]] | Patrona principal de [[Castimandra]]. |
 | Inei | Tabernera de La Carnívora. |
-| Lir'Ohn | Dendrómata que regenta la tienda de magia. |
+| [[Lir'Ohn]] | Dendrómata que regenta la tienda de magia. |
 | [[Una Fa]] | Herborista que vende útiles de envenenador y deja una muestra a Alyre. |
 
 <br>
@@ -29,7 +29,7 @@ date_created: 2026-04-02
 - Correos y paquetes de Lorien
 - Banco de [[Castimandra]]
 - La Carnívora
-- Tienda de magia de Lir'Ohn
+- Tienda de magia de [[Lir'Ohn]]
 - Herboristería de [[Una Fa]]
 - Biblioteca de [[Castimandra]]
 
@@ -44,7 +44,7 @@ date_created: 2026-04-02
 - Alyre comprende que Jasper ya sabe que ella pertenece a la [[Casa A'Dariir]] y quién es su madre.
 - Alyre tiene ingresadas 1000 po de [[Caraxys]] y el dinero prometido por [[Paige]].
 - [[Nérthoran Yúribel|Nérthoran]] descubre que tiene una cuenta bancaria compartida con sus padres y mucho dinero.
-- Lir'Ohn puede ayudar a eclosionar el huevo de [[Juaniguel de la Ola|Juaniguel]] si el grupo recupera un objeto mágico a las afueras de la ciudad.
+- [[Lir'Ohn]] puede ayudar a eclosionar el [[Huevo de Juaniguel]] si el grupo recupera un objeto mágico a las afueras de la ciudad.
 - En la biblioteca faltan muchos libros sobre nigromancia; el bibliotecario responde "Asamblea".
 - Nérthoran recibe prestado el libro _Transmutaciones olvidadas_.
 - [[Una Fa]] deja a Alyre una flor con una nota, invitándola a investigar con venenos.
@@ -68,7 +68,7 @@ En el banco, Alyre ingresó cinco amatistas y comprobó que tenía las 1000 piez
 
 La taberna elegida fue La Carnívora. La regentaba Inei, una criatura de casi tres metros y voz muy suave. Allí vieron también a una goblin con un gato precioso.
 
-En la tienda de magia, Lir'Ohn, un dendrómata, dijo a Juaniguel que podía ayudarle a eclosionar su huevo en tres días si el grupo recuperaba para él un objeto mágico situado a las afueras de la ciudad.
+En la tienda de magia, [[Lir'Ohn]], una dendrómata, dijo a [[Juaniguel de la Ola|Juaniguel]] que podía ayudarle a eclosionar el [[Huevo de Juaniguel|huevo]] en tres días si el grupo recuperaba para ella un objeto mágico situado a las afueras de la ciudad.
 
 Alyre visitó una herboristería atendida por [[Una Fa]]. La artesana le mostró unos útiles de envenenador magníficos: pesados, estables, completos y hermosos. Alyre le propuso hacer negocios en el futuro si conseguía volver al Underdark y abrir una vía para vender aquellas herramientas. Más tarde, al enseñar sus útiles a Mathulio, encontró una cúpula con una flor y una nota de [[Una Fa]], que la animaba a divertirse investigando con venenos.
 

@@ -9,7 +9,7 @@ date_created: 2026-05-15
 |   NPC   |                   Motivo                   |
 |---------|--------------------------------------------|
 | [[Alyre A'Dariir]] | Asiste al juicio, negocia el encargo de [[Castimandra]], acepta un tatuaje mágico vinculado a [[Loth]] y explora las ruinas. |
-| [[Juaniguel de la Ola]] | Declara como testigo en el juicio de [[Paige]] y [[Lovna]], mencionando a la [[Viuda Fillai]]. |
+| [[Juaniguel de la Ola]] | Declara como testigo en el juicio de [[Paige]] y [[Lovna]], mencionando a la [[Viuda Fillai]], y sigue el encargo de [[Lir'Ohn]] vinculado a su huevo. |
 | [[Nérthoran Yúribel]] | Estudia el libro sobre nigromancia, identifica información sobre las lloronas y usa _hablar con los muertos_ en las ruinas. |
 | [[Mathulio]] | Negocia con [[Púpil]] la retirada de su búsqueda en [[Castimandra]] y ayuda a cruzar el pasillo del reflejo. |
 | [[Paige]] | Comparece en el juicio con aspecto desmejorado y mantiene una ira contenida hacia casi todo el grupo. |
@@ -45,10 +45,11 @@ date_created: 2026-05-15
 - [[Púpil]] acepta retirar la búsqueda de Mathulio y Alyre en [[Castimandra]] como parte del pago por la misión.
 - [[Pov]] ofrece a Alyre un tatuaje con materiales del [[Menzoberranzan#Underdark|Underdark]] que la vincula más a [[Loth]] y le permite contactar con ella una vez al mes.
 - [[Pov]] menciona que una drow, probablemente [[Vaeris]], se hizo un tatuaje relacionado con el mar.
+- El grupo llega al claro del monolito siguiendo el [[Encargo de Lir'Ohn]], no la misión del guardián del árbol madre.
 - En el claro del pueblo abandonado, un monolito plantea el enigma: "la vida es un ciclo que vuelve a empezar, pero sólo una vez lo puedes probar".
 - Las [[Ruinas bajo el monolito|ruinas]] contienen cristales y glifos en fae con la frase: "Con un reflejo has de pagar".
 - Un cadáver interrogado por Nérthoran afirma que fue traicionado por un amigo y apuñalado.
-- La sesión termina cuando Lothi se sube a una estatua y unas gárgolas búho enormes se activan de forma amenazante.
+- La sesión termina cuando Lothi se sube a una estatua y unas gárgolas con forma de lechúcico se activan de forma amenazante: cuerpo enorme y garras de oso grande, con cabeza de búho.
 
 
 <br>
@@ -67,15 +68,15 @@ Mientras tanto, Nérthoran encontró en el libro que estudiaba una explicación 
 
 El grupo compartió una teoría con el consejo: quizá el guardián que más amaba al árbol madre había sido maldecido y estaba infectándolo desde dentro, provocando la destrucción progresiva de la ciudad. Las autoridades prometieron entregarles la ubicación del guardián. Si estaban en lo cierto y acababan con él, recibirían una vivienda cada uno, sus necesidades básicas cubiertas de por vida y el título de héroes de Castimandra. Alyre dejó claro que no quería ningún título; prefería el anonimato. Nérthoran pidió quedarse con toda la información nigromántica que hubiera en el lugar del guardián, si la había.
 
-De camino al pueblo abandonado, Púpil habló desde las sombras. Sabía que el grupo tenía una recompensa sobre sus cabezas. [[Mathulio]] le propuso un cambio de contrato: si la misión salía adelante, Púpil haría desaparecer la búsqueda de Mathulio en Castimandra. Alyre se sumó a esa versión del pago. Púpil aceptó, recogió sus carteles de "se busca" y desapareció.
+Tras cerrar esa negociación, el grupo retomó el encargo secundario de [[Lir'Ohn]], la regente de la tienda de magia que había prometido ayudar a [[Juaniguel de la Ola|Juaniguel]] con su huevo si recuperaban un objeto mágico a las afueras. De camino al pueblo abandonado, Púpil habló desde las sombras. Sabía que el grupo tenía una recompensa sobre sus cabezas. [[Mathulio]] le propuso un cambio de contrato: si la misión del guardián salía adelante, Púpil haría desaparecer la búsqueda de Mathulio en Castimandra. Alyre se sumó a esa versión del pago. Púpil aceptó, recogió sus carteles de "se busca" y desapareció.
 
 Antes de seguir hacia la aldea, pasaron por la tienda de tatuajes para que Nérthoran pagase su deuda. [[Pov]] quedó fascinado al ver la piel drow de Alyre y le ofreció tatuarla cobrando sólo los materiales, procedentes del [[Menzoberranzan#Underdark|Underdark]]. Le propuso un tatuaje que la vincularía más a [[Loth]] y le permitiría contactar con ella una vez al mes. Alyre aceptó, no sin advertirle con toda claridad de que cualquier sacrilegio sobre su cuerpo tendría consecuencias peores que la muerte. Pov también mencionó que otra drow había pasado por allí para hacerse un tatuaje relacionado con el mar; Alyre concluyó que probablemente se trataba de [[Vaeris]], aunque Pov no conocía su nombre.
 
-El camino hacia el pueblo abandonado los llevó hasta un claro con un monolito enorme, marcado por un mecanismo de apariencia antigua. En él podía leerse: "la vida es un ciclo que vuelve a empezar, pero sólo una vez lo puedes probar". Al resolver el enigma, se abrió la entrada a unas [[Ruinas bajo el monolito|ruinas]].
+El camino del encargo de Lir'Ohn los llevó hasta un claro con un monolito enorme, marcado por un mecanismo de apariencia antigua. En él podía leerse: "la vida es un ciclo que vuelve a empezar, pero sólo una vez lo puedes probar". Al resolver el enigma, se abrió la entrada a unas [[Ruinas bajo el monolito|ruinas]].
 
 Dentro encontraron un gran pasillo con cristales y glifos en fae: "Con un reflejo has de pagar". Mathulio acercó un cadáver a un espejo para que Nérthoran pudiera hablar con él. El muerto contó que un amigo lo había traicionado y apuñalado. El grupo consiguió cruzar el pasillo dejando a un no muerto en la entrada.
 
-Al otro lado había una sala de mampostería elaborada y una estatua al fondo. Alyre envió a Lothi hacia ella. Cuando se subió a la figura, se oyó el movimiento pesado de piedras enormes. Unas gárgolas búho se activaron y clavaron en el grupo una mirada amenazante.
+Al otro lado había una sala de mampostería elaborada y una estatua al fondo. Alyre envió a Lothi hacia ella. Cuando se subió a la figura, se oyó el movimiento pesado de piedras enormes. Unas gárgolas con forma de lechúcico, de cuerpo enorme y garras de oso grande con cabeza de búho, se activaron y clavaron en el grupo una mirada amenazante.
 
 <br>
 
@@ -99,4 +100,4 @@ Al otro lado había una sala de mampostería elaborada y una estatua al fondo. A
 #### Seguir leyendo
 
 [[Sesión 32|Página anterior]]
-Página siguiente pendiente
+[[Sesión 34|Página siguiente]]

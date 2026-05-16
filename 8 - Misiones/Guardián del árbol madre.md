@@ -9,7 +9,7 @@ tags:
 
 ## Estado
 
-Misión activa en [[Castimandra]]. El grupo ha aceptado investigar y, si la teoría resulta correcta, acabar con el guardián del árbol madre. La pista actual conduce a las [[Ruinas bajo el monolito]], cerca de un pueblo abandonado.
+Misión activa en [[Castimandra]]. El grupo ha aceptado investigar y, si la teoría resulta correcta, acabar con el guardián del árbol madre. La ubicación exacta del guardián queda pendiente de seguir o confirmar; no debe confundirse con el encargo secundario de [[Lir'Ohn]] en las [[Ruinas bajo el monolito]].
 
 ## Origen de la misión
 
@@ -19,7 +19,7 @@ El grupo plantea ante el consejo de [[Castimandra]] una hipótesis: quizá el gu
 
 ## Objetivo
 
-- Explorar las [[Ruinas bajo el monolito]] y determinar si conducen hasta el guardián del árbol madre.
+- Seguir la ubicación del guardián del árbol madre cuando el consejo de [[Castimandra]] la entregue o confirme.
 - Investigar si el guardián está maldito, poseído o infectado por la misma fuerza que actúa sobre las lloronas.
 - Acabar con el guardián si la hipótesis se confirma y es necesario para detener la corrupción del árbol madre.
 - Recuperar cualquier información nigromántica relevante del lugar, especialmente si ayuda a entender la maldición, las lloronas o el uso de cuerpos infantiles como recurso mágico.
@@ -49,12 +49,12 @@ El grupo plantea ante el consejo de [[Castimandra]] una hipótesis: quizá el gu
 - Aun así, el enemigo ha encontrado una forma de aprovechar sus cuerpos desmembrados y colgados del árbol.
 - El patrón de [[Paige]] y [[Lovna]] conecta la amenaza con madres vivas, niños asesinados y árboles contaminados.
 - [[Mama Rott]] ya había señalado [[Castimandra]] mediante un ritual con huesos y había mencionado un árbol madre capaz de convertir personas en semillas.
-- En la [[Sesión 33]], el camino hacia el posible foco de la misión lleva al grupo a un claro con un monolito antiguo y a unas ruinas con glifos en fae sobre el pago mediante reflejo.
+- En la [[Sesión 33]], el consejo acepta la hipótesis del grupo y ofrece una recompensa si el guardián resulta ser el foco de la corrupción.
+- Las [[Ruinas bajo el monolito]] pertenecen al encargo secundario de [[Lir'Ohn]] para acelerar la eclosión del [[Huevo de Juaniguel]], no a la misión del guardián salvo revelación posterior.
 
 ## Dudas abiertas
 
 - No está confirmado que el guardián sea la fuente real de la corrupción.
-- No está confirmado que las [[Ruinas bajo el monolito]] sean el lugar exacto del guardián y no una defensa, prueba o acceso intermedio.
 - No se sabe si el guardián actúa voluntariamente, está poseído, maldito o convertido en foco de una magia ajena.
 - No está claro si la amenaza procede del mismo origen que la maldición del vínculo del grupo.
 - Falta saber qué papel tienen las dos personas no identificadas que abandonaron Castimandra durante la madrugada posterior al ataque.
@@ -74,3 +74,4 @@ El grupo plantea ante el consejo de [[Castimandra]] una hipótesis: quizá el gu
 - [[Castimandra]]
 - [[Mama Rott]]
 - [[Púpil]]
+- [[Encargo de Lir'Ohn]]

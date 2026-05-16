@@ -12,7 +12,7 @@ Relacionado con: [[Juaniguel de la Ola]]
 > - **Raza / linaje:** Humano común
 > - **Clase / subclase:** Bardo, Colegio de la Elocuencia / Paladín de [[Timora]]
 > - **Aspecto actual:** Pendiente de actualizar según el último estado confirmado.
-> - **Estado narrativo:** Personaje jugador activo; viaja con [[Mathulio]], [[Alyre A'Dariir]] y [[Nérthoran Yúribel]].
+> - **Estado narrativo:** Personaje jugador activo; viaja con [[Mathulio]], [[Alyre A'Dariir]] y [[Nérthoran Yúribel]]. Lleva consigo el [[Huevo de Juaniguel]], cuya eclosión intenta acelerar mediante el [[Encargo de Lir'Ohn]].
 > - **Imagen principal actual:** ![[Juaniguel.png]]
 
 ## Línea de evolución
@@ -39,6 +39,15 @@ Relacionado con: [[Juaniguel de la Ola]]
 - **Cambios mecánicos:** Juaniguel pasa a ser multiclase bardo-paladín de [[Timora]].
 - **Cambios narrativos:** [[Timora]] lo devuelve al camino del paladín y refuerza su vínculo religioso.
 - **Consecuencias:** Su conflicto entre escapar de la maldición solo y mantenerse fiel al grupo queda marcado por la intervención directa de su diosa.
+
+### Muerte y retorno por la Luna Roja
+
+- **Sesión / momento:** [[Sesión 34]].
+- **Causa:** Muere durante el combate contra las gárgolas en las [[Ruinas bajo el monolito]].
+- **Cambios físicos:** Regresa a la vida con un aspecto demacrado y alterado.
+- **Cambios mecánicos:** No consta un cambio mecánico concreto documentado.
+- **Cambios narrativos:** Durante su muerte alcanza los jardines dorados de [[Timora]], pero es arrancado hacia un mar infinito donde encuentra a [[Nérthoran Yúribel|Nérthoran]] y a la [[La Luna Roja|Luna Roja]]. Cuenta que en una canción de [[Ibermaris]] la Luna Roja se llama Grana, mientras que en [[Gallix]] era [[Reiro]], y que está sometida y necesita las reliquias para liberarse.
+- **Consecuencias:** Juaniguel interpreta que el grupo está en manos de entidades superiores. Su conversación posterior con [[Mathulio]] deja dudas sobre cuánto le ha afectado la experiencia de muerte y retorno.
 
 ## Estados visuales documentados y pendientes
 

@@ -58,6 +58,15 @@ Relacionado con: [[Nérthoran Yúribel]]
 - **Cambios narrativos:** [[Myrkull]] se manifiesta a Nérthoran y más tarde le susurra que un dios amigo suyo se ha interesado por Alyre.
 - **Consecuencias:** Refuerza el vínculo de Nérthoran con [[Myrkull]] y abre una posible relación indirecta con el interés de [[Bhaal]] por Alyre.
 
+### Muerte y retorno por la Luna Roja
+
+- **Sesión / momento:** [[Sesión 34]].
+- **Causa:** Muere durante el combate contra las gárgolas en las [[Ruinas bajo el monolito]].
+- **Cambios físicos:** Regresa a la vida con un aspecto demacrado y alterado.
+- **Cambios mecánicos:** No consta un cambio mecánico concreto documentado.
+- **Cambios narrativos:** Durante su muerte viaja por el reino de [[Myrkull]], ve lloronas e hilos conectados con el plano mortal, y percibe la intervención de un heraldo de Myrkull. Después se encuentra junto a [[Juaniguel de la Ola|Juaniguel]] ante la [[La Luna Roja|Luna Roja]], que los devuelve a la vida.
+- **Consecuencias:** Nérthoran interpreta que el grupo ha sido elegido para encontrar y desvelar las reliquias, y que la misión es mucho más importante de lo que [[Caraxys]] había explicado. Tras la experiencia, trata al grupo con más respeto y promete ayudar a [[Alyre A'Dariir|Alyre]] a romper las cadenas impuestas por entidades superiores si surge la oportunidad.
+
 ## Estados visuales documentados y pendientes
 
 - ![[Nérthoran pirata.png]]

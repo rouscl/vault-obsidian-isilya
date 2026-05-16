@@ -56,6 +56,8 @@ Desde su llegada, Nérthoran ha demostrado un dominio oscuro y preciso de la nig
 
 Durante el trance divino de la [[Sesión 23]], Nérthoran entró en contacto con [[Myrkull]]. Después reveló a Alyre que su dios le había susurrado que un dios amigo suyo se había interesado por ella.
 
+En la [[Sesión 34]], Nérthoran muere en las [[Ruinas bajo el monolito]] y es devuelto a la vida por la [[La Luna Roja|Luna Roja]]. Durante su muerte ve en el reino de [[Myrkull]] un par de lloronas, varios hilos hacia el plano mortal y la intervención de un heraldo de Myrkull. Tras volver, interpreta que la misión de las reliquias es mucho más importante de lo que [[Caraxys]] había explicado y empieza a tratar al grupo como iguales.
+
 ### Relaciones
 
 > [!kith|ally] **[[Alyre A'Dariir]], [[Juaniguel de la Ola]], [[Mathulio]]**

@@ -17,7 +17,7 @@ Castimandra es una ciudad druídica organizada por alturas, con una relación pr
 
 - Castimandra está habitada por druidas y criaturas vinculadas a formas naturales. Algunos druidas pasan la vida en la forma en la que se sienten más cómodos, incluso como animales.
 - La ciudad no parece organizarse por barrios, sino por alturas; las zonas altas son más descuidadas y menos decoradas.
-- Lugares y personas relevantes vistos en la crónica: Correos y paquetes de Lorien, La Carnívora, la biblioteca, la tienda de magia de Lir'Ohn, la herboristería de [[Una Fa]], la herrería de Veggie, la tienda de tatuajes de [[Pov]] y [[El Nido]], sede local del gremio de ladrones.
+- Lugares y personas relevantes vistos en la crónica: Correos y paquetes de Lorien, La Carnívora, la biblioteca, la tienda de magia de [[Lir'Ohn]], la herboristería de [[Una Fa]], la herrería de Veggie, la tienda de tatuajes de [[Pov]] y [[El Nido]], sede local del gremio de ladrones.
 
 ## Amenazas actuales
 
@@ -26,7 +26,7 @@ Castimandra es una ciudad druídica organizada por alturas, con una relación pr
 - La Asamblea conoce el lema "los niños no sucumben, los niños no despiertan": las almas infantiles están demasiado atadas a la vida para que la nigromancia las alce, por lo que alguien estaría eliminando ese cabo suelto.
 - En [[Rogaril]] se llama "las lloronas" a entidades similares a la viuda Fillai, posiblemente mujeres alzadas tras matar a sus hijos y suicidarse.
 - En la [[Sesión 33]], el libro de [[Nérthoran Yúribel|Nérthoran]] define a las lloronas como espectros que transforman el amor en odio irracional; también se plantea que el guardián más amante del árbol madre podría estar maldito e infectando el árbol, aunque esto sigue siendo una hipótesis.
-- En esa misma sesión, el grupo sigue la pista del guardián hacia un pueblo abandonado cercano y accede a las [[Ruinas bajo el monolito]], donde encuentra glifos en fae, un pasillo de reflejos y gárgolas búho.
+- En esa misma sesión, el grupo acepta resolver la misión del guardián si la teoría se confirma, pero las [[Ruinas bajo el monolito]] pertenecen al encargo secundario de [[Lir'Ohn]] para acelerar la eclosión del [[Huevo de Juaniguel]].
 - El consejo ofrece al grupo vivienda, necesidades básicas cubiertas de por vida y el título de héroes de Castimandra si eliminan al guardián y la teoría se confirma.
 
 ## Ubicación Geográfica
