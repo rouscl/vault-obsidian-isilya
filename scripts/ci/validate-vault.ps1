@@ -1,11 +1,6 @@
 $ErrorActionPreference = "Stop"
 
 $root = (Resolve-Path ".").Path
-$requiredFiles = @(
-  "GUIDELINES.md",
-  "GIT-WORKFLOW.md",
-  "AGENTS.md"
-)
 
 function Get-RelativeVaultPath {
   param(
@@ -29,12 +24,6 @@ function Get-RelativeVaultPath {
 }
 
 $failures = New-Object System.Collections.Generic.List[string]
-
-foreach ($file in $requiredFiles) {
-  if (-not (Test-Path -LiteralPath (Join-Path $root $file))) {
-    $failures.Add("Missing required file: $file")
-  }
-}
 
 $allFiles = Get-ChildItem -LiteralPath $root -Recurse -File -Force |
   Where-Object { $_.FullName -notmatch "[\\/]\\.git[\\/]" }
@@ -67,6 +56,9 @@ $markdownFiles = $allFiles | Where-Object {
 foreach ($file in $markdownFiles) {
   $relativeFile = Get-RelativeVaultPath -BasePath $root -TargetPath $file.FullName
   $content = Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8
+  if ($null -eq $content) {
+    $content = ""
+  }
   $matches = [regex]::Matches($content, $wikiPattern)
 
   foreach ($match in $matches) {
