@@ -6,8 +6,8 @@ tags:
 ---
 
 > [!infobox|right]
-> # Xauntea
-> ![[Xauntea.JPG]]
+> # Chauntea
+> ![[Chauntea.JPG]]
 > 
 > | Títulos | 
 > | ---- |  
@@ -26,17 +26,18 @@ tags:
 > | No confirmado |
 > 
 > | Adoradores | 
+> | ---- | 
 > | [[Castimandra]] |
 > 
 > | Dominios |
 > | ---- |
 > | No confirmados |
 
-# Xauntea
+# Chauntea
 
 ## Información conocida en campaña
 
-Xauntea es la patrona principal de [[Castimandra]]. En la [[Sesión 31]], se menciona su importancia dentro de la ciudad. En la [[Sesión 32]], la sala de la Asamblea contiene cuatro estatuas que la representan.
+Chauntea es la patrona principal de [[Castimandra]]. En la [[Sesión 31]], se menciona su importancia dentro de la ciudad. En la [[Sesión 32]], la sala de la Asamblea contiene cuatro estatuas que la representan.
 
 No hay todavía manifestación directa, dogma detallado ni culto descrito con precisión. Su presencia parece integrada en la autoridad cívica y religiosa de Castimandra.
 

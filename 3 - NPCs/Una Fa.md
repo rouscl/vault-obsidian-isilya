@@ -35,12 +35,14 @@ Alyre le propone hacer negocios en el futuro si consigue volver al [[Menzoberran
 
 En la [[Sesión 32]], Una Fa aparece entre las personas presentes en la Asamblea de [[Castimandra]].
 
+En la [[Sesión 35]], Alyre investiga la flor que Una Fa le había regalado. Descubre que permite preparar dosis capaces de ver a los muertos durante una hora, hablar con ellos y ser vista por ellos. Cuando Nérthoran le transmite que Alyre ha identificado sus usos en un solo día, Una Fa se sorprende, porque ella tardó dos.
+
 ## Notas
 
 - Su nombre es Una Fa; no se trata de una descripción genérica ni de una referencia a una persona anónima.
-- Queda pendiente investigar la flor que entregó a Alyre.
+- La flor que entregó a Alyre permite preparar dosis de percepción e interacción con muertos durante una hora.
 - Puede convertirse en una aliada comercial si Alyre logra abrir una vía hacia el Underdark.
 
 ## Estado actual
 
-Tiene relevancia secundaria, con asuntos pendientes a corto y largo plazo. A corto plazo, Alyre aún puede investigar la flor que Una Fa le entregó. A largo plazo, puede convertirse en contacto comercial si Alyre logra abrir una vía para vender útiles de veneno en el [[Menzoberranzan#Underdark|Underdark]].
+Tiene relevancia secundaria. A corto plazo, su flor ya ha demostrado un uso importante para tratar con muertos, algo potencialmente útil ante la amenaza nigromántica de [[Castimandra]]. A largo plazo, puede convertirse en contacto comercial si Alyre logra abrir una vía para vender útiles de veneno en el [[Menzoberranzan#Underdark|Underdark]].

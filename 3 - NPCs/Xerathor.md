@@ -51,6 +51,7 @@ La transformación de Alyre en bruja de Xerathor fue impuesta. Alyre la vive con
 - En la [[Sesión 24]], [[Mathulio]] revela a [[Alyre A'Dariir|Alyre]] que Xerathor le pidió matarla con su propia arma.
 - En la [[Sesión 29]], Xerathor lleva a Alyre a su reino tras la trampa de [[Bhaal]] y afirma que tendrá que ayudarla aunque ella no quiera, porque seres importantes están detrás de ella. Al regresar, Alyre despierta transformada: ojos completamente rojos, una cicatriz frontal convertida en un hueco luminoso y tatuajes tenues de Xerathor por el cuerpo. Desde ese momento pasa a ser bruja de Xerathor.
 - En la [[Sesión 30]], Mama Rott explica que "Xerathor" no es su verdadero nombre infernal. Si Alyre descubre su nombre real, podría revocar el contrato por no haber firmado con la identidad auténtica.
+- En la [[Sesión 35]], Alyre recurre a la suerte del Oscuro para sobrevivir al descenso en las [[Ruinas bajo el monolito]]. Más tarde, después del contacto de Alyre con [[Loth]], Xerathor vuelve a hostigarla y le recuerda cómo latía su corazón cuando firmó el contrato para salvar a [[Elendar]].
 - [[Mathulio]] también pactó con Xerathor. El trato salió mal: Xerathor lo castigó cuando consideró que había hecho trampas con la bolsa del pacto y lo dejó marcado con un cuerno. Por eso [[Juaniguel de la Ola|Juaniguel]] y Mathulio también tienen motivos para querer matar al demonio.
 
 ## Estado actual
@@ -70,3 +71,4 @@ Xerathor es trama principal de Alyre. Su influencia atraviesa su relación con [
 - [[Sesión 24]]
 - [[Sesión 29]]
 - [[Sesión 30]]
+- [[Sesión 35]]

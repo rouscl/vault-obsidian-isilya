@@ -25,6 +25,8 @@ El Nido de [[Castimandra]] aparece de forma directa en la [[Sesión 32]]. Alyre 
 
 En el Nido de Castimandra hay un tablón donde aparecen carteles de búsqueda del grupo y un cartel sobre unas dagas llamadas _Pixie's Wawings_. [[Peeves]] advierte además de que la ciudad está vigilada por búhos y dragoncitos, y de que la Asamblea está muy mosqueada con [[Nérthoran Yúribel|Nérthoran]], aunque la intervención de [[Juaniguel de la Ola|Juaniguel]] en el asunto del juicio de [[Paige]] y [[Lovna]] ha suavizado un poco la impresión del grupo.
 
+En la [[Sesión 35]], [[Mathulio]] y [[Alyre A'Dariir|Alyre]] identifican a dos ladrones del Nido entre los aventureros muertos a la salida de las [[Ruinas bajo el monolito]]. Llevaban carteles de búsqueda del grupo. Más tarde, Mathulio encuentra en el Nido un pergamino que anuncia que [[Humbert Talorian]] será juzgado en [[Rogaril]] por lo descubierto sobre el Culto de la Carne Retorcida.
+
 ### Rogaril
 
 En [[Rogaril]] ya se había mostrado una red de ladrones, maleantes e informantes conectada con [[Jasper]], [[Klorg]] y _The Spoon_. [[Jasper]] advierte a Alyre en la [[Sesión 5]] de que uno de sus nuevos compañeros pertenece a su mismo gremio, apuntando a [[Mathulio]]. Aunque en esas primeras sesiones no se usa todavía el nombre "El Nido", encaja con la denominación general del Gremio de Ladrones establecida para la partida.
@@ -45,3 +47,4 @@ En la [[Sesión 28]], a Mathulio le lanzan una moneda con el símbolo del gremio
 - [[Sesión 5]]
 - [[Sesión 28]]
 - [[Sesión 32]]
+- [[Sesión 35]]

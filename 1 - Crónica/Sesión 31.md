@@ -16,7 +16,7 @@ date_created: 2026-04-02
 | [[Mathulio]] | Recibe una carta de sus padres y acompaña al grupo en [[Castimandra]]. |
 | [[Jasper]] | Informa a Alyre de rumores preocupantes sobre su madre y la [[Casa A'Dariir]]. |
 | Falba | Atiende el servicio de correos y banco de Lorien. |
-| [[Xauntea]] | Patrona principal de [[Castimandra]]. |
+| [[Chauntea]] | Patrona principal de [[Castimandra]]. |
 | Inei | Tabernera de La Carnívora. |
 | [[Lir'Ohn]] | Dendrómata que regenta la tienda de magia. |
 | [[Una Fa]] | Herborista que vende útiles de envenenador y deja una muestra a Alyre. |

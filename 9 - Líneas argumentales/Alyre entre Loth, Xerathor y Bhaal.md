@@ -32,6 +32,8 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - [[Mama Rott]] revela que "Xerathor" no es su nombre infernal real; descubrirlo podría permitir revocar el contrato.
 - [[Bhaal]] insiste mediante monedas diarias, visiones y un engendro que adopta la forma de [[Elendar]].
 - En la [[Sesión 33]], [[Alyre A'Dariir|Alyre]] acepta un tatuaje mágico de [[Pov]] que refuerza su vínculo con [[Loth]] y permite contactar con ella una vez al mes.
+- En la [[Sesión 35]], Alyre usa por primera vez el tatuaje. [[Loth]] refuerza el hilo que la une a ella, pero exige que [[Elendar]] muera como asunto pendiente por la orden desobedecida.
+- En la [[Sesión 36]], tras aquel encuentro, Alyre propone a [[Nérthoran Yúribel|Nérthoran]] desafiar a los dioses si el grupo reúne poder suficiente; Nérthoran acepta. Sus pesadillas repiten muertes a manos de Loth, Xerathor, Bhaal y Elendar, sin que se confirme que sean proféticas.
 
 ## Conflictos abiertos
 
@@ -40,7 +42,7 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - El límite principal de Alyre ante el poder de Xerathor es no perder la posibilidad de volver a su vida en el [[Menzoberranzan#Underdark|Underdark]].
 - [[Juaniguel de la Ola|Juaniguel]] desconfía de ella tras comprobarlo bajo zona de verdad.
 - [[Juaniguel de la Ola|Juaniguel]] y [[Mathulio]] también tienen motivos para querer matar a [[Xerathor]] por el pacto fallido de Mathulio.
-- [[Loth]] no ha resuelto el conflicto por ella: exige fe, obediencia y prueba.
+- [[Loth]] no ha resuelto el conflicto por ella: exige fe, obediencia y prueba, y ha situado la muerte de [[Elendar]] como deuda explícita.
 - [[Bhaal]] conoce vulnerabilidades íntimas de [[Alyre A'Dariir|Alyre]] y no parece aceptar el rechazo.
 - [[Elendar]] sigue siendo punto de presión compartido por [[Loth]], [[Xerathor]] y [[Bhaal]].
 
@@ -48,7 +50,8 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 
 - ¿Cuál es el verdadero nombre de [[Xerathor]]?
 - ¿Existe una forma de romper el dominio de [[Xerathor]] sin que [[Alyre A'Dariir|Alyre]] pierda todos los poderes obtenidos?
-- ¿Qué precio tendrá contactar con [[Loth]] mediante el tatuaje?
+- ¿Qué hará Alyre con la exigencia de [[Loth]] de matar a [[Elendar]]?
+- ¿Qué alcance tiene la frase de [[Loth]] sobre "la sombra de tu secreto"?
 - ¿Qué quiere exactamente [[Bhaal]] de [[Alyre A'Dariir|Alyre]]?
 - ¿[[Loth]] acabará protegiendo a [[Alyre A'Dariir|Alyre]], reclamándola con más dureza o castigándola por el pacto?
 - ¿Hasta dónde llegará [[Alyre A'Dariir|Alyre]] antes de considerar que el poder de [[Xerathor]] cuesta demasiado?
@@ -66,6 +69,7 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - [[Sesión 29]]
 - [[Sesión 30]]
 - [[Sesión 33]]
+- [[Sesión 35]]
 
 ## Relacionado
 

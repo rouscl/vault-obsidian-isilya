@@ -1,7 +1,7 @@
 ---
 tags:
   - misión
-  - activa
+  - completada
   - Castimandra
   - Juaniguel
   - huevo
@@ -11,7 +11,7 @@ tags:
 
 ## Estado
 
-Misión secundaria activa en [[Castimandra]]. [[Lir'Ohn]], regente de la tienda de magia, promete ayudar a que el [[Huevo de Juaniguel]] eclosione más rápido si el grupo recupera para ella un objeto mágico situado a las afueras de la ciudad. El grupo sigue explorando las [[Ruinas bajo el monolito]] y todavía no ha recuperado el objeto.
+Misión secundaria completada en [[Castimandra]]. [[Lir'Ohn]], regente de la tienda de magia, prometió ayudar a que el [[Huevo de Juaniguel]] eclosionase más rápido si el grupo recuperaba para ella un objeto mágico situado a las afueras de la ciudad. En la [[Sesión 35]], el grupo le entrega el cofre recuperado de las [[Ruinas bajo el monolito]] y Lir'Ohn cumple su parte del trato.
 
 ## Origen de la misión
 
@@ -19,13 +19,13 @@ En la [[Sesión 31]], [[Juaniguel de la Ola|Juaniguel]] visita la tienda de magi
 
 ## Objetivo
 
-- Explorar las [[Ruinas bajo el monolito]], cerca de un pueblo abandonado en las inmediaciones de [[Castimandra]].
-- Recuperar el objeto mágico solicitado por [[Lir'Ohn]].
-- Volver a la tienda de magia para que [[Lir'Ohn]] ayude a eclosionar el [[Huevo de Juaniguel]].
+- Explorar las [[Ruinas bajo el monolito]], cerca de un pueblo abandonado en las inmediaciones de [[Castimandra]]. Completado en la [[Sesión 35]].
+- Recuperar el objeto mágico solicitado por [[Lir'Ohn]]. Completado: el cofre contenía unas dagas pixie.
+- Volver a la tienda de magia para que [[Lir'Ohn]] ayude a eclosionar el [[Huevo de Juaniguel]]. Completado en la [[Sesión 35]].
 
 ## Recompensa ofrecida
 
-[[Lir'Ohn]] puede acelerar la eclosión del [[Huevo de Juaniguel]], reduciendo el proceso a tres días según lo pactado en la [[Sesión 31]].
+[[Lir'Ohn]] acelera la eclosión del [[Huevo de Juaniguel]] en la [[Sesión 35]]. Del huevo nace un dracohalcón que, gracias al hechizo acelerador de Lir'Ohn, podrá usarse como montura en cuatro meses.
 
 ## Información conocida
 
@@ -36,20 +36,24 @@ En la [[Sesión 31]], [[Juaniguel de la Ola|Juaniguel]] visita la tienda de magi
 - En la [[Sesión 34]], la sala de las gárgolas se derrumba durante el combate. [[Nérthoran Yúribel|Nérthoran]] y [[Juaniguel de la Ola|Juaniguel]] mueren y son devueltos a la vida por la [[La Luna Roja|Luna Roja]].
 - El grupo avanza después hasta una cámara inundada con una puerta rúnica y dos palancas. Al accionar el mecanismo, el agua baja y empieza a salir un humo verde.
 - Tras cruzar la puerta, el grupo llega a una sala cubierta de musgo verde donde una figura estilizada y errática se mueve al fondo.
+- En la [[Sesión 35]], la figura se revela como un guardián fae que protege el tesoro de las ruinas. Habla con cuatro voces, usa un orbe que libera nubes venenosas y cegadoras, y reconoce a Lir'Ohn como un dendrómata hostil para él.
+- Tras derrotar al guardián, el grupo encuentra una sala con una cascada nacida de una boca de piedra, dos manos gigantescas y runas que dicen: "Bajo el espejo de las palmas".
+- El cofre buscado está en el fondo del estanque bajo las manos de piedra.
+- Lir'Ohn revela después que el cofre contiene dagas pixie, armas capaces de matar de verdad a los faes y vinculadas a la primera persona que ven.
 
 ## Dudas abiertas
 
-- Qué objeto mágico busca exactamente [[Lir'Ohn]].
-- Qué sabe [[Lir'Ohn]] sobre las [[Ruinas bajo el monolito]].
-- Qué criatura o entidad saldrá del [[Huevo de Juaniguel]] cuando eclosione.
+- Qué sabe [[Lir'Ohn]] sobre las [[Ruinas bajo el monolito]] y sobre sus defensas fae.
+- Por qué [[Lir'Ohn]] quería recuperar unas dagas pixie capaces de matar faes de forma definitiva.
 - Si las defensas de las ruinas protegen el objeto o responden a otra función antigua.
-- Qué es la figura de la sala cubierta de musgo verde.
+- Qué relación tuvo Lir'Ohn con el guardián fae o con aquello que custodiaba.
 
 ## Sesiones relacionadas
 
 - [[Sesión 31]]
 - [[Sesión 33]]
 - [[Sesión 34]]
+- [[Sesión 35]]
 
 ## Relacionado
 

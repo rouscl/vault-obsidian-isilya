@@ -10,7 +10,7 @@ Castimandra es una ciudad druídica organizada por alturas, con una relación pr
 
 ## Religión
 
-- [[Xauntea]] figura como patrona principal de la ciudad.
+- [[Chauntea]] figura como patrona principal de la ciudad.
 - Mama Rott explica en la [[Sesión 30]] que existe un árbol madre cerca de la ciudad capaz de convertir personas en semillas y hacer brotar vida de ellas.
 
 ## Razas & Sociedad

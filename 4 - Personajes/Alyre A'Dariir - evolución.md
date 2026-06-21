@@ -60,8 +60,8 @@ Relacionado con: [[Alyre A'Dariir]]
 - **Causa:** [[Pov]] ofrece a Alyre un tatuaje mágico con materiales del [[Menzoberranzan#Underdark|Underdark]] que reforzaría su vínculo con [[Loth]]. Alyre acepta tras advertirle de las consecuencias de cualquier sacrilegio sobre su cuerpo.
 - **Cambios físicos:** Tatuaje mágico visible.
 - **Cambios mecánicos:** El tatuaje permite contactar con [[Loth]] una vez al mes.
-- **Cambios narrativos:** Refuerza el vínculo activo de Alyre con su diosa tras el silencio y las pruebas recientes, sin resolver todavía cómo responderá Loth.
-- **Consecuencias:** Alyre gana una vía de comunicación periódica con su diosa, pero el peso religioso y el posible precio de ese vínculo siguen abiertos.
+- **Cambios narrativos:** Refuerza el vínculo activo de Alyre con su diosa tras el silencio y las pruebas recientes. En la [[Sesión 35]], Alyre lo usa por primera vez y Loth le exige servirla sólo a ella.
+- **Consecuencias:** Alyre gana una vía de comunicación periódica con su diosa, pero el precio queda más claro: Loth señala que [[Elendar]] debe morir como asunto pendiente por la orden que Alyre desobedeció. En la cronología interna, el tatuaje no podrá volver a usarse hasta el mes siguiente.
 
 ## Estados visuales documentados y pendientes
 
@@ -80,11 +80,12 @@ Relacionado con: [[Alyre A'Dariir]]
 
 - ![[Alyre tatuaje.png]]
   - **Estado documentado:** Tatuaje mágico de comunicación con [[Loth]].
-  - **Sesión / momento:** [[Sesión 33]].
-  - **Notas:** Realizado por [[Pov]] en [[Castimandra]] con materiales del [[Menzoberranzan#Underdark|Underdark]].
+  - **Sesión / momento:** [[Sesión 33]], con primer uso en la [[Sesión 35]].
+  - **Notas:** Realizado por [[Pov]] en [[Castimandra]] con materiales del [[Menzoberranzan#Underdark|Underdark]]. En su primer uso, Loth refuerza el hilo de Alyre y reclama la muerte de [[Elendar]] como deuda religiosa pendiente.
 
 
 
 ## Dudas o datos pendientes
 
-- Ver cómo responde [[Loth]] cuando Alyre use por primera vez el tatuaje de comunicación mensual.
+- El tatuaje de [[Loth]] podrá volver a usarse al mes siguiente dentro de la cronología interna; en la [[Sesión 35]] están a primeros de septiembre.
+- Resolver qué hará Alyre con la exigencia de [[Loth]] sobre la muerte de [[Elendar]].

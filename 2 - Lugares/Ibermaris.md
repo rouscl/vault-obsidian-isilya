@@ -24,9 +24,11 @@ Ibermaris es una región de clima agradable, carácter abierto y fuerte tradici�
 
 - El grupo no ha visitado Ibermaris durante la crónica actual.
 - La región funciona sobre todo como trasfondo cultural de [[Juaniguel de la Ola|Juaniguel]] y [[Mathulio]].
+- En la [[Sesión 36]], [[Peeves]] afirma que [[Hernán Cortés]], antiguo comandante militar, es ahora rey de Ibermaris.
 
 ## Sesiones relacionadas
 
 - [[Sesión 1]]
 - [[Sesión 10]]
 - [[Sesión 16]]
+- [[Sesión 36]]

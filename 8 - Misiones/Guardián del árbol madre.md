@@ -9,7 +9,7 @@ tags:
 
 ## Estado
 
-Misión activa en [[Castimandra]]. El grupo ha aceptado investigar y, si la teoría resulta correcta, acabar con el guardián del árbol madre. La ubicación exacta del guardián queda pendiente de seguir o confirmar; no debe confundirse con el encargo secundario de [[Lir'Ohn]] en las [[Ruinas bajo el monolito]].
+Misión activa en [[Castimandra]]. El grupo ha aceptado investigar y, si la teoría resulta correcta, acabar con el guardián del árbol madre. En la [[Sesión 36]], el consejo organiza una expedición por el Camino del Norte y el grupo se interna en el bosque con tropas de Castimandra y el Guardián de la Biblioteca. No debe confundirse con el encargo secundario de [[Lir'Ohn]] en las [[Ruinas bajo el monolito]].
 
 ## Origen de la misión
 
@@ -23,6 +23,7 @@ El grupo plantea ante el consejo de [[Castimandra]] una hipótesis: quizá el gu
 - Investigar si el guardián está maldito, poseído o infectado por la misma fuerza que actúa sobre las lloronas.
 - Acabar con el guardián si la hipótesis se confirma y es necesario para detener la corrupción del árbol madre.
 - Recuperar cualquier información nigromántica relevante del lugar, especialmente si ayuda a entender la maldición, las lloronas o el uso de cuerpos infantiles como recurso mágico.
+- Resolver el laberinto del bosque y sus pistas antes de continuar hacia el guardián.
 
 ## Recompensa ofrecida
 
@@ -51,6 +52,8 @@ El grupo plantea ante el consejo de [[Castimandra]] una hipótesis: quizá el gu
 - [[Mama Rott]] ya había señalado [[Castimandra]] mediante un ritual con huesos y había mencionado un árbol madre capaz de convertir personas en semillas.
 - En la [[Sesión 33]], el consejo acepta la hipótesis del grupo y ofrece una recompensa si el guardián resulta ser el foco de la corrupción.
 - Las [[Ruinas bajo el monolito]] pertenecen al encargo secundario de [[Lir'Ohn]] para acelerar la eclosión del [[Huevo de Juaniguel]], no a la misión del guardián salvo revelación posterior.
+- El Guardián de la Biblioteca muestra mediante luciérnagas dos coronas y un ojo tachado. El hada guía afirma que la sangre de la familia real es azul como las alamandas; Juaniguel recuerda que los reyes de Castimandra confundían rojo con verde y azul con amarillo.
+- Unas ranas gigantes del bosque contienen siluetas humanoides en sus buches. Durante el avance, varias tropas de la expedición mueren al combatirlas.
 
 ## Dudas abiertas
 
@@ -58,6 +61,7 @@ El grupo plantea ante el consejo de [[Castimandra]] una hipótesis: quizá el gu
 - No se sabe si el guardián actúa voluntariamente, está poseído, maldito o convertido en foco de una magia ajena.
 - No está claro si la amenaza procede del mismo origen que la maldición del vínculo del grupo.
 - Falta saber qué papel tienen las dos personas no identificadas que abandonaron Castimandra durante la madrugada posterior al ataque.
+- No se conoce todavía la solución del acertijo de las coronas ni la función de las siluetas humanoides dentro de las ranas.
 
 ## Sesiones relacionadas
 
@@ -65,6 +69,7 @@ El grupo plantea ante el consejo de [[Castimandra]] una hipótesis: quizá el gu
 - [[Sesión 31]]
 - [[Sesión 32]]
 - [[Sesión 33]]
+- [[Sesión 36]]
 
 ## Relacionado
 

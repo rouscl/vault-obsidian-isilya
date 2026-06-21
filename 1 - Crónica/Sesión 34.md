@@ -106,7 +106,7 @@ Al otro lado encontraron una gran sala cubierta de musgo verde. Al fondo se mov�
 - La visión de Nérthoran apunta a que un heraldo de [[Myrkull]] interviene en las lloronas desde el reino de las almas, pero todavía no se sabe si [[Myrkull]] actúa de forma directa, tolera esa intervención o está siendo usado por una fuerza intermedia.
 - La actitud de Juaniguel tras regresar de la muerte podría ser una consecuencia emocional del trauma, una marca de la Luna Roja o simple desgaste acumulado.
 - Alyre y Nérthoran comparten la intención de no someterse ciegamente a la Luna Roja, aunque eso no resuelve si podrán usar su poder sin caer en otra cadena.
-- La figura estilizada de la sala cubierta de musgo queda sin identificar.
+- La figura estilizada de la sala cubierta de musgo queda identificada en la [[Sesión 35]] como un guardián fae del tesoro de las ruinas.
 
 
 <br>
@@ -120,4 +120,4 @@ Al otro lado encontraron una gran sala cubierta de musgo verde. Al fondo se mov�
 #### Seguir leyendo
 
 [[Sesión 33|Página anterior]]
-Página siguiente pendiente
+[[Sesión 35|Página siguiente]]

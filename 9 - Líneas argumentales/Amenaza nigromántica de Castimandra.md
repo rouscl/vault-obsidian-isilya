@@ -27,7 +27,7 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 - Los cuerpos de niños son desmembrados y colgados del árbol, y parecen alimentar de algún modo la amenaza.
 - Dos personas no identificadas abandonaron [[Castimandra]] durante la madrugada posterior al ataque en la granja.
 - El grupo plantea que el guardián más amante del árbol madre podría estar maldito e infectando el árbol desde dentro.
-- La ubicación exacta del guardián sigue pendiente de confirmación; las [[Ruinas bajo el monolito]] corresponden por ahora al encargo secundario de [[Lir'Ohn]], no a esta investigación.
+- En la [[Sesión 36]], el consejo organiza una expedición hacia el guardián por el Camino del Norte. El grupo atraviesa un bosque-laberinto, pero aún no llega a su destino; las [[Ruinas bajo el monolito]] corresponden al encargo secundario de [[Lir'Ohn]], no a esta investigación.
 - Durante su muerte, [[Nérthoran Yúribel|Nérthoran]] percibe un punto de energía en el reino de las almas que podría permitir desmontar el enlace de las lloronas con el plano mortal.
 
 ## Sospechas y preguntas abiertas
@@ -38,6 +38,7 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 - Falta saber si las lloronas son víctimas, herramientas, agentes conscientes o todo a la vez.
 - La conexión entre la luna roja, [[Reiro]] y la amenaza de [[Castimandra]] sigue sin resolverse.
 - Falta confirmar si Nérthoran puede volver a localizar ese punto de energía desde el reino de las almas sin morir otra vez, que sería un método bastante poco cómodo incluso para esta campaña.
+- No se sabe qué relación guardan las ranas gigantes con siluetas humanoides en sus buches, el acertijo de las coronas o el camino hasta el guardián.
 
 ## Sesiones clave
 
@@ -46,6 +47,7 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 - [[Sesión 32]]
 - [[Sesión 33]]
 - [[Sesión 34]]
+- [[Sesión 36]]
 
 ## Relacionado
 

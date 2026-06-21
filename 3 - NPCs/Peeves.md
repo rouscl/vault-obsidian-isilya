@@ -33,6 +33,8 @@ Peeves es un contacto de [[El Nido]], el gremio de ladrones de [[Castimandra]]. 
 
 En la [[Sesión 32]], el grupo entra en [[El Nido]] y Peeves advierte de que la ciudad está vigilada por búhos y dragoncitos. También señala que la Asamblea está muy mosqueada con [[Nérthoran Yúribel|Nérthoran]], aunque la intervención de [[Juaniguel de la Ola|Juaniguel]] en favor del juicio de [[Paige]] y [[Lovna]] ha mejorado un poco la impresión del grupo.
 
+En la [[Sesión 36]], explica que los carteles de búsqueda del grupo se han repuesto, aunque han disminuido en número. Considera que el aviso dejado en las puertas de la ciudad debería protegerles mientras se completa el acuerdo con [[Púpil]]. También revela que es seguidora de [[Brandobaris]] y confirma que [[Hernán Cortés]], antiguo comandante militar, es ahora rey de [[Ibermaris]]. Más tarde, aparece durante el combate contra las ranas gigantes y ayuda a la expedición a resistir.
+
 ## Notas
 
 - En el tablón de [[El Nido]] aparecen carteles de búsqueda del grupo y un cartel de unas dagas llamadas _Pixie's Wawings_.

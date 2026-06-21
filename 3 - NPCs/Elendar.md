@@ -62,6 +62,7 @@ Después de salvarlo, Alyre exterminó a la [[Casa Rhomduil]] como venganza por 
 - En la [[Sesión 28]], un esbirro de [[Bhaal]] adopta la apariencia de Elendar para atraer a Alyre fuera de la taberna de Nasau. Alyre cree reencontrarse con él y lo abraza antes de que la criatura se transforme en una figura de hueso y carne y la hiera gravemente. No era Elendar, pero el ataque demuestra que Bhaal conoce una vulnerabilidad íntima de Alyre.
 - En la [[Sesión 29]], Alyre sobrevive al ataque del engendro de [[Bhaal]] y queda humillada por haber caído en una trampa construida con la imagen de Elendar. El episodio precede a su transformación como bruja de [[Xerathor]].
 - En la [[Sesión 30]], [[Vaeris]] informa a Alyre de que la [[Casa Ilythiss]] sigue bajo el ala de la [[Casa A'Dariir]], aunque en un plano más alejado. También menciona el rumor de que hay un varón Ilythiss en la superficie y que los demás siguen vivos en el Underdark. No queda confirmado que ese varón sea Elendar.
+- En la [[Sesión 35]], durante el primer uso del tatuaje de [[Loth]], la diosa exige a Alyre que Elendar muera. Lo presenta como el asunto pendiente ligado a la orden que Alyre desobedeció al salvarlo.
 
 ## Estado actual
 
@@ -69,7 +70,7 @@ Elendar es un NPC central para Alyre y una trama viva importante.
 
 El estado confirmado de Elendar es incierto. Antes del inicio de la crónica, Alyre lo dejó vivo en [[Menzoberranzan]] y le pidió que guardase silencio sobre su marcha. En la crónica, [[Loth]] lo menciona como alguien que sigue "solo ahí abajo", pero más adelante [[Vaeris]] transmite un rumor sobre un varón Ilythiss en la superficie. Esa información no basta para confirmar si Elendar ha abandonado el Underdark, si sigue en Menzoberranzan o si el rumor se refiere a otro miembro de la [[Casa Ilythiss]].
 
-Lo que sí está confirmado es que Elendar sigue siendo un punto de presión sobre Alyre. [[Loth]], [[Xerathor]] y [[Bhaal]] han tocado ese vínculo de formas distintas: Loth como deuda y prueba de fe, Xerathor como amenaza sobre el secreto del pacto, y Bhaal como arma emocional para tenderle una trampa.
+Lo que sí está confirmado es que Elendar sigue siendo un punto de presión sobre Alyre. [[Loth]], [[Xerathor]] y [[Bhaal]] han tocado ese vínculo de formas distintas: Loth como deuda, prueba de fe y ahora exigencia explícita de muerte; Xerathor como amenaza sobre el secreto del pacto; y Bhaal como arma emocional para tenderle una trampa.
 
 ## Notas
 
@@ -77,6 +78,7 @@ Lo que sí está confirmado es que Elendar sigue siendo un punto de presión sob
 - La aparición de la [[Sesión 28]] era un esbirro de [[Bhaal]], no Elendar.
 - Alyre cree que protegerlo fue una de las razones principales para abandonar [[Menzoberranzan]].
 - El rumor del varón Ilythiss en la superficie queda pendiente de confirmar.
+- La orden de [[Loth]] en la [[Sesión 35]] no confirma el paradero ni el estado actual de Elendar, pero sí convierte su supervivencia en una tensión religiosa directa para Alyre.
 
 ## Sesiones relacionadas
 
@@ -86,3 +88,4 @@ Lo que sí está confirmado es que Elendar sigue siendo un punto de presión sob
 - [[Sesión 28]]
 - [[Sesión 29]]
 - [[Sesión 30]]
+- [[Sesión 35]]

@@ -49,6 +49,35 @@ No hay dogma confirmado en la crónica. Por lo visto en mesa, su culto parece co
 
 El único ritual documentado es el intento de ruptura del vínculo del grupo en la [[Sesión 5]]. El resultado fue catastrófico: las sacerdotisas murieron y la maldición no desapareció, aunque sí se volvió más tenue y permitió mayor distancia entre los vinculados.
 
+### Oración a Ponzoña
+
+> Oh Ponzoña, la de la dulce dolencia,  
+> en tus brazos hallamos la fragancia de la resiliencia.
+>
+> Te rogamos, madre de la fiebre callada,  
+> que nos tomes en tu seno, que nos hagas tu morada.
+>
+> Ponzoña, te invocamos en susurros de dolor,  
+> en la fiebre que arde y nos trae tu amor.
+>
+> Cada estertor es un canto, cada suspiro, tu favor,  
+> y con el requiebro de nuestra piel nos abrimos a tu amor.
+>
+> Que la fiebre nos roce, como caricia en la piel,  
+> que el sudor se derrame como un bálsamo fiel.
+>
+> Que la tos sea nuestro aliento, el dolor nuestro alimento,  
+> y en tu veneno, encontramos la pureza del tormento.
+>
+> La enfermedad nos transforma, nos despoja y nos crea,  
+> y en cada quebranto, nuestra alma se mece y se eleva.
+>
+> Oh Ponzoña, diosa de lo efímero y lo quebrado,  
+> lo que aprende a sobrevivir ante la penitencia más severa.
+>
+> Nuestros cuerpos evolucionan con tu abrazo  
+> y contigo seremos uno desde el dolor y el sangrado.
+
 ## Estructura religiosa
 
 No consta una iglesia organizada. Lo conocido apunta a un grupo reducido de sacerdotisas en las alcantarillas de [[Rogaril]].
