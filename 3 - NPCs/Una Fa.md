@@ -4,7 +4,6 @@ tags:
   - Castimandra
   - herborista
   - Alyre
-  - Pendiente
 ---
 
 > [!infobox]

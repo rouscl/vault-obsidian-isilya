@@ -50,9 +50,15 @@ Ver: [[Alyre A'Dariir - evolución]]
 
 ## Estado en campaña
 
-Alyre es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]] y [[Nérthoran Yúribel]].
+Alyre es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]], [[Nérthoran Yúribel]] y [[Mishka]].
 
 Su aspecto actual incorpora la transformación como bruja de [[Xerathor]] y el tatuaje mágico vinculado a [[Loth]], recibido en [[Castimandra]] durante la [[Sesión 33]].
+
+## Símbolo personal
+
+![[Sello Alyre.png]]
+
+Alyre ha creado un sello propio basado en el emblema de la [[Casa A'Dariir]], pero modificado con rasgos personales. En la [[Sesión 37]], lo muestra en [[El Nido]] al tabernero de [[Castimandra]] cuando este le pide saber el nombre de su casa a cambio de información sobre posibles cultos de [[Bhaal]]; en lugar de decir el nombre en voz alta, le enseña el sello para que lo deduzca.
 
 ## Infancia
 
@@ -87,9 +93,9 @@ Una vez [[Elendar]] estuvo fuera de peligro, Alyre no olvidó la deuda de sangre
 
 Alyre mantuvo en secreto el poder demoníaco que ahora habitaba en su estoque, pero pronto se dio cuenta de que la presión del pacto y la sed de sangre de [[Xerathor]] la ponían en peligro constante. Para evitar ser descubierta por su propia familia y por la diosa [[Loth]], decidió abandonar [[Menzoberranzan]]. En silencio, y con la determinación de seguir fortaleciendo su vínculo con [[Elendar]], Alyre marchó hacia un exilio forzado, llevándose consigo su pacto con [[Xerathor]] y su ambición, a la espera de un día en que podría regresar más poderosa y sin ataduras.
 
-## Actualidad
+## Situación al inicio de la crónica
 
-Alyre vive actualmente en la ciudad de [[Rogaril]], tras haber abandonado [[Menzoberranzan]] para proteger a [[Elendar]] y buscar una manera de liberarse del pacto que hizo con el demonio [[Xerathor]]. En esta ciudad de la superficie, Alyre ha comenzado a construir una nueva vida como mercenaria, utilizando sus habilidades de combate y sigilo para tomar trabajos peligrosos y bien pagados. Aunque su cabello morado oculta parcialmente su origen drow, se enfrenta constantemente al prejuicio de los habitantes de la superficie, especialmente en una sociedad patriarcal que le resulta ajena y a menudo irritante.
+Al inicio de la crónica, Alyre vive en la ciudad de [[Rogaril]], tras haber abandonado [[Menzoberranzan]] para proteger a [[Elendar]] y buscar una manera de liberarse del pacto que hizo con el demonio [[Xerathor]]. En esta ciudad de la superficie, Alyre ha comenzado a construir una nueva vida como mercenaria, utilizando sus habilidades de combate y sigilo para tomar trabajos peligrosos y bien pagados. Aunque su cabello morado oculta parcialmente su origen drow, se enfrenta constantemente al prejuicio de los habitantes de la superficie, especialmente en una sociedad patriarcal que le resulta ajena y a menudo irritante.
 
 Con el tiempo, Alyre ha logrado acumular suficiente dinero para pagar por adelantado el alquiler de cinco años de una pequeña casa en la zona media de [[Rogaril]]. Este espacio representa su primera base de operaciones estable en la superficie, un refugio seguro desde donde puede continuar su vida y planear sus próximos pasos. A pesar de esta aparente estabilidad, el peso de su pacto con [[Xerathor]] sigue siendo una carga constante, y cada batalla que libra para ganar dinero alimenta al demonio al que está atada.
 

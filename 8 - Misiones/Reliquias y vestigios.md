@@ -14,7 +14,7 @@ Línea de misión principal activa. El grupo está vinculado a una profecía rel
 
 ## Resumen
 
-Desde las primeras sesiones, [[Caraxys]] ofrece ayuda sobre el vínculo del grupo a cambio de recuperar armas legendarias. Más adelante, la búsqueda se concreta alrededor de una profecía de los vestigios que interesa a líderes, facciones y fuerzas divinas. En la [[Sesión 32]], Caraxys afirma que la profecía que recibe está incompleta y que existe una segunda parte en las ruinas del Este. El primer objetivo parece ser el vestigio de [[Mathulio]]. En la [[Sesión 34]], la [[La Luna Roja|Luna Roja]] devuelve la vida a [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]], y afirma necesitar las reliquias para liberarse de su yugo.
+Desde las primeras sesiones, [[Caraxys]] ofrece ayuda sobre el vínculo del grupo a cambio de recuperar armas legendarias. Más adelante, la búsqueda se concreta alrededor de una profecía de los vestigios que interesa a líderes, facciones y fuerzas divinas. En la [[Sesión 32]], Caraxys afirma que la profecía que recibe está incompleta y que existe una segunda parte en las ruinas del Este. El primer objetivo parece ser el vestigio de [[Mathulio]]. En la [[Sesión 34]], la [[La Luna Roja|Luna Roja]] devuelve la vida a [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]], y afirma necesitar las reliquias para liberarse de su yugo. En la [[Sesión 37]], Nérthoran identifica un fragmento de corona de espinas como parte de la corona que una mortal usó para matar a [[Myrkull]], lo que abre una posible vía paralela para desafiar o matar dioses.
 
 ## Objetivos actuales
 
@@ -39,6 +39,8 @@ Desde las primeras sesiones, [[Caraxys]] ofrece ayuda sobre el vínculo del grup
 - En la [[Sesión 34]], la [[La Luna Roja|Luna Roja]] se manifiesta ante Juaniguel y Nérthoran durante su muerte y los devuelve a la vida.
 - Juaniguel cuenta que en [[Ibermaris]] la Luna Roja recibe el nombre de Grana, mientras que en [[Gallix]] es [[Reiro]].
 - La Luna Roja afirma estar sometida y necesitar las reliquias para liberarse.
+- En la [[Sesión 37]], [[Nérthoran Yúribel|Nérthoran]] retira de la nuca del [[Guardián del árbol madre|guardián de Castimandra]] un fragmento de una corona metálica astada.
+- Nérthoran identifica ese fragmento como parte de la corona de espinas que una mortal utilizó para matar a [[Myrkull]].
 
 ## Personas y fuerzas implicadas
 
@@ -60,6 +62,10 @@ Primer objetivo indicado por Caraxys. Se encuentra hacia el este, en dirección 
 
 Caraxys habla al principio de recuperar armas legendarias. Aún no está confirmado si esas armas son los mismos vestigios, una forma antigua de nombrarlos o una parte distinta de la misión.
 
+### Fragmento de la corona de espinas
+
+En la [[Sesión 37]], Nérthoran conserva un fragmento de la corona de espinas que una mortal usó para matar a [[Myrkull]]. No está confirmado que sea un vestigio, pero sí funciona como pista relevante dentro de la búsqueda de reliquias capaces de alterar el equilibrio divino.
+
 ## Preguntas abiertas
 
 - ¿Qué son exactamente los vestigios?
@@ -70,6 +76,7 @@ Caraxys habla al principio de recuperar armas legendarias. Aún no está confirm
 - ¿La búsqueda de reliquias ayuda a romper la maldición o solo empuja al grupo hacia otro conflicto mayor?
 - ¿Qué significa que la Luna Roja pueda devolver la vida y aun así esté sometida?
 - ¿Qué yugo mantiene sometida a la Luna Roja?
+- ¿El fragmento de la corona de espinas es un vestigio, una reliquia independiente o una herramienta de otra trama divina?
 
 ## Riesgos
 
@@ -89,6 +96,7 @@ Caraxys habla al principio de recuperar armas legendarias. Aún no está confirm
 - [[Sesión 32]]
 - [[Sesión 33]]
 - [[Sesión 34]]
+- [[Sesión 37]]
 
 ## Relacionado
 
@@ -97,4 +105,6 @@ Caraxys habla al principio de recuperar armas legendarias. Aún no está confirm
 - [[Romper la maldición del vínculo]]
 - [[Caraxys]]
 - [[Mathulio]]
+- [[Nérthoran Yúribel]]
 - [[Reiro]]
+- [[Myrkull]]

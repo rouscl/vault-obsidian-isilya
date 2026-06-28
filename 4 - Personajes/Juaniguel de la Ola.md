@@ -1,7 +1,7 @@
 
 > [!infobox]
 > # Juaniguel de la Ola
-> ![[Juaniguel.png]]
+> ![[Juaniguel paladín.png]]
 > ###### Información
 > | Raza  | Subraza |
 > | ------ | -------- |
@@ -48,9 +48,11 @@ Ver: [[Juaniguel de la Ola - evolución]]
 
 ## Estado en campaña
 
-Juaniguel es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]] y [[Nérthoran Yúribel]].
+Juaniguel es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]], [[Nérthoran Yúribel]] y [[Mishka]].
 
 En la [[Sesión 34]], Juaniguel muere en las [[Ruinas bajo el monolito]] y es devuelto a la vida por la [[La Luna Roja|Luna Roja]]. Durante su muerte alcanza los jardines dorados de [[Timora]], pero es arrancado hacia un mar infinito donde la Luna Roja se manifiesta ante él y [[Nérthoran Yúribel|Nérthoran]]. Juaniguel identifica a esa entidad como Grana en canciones de [[Ibermaris]] y como [[Reiro]] en [[Gallix]].
+
+Tras la resolución de la misión del guardián de [[Castimandra]], las recompensas del grupo con la ciudad quedan saldadas y Juaniguel recibe una casa en propiedad.
 
 ## **Infancia**
 
@@ -78,7 +80,7 @@ A regañadientes, Juaniguel aceptó posponer su venganza y empezar a moverse ent
 
 En una posada portuaria, Juaniguel supo que **los bandidos habían sido derrotados**, pero **sus líderes escaparon**. Los supervivientes de la troupe fueron vendidos como esclavos. Esto reavivó su deseo de buscar a [[Azahara]], a los suyos, y cobrar cuentas pendientes.
 
-## **Actualidad**
+## Situación al inicio de la crónica
 
 [[Mathulio]] despertó en un establo en las afueras de [[Rogaril]], al oeste de [[Isilya]]. Su cabeza latía como si una banda de tambores estuviera golpeando sin piedad, y el hedor a alcohol mezclado con paja húmeda le hacía retorcerse el estómago. Mientras intentaba incorporarse, escuchó un ronquido familiar: Juaniguel, su eterno compañero de aventuras, dormía plácidamente a su lado, envuelto en una capa raída y con su laúd maltratado aún colgando de su hombro.
 

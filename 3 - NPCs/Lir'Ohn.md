@@ -32,17 +32,17 @@ Lir'Ohn es la regente de la tienda de magia de [[Castimandra]]. En la [[Sesión 
 
 Ese encargo conduce al grupo hasta las [[Ruinas bajo el monolito]] en la [[Sesión 33]].
 
-En la [[Sesión 35]], el grupo le entrega el cofre recuperado de las ruinas. Lir'Ohn revela que contiene dagas pixie, armas capaces de matar de verdad a los faes y vinculadas a la primera persona que ven. Cumple entonces su parte del trato: acelera la eclosión del [[Huevo de Juaniguel]], del que nace un dracohalcón que podrá servir como montura en cuatro meses gracias a su hechizo acelerador.
+En la [[Sesión 35]], el grupo le entrega el cofre recuperado de las ruinas. Lir'Ohn revela que contiene dagas pixie, armas capaces de matar de verdad a los faes y vinculadas a la primera persona que ven. Cumple entonces su parte del trato: acelera la eclosión del [[Huevo de Juaniguel]], del que nace [[Brillo]], un dracohalcón que podrá servir como montura en cuatro meses gracias a su hechizo acelerador.
 
 ## Notas
 
 - Su interés concreto en el objeto mágico de las ruinas aún no está explicado.
 - Tiene conocimientos o recursos suficientes para intervenir en la eclosión del huevo de Juaniguel.
-- El guardián fae de las [[Ruinas bajo el monolito]] la reconoce como un dendrómata que le tenía inquina, lo que sugiere una hostilidad previa con los defensores fae del lugar.
+- El [[Guardián fae de las ruinas]] la reconoce como un dendrómata que le tenía inquina, lo que sugiere una hostilidad previa con los defensores fae del lugar.
 
 ## Estado actual
 
-Su encargo al grupo queda cumplido en la [[Sesión 35]], pero conserva relevancia latente por su interés en las dagas pixie, su relación hostil con los faes de las ruinas y su capacidad para acelerar el crecimiento del dracohalcón de [[Juaniguel de la Ola|Juaniguel]].
+Su encargo al grupo queda cumplido en la [[Sesión 35]], pero conserva relevancia latente por su interés en las dagas pixie, su relación hostil con los faes de las ruinas y su capacidad para acelerar el crecimiento de [[Brillo]], el dracohalcón de [[Juaniguel de la Ola|Juaniguel]].
 
 ## Sesiones relacionadas
 

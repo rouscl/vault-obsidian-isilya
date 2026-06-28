@@ -28,8 +28,12 @@ Castimandra es una ciudad druídica organizada por alturas, con una relación pr
 - En la [[Sesión 33]], el libro de [[Nérthoran Yúribel|Nérthoran]] define a las lloronas como espectros que transforman el amor en odio irracional; también se plantea que el guardián más amante del árbol madre podría estar maldito e infectando el árbol, aunque esto sigue siendo una hipótesis.
 - En esa misma sesión, el grupo acepta resolver la misión del guardián si la teoría se confirma, pero las [[Ruinas bajo el monolito]] pertenecen al encargo secundario de [[Lir'Ohn]] para acelerar la eclosión del [[Huevo de Juaniguel]].
 - El consejo ofrece al grupo vivienda, necesidades básicas cubiertas de por vida y el título de héroes de Castimandra si eliminan al guardián y la teoría se confirma.
+- En la [[Sesión 36]], el consejo proporciona una expedición por el Camino del Norte hacia el guardián. El grupo atraviesa un bosque-laberinto con ranas gigantes que contienen siluetas humanoides en sus buches y acampa en un claro antes de resolver el camino.
+- En la [[Sesión 37]], el grupo libera al guardián de la corrupción al retirar de su nuca un fragmento de corona metálica astada. El bosque y el Árbol Madre se revitalizan, la ciudad recibe al grupo como héroes y [[Tunia]] confirma que se está preparando una escultura conmemorativa, aunque [[Alyre A'Dariir|Alyre]] queda fuera por petición propia.
+- Tras la resolución de la misión, las recompensas acordadas con Castimandra quedan saldadas: [[Púpil]] cumple la retirada de las búsquedas de [[Alyre A'Dariir|Alyre]] y [[Mathulio]], y [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]] reciben casas en propiedad. El cartel de búsqueda de Juaniguel no formaba parte del trato con Púpil.
 
 ## Ubicación Geográfica
 
 - Situada al sur de la ruta marítima seguida desde el [[Puente de la Paz]].
 - En sus cercanías se encuentran la granja de [[Paige]], el claro donde el grupo se reúne con [[Caraxys]] en la [[Sesión 32]] y las [[Ruinas bajo el monolito]].
+- Al norte de la ciudad se abre el Camino del Norte, usado por la expedición de la [[Sesión 36]] para avanzar hacia el guardián del árbol madre.

@@ -48,7 +48,7 @@ Ver: [[Mathulio - evolución]]
 
 ## Estado en campaña
 
-Mathulio es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]] y [[Nérthoran Yúribel]].
+Mathulio es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]], [[Nérthoran Yúribel]] y [[Mishka]].
 
 ## **Infancia**
 
@@ -104,7 +104,7 @@ En medio de este caos, lograron cargar el oro en un barco improvisado y zarpar r
 
 
 
-## Actualidad
+## Situación al inicio de la crónica
 
 Mathulio despertó en un establo en las afueras de [[Rogaril]], al oeste de [[Isilya]]. Su cabeza latía como si una banda de tambores estuviera golpeando sin piedad, y el hedor a alcohol mezclado con paja húmeda le hacía retorcerse el estómago. Mientras intentaba incorporarse, escuchó un ronquido familiar: [[Juaniguel de la Ola]], su eterno compañero de aventuras, dormía plácidamente a su lado, envuelto en una capa raída y con su laúd maltratado aún colgando de su hombro.
 
@@ -121,6 +121,4 @@ A pesar de la situación, Mathulio no podía evitar sonreír. Había algo reconf
 > [!kith|family] **Paco, Mari Carmen**
 
 > [!kith|antagonist] **Hernán Cortés**
-
-
 

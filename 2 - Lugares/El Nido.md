@@ -27,6 +27,8 @@ En el Nido de Castimandra hay un tablón donde aparecen carteles de búsqueda de
 
 En la [[Sesión 35]], [[Mathulio]] y [[Alyre A'Dariir|Alyre]] identifican a dos ladrones del Nido entre los aventureros muertos a la salida de las [[Ruinas bajo el monolito]]. Llevaban carteles de búsqueda del grupo. Más tarde, Mathulio encuentra en el Nido un pergamino que anuncia que [[Humbert Talorian]] será juzgado en [[Rogaril]] por lo descubierto sobre el Culto de la Carne Retorcida.
 
+En la [[Sesión 37]], Mathulio y Alyre vuelven al Nido para comprobar si [[Púpil]] ha cumplido la retirada de sus carteles de búsqueda. El tabernero pide saber el nombre de la casa de Alyre antes de dar información sobre posibles cultos de [[Bhaal]]; ella no lo pronuncia, sino que le muestra su sello personal para que deduzca la [[Casa A'Dariir]]. A cambio, reciben una pista procedente del gremio de [[Ibermaris]] sobre rituales y sucesos extraños con pinta de estar relacionados con Bhaal.
+
 ### Rogaril
 
 En [[Rogaril]] ya se había mostrado una red de ladrones, maleantes e informantes conectada con [[Jasper]], [[Klorg]] y _The Spoon_. [[Jasper]] advierte a Alyre en la [[Sesión 5]] de que uno de sus nuevos compañeros pertenece a su mismo gremio, apuntando a [[Mathulio]]. Aunque en esas primeras sesiones no se usa todavía el nombre "El Nido", encaja con la denominación general del Gremio de Ladrones establecida para la partida.

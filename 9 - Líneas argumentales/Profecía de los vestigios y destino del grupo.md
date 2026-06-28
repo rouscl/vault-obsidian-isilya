@@ -18,6 +18,22 @@ La profecía aparece como una pieza central alrededor de la maldición del grupo
 
 En la [[Sesión 21]], el [[Pergamino de la profecía de los vestigios|pergamino]] habla de cuatro vestigios para cuatro valientes y confirma que [[Reiro]] es el dios de la luna roja. En la [[Sesión 32]], [[Caraxys]] recibe la profecía y afirma que está incompleta: existe una segunda parte en las ruinas del Este. También interpreta a [[Reiro]] como una representación del bien, adaptable según cada cultura o dios local. En la [[Sesión 34]], la [[La Luna Roja|Luna Roja]] devuelve la vida a [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]], y afirma necesitar las reliquias para liberarse de su yugo.
 
+## Transcripción literal
+
+> El mundo está un poco más en su lugar.
+>
+> Entre grandes gestas y pequeños gestos, el equilibrio empieza su aventura.
+>
+> Cuatro vestigios para cuatro valientes.
+>
+> A la madre seda.
+> Al paladín de Midas.
+> El titerista exiliado.
+> La sombra dorada.
+>
+> Pronto reunirán sus mangos las almas que los reclaman.
+> Juntos, harán que Reiro brille de nuevo.
+
 ## Hechos confirmados
 
 - La profecía de los vestigios existe y ha sido buscada por grupos enviados desde [[Rogaril]].

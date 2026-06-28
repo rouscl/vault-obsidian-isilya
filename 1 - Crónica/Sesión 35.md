@@ -57,8 +57,8 @@ date_created: 2026-05-31
 - Alyre obtiene cuatro dosis que permiten ver a los muertos durante una hora, hablar con ellos y ser vista por ellos.
 - Mathulio descubre en el [[El Nido|Nido]] un pergamino que anuncia que [[Humbert Talorian]] será juzgado en [[Rogaril]] por lo descubierto sobre el Culto de la Carne Retorcida.
 - El cofre entregado a [[Lir'Ohn]] contiene unas dagas pixie, vinculadas a la primera persona que ven y capaces de matar de verdad a los faes.
-- [[Lir'Ohn]] cumple el trato: acelera la eclosión del [[Huevo de Juaniguel]], del que nace un dracohalcón.
-- Gracias al hechizo acelerador de Lir'Ohn, el dracohalcón podrá usarse como montura en cuatro meses.
+- [[Lir'Ohn]] cumple el trato: acelera la eclosión del [[Huevo de Juaniguel]], del que nace [[Brillo]], un dracohalcón.
+- Gracias al hechizo acelerador de Lir'Ohn, [[Brillo]] podrá usarse como montura en cuatro meses.
 - Lir'Ohn menciona que pronto serán las fiestas de celebración de la cosecha.
 - [[Una Fa]] se sorprende al saber que Alyre ha identificado los usos de la flor en un solo día, porque ella tardó dos.
 
@@ -91,7 +91,7 @@ Después intentó distraerse estudiando la flor que le había regalado [[Una Fa]
 
 Mientras tanto, el resto del grupo hizo compras por la ciudad, salvo Mathulio, que acudió al Nido. Allí descubrió un pergamino que anunciaba que [[Humbert Talorian]] sería juzgado en [[Rogaril]] por lo descubierto sobre el Culto de la Carne Retorcida.
 
-Cuando llevaron el cofre a Lir'Ohn, la naturaleza del encargo quedó por fin clara. Dentro había unas dagas pixie, armas que se vinculaban a la primera persona que veían y servían para matar de verdad a los faes. A cambio, Lir'Ohn cumplió su promesa y aceleró la eclosión del [[Huevo de Juaniguel]]. De él nació un dracohalcón. Gracias al hechizo acelerador de la dendrómata, en cuatro meses podría servir como montura. Antes de que se marcharan, Lir'Ohn mencionó que pronto llegarían las fiestas de celebración de la cosecha.
+Cuando llevaron el cofre a Lir'Ohn, la naturaleza del encargo quedó por fin clara. Dentro había unas dagas pixie, armas que se vinculaban a la primera persona que veían y servían para matar de verdad a los faes. A cambio, Lir'Ohn cumplió su promesa y aceleró la eclosión del [[Huevo de Juaniguel]]. De él nació [[Brillo]], un dracohalcón. Gracias al hechizo acelerador de la dendrómata, en cuatro meses podría servir como montura. Antes de que se marcharan, Lir'Ohn mencionó que pronto llegarían las fiestas de celebración de la cosecha.
 
 Nérthoran pasó por la tienda de Una Fa para comprar pociones de vida y antídotos. Alyre le pidió que transmitiera que ya había identificado los usos de la planta. Una Fa se sorprendió al saber que lo había conseguido en un solo día, porque ella había tardado dos.
 

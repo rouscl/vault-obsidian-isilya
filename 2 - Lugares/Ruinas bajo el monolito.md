@@ -29,7 +29,7 @@ En la [[Sesión 33]], el monolito plantea el enigma: "la vida es un ciclo que vu
 - Tras huir del derrumbe, el grupo alcanza una sala amplia con luz y escaleras ascendentes.
 - Más adelante hay una cámara inundada con una puerta grande de grabados rúnicos y dos palancas enormes. Al manipularlas, el nivel del agua cambia y aparece un humo verde.
 - Detrás de la puerta hay una gran sala cubierta de musgo verde, con una figura estilizada que se mueve de forma errática al fondo.
-- En la [[Sesión 35]], la figura se identifica como un guardián fae del tesoro de las ruinas. Habla con cuatro voces, desaparece entre las plantas y usa un orbe que libera nubes venenosas y cegadoras.
+- En la [[Sesión 35]], la figura se identifica como el [[Guardián fae de las ruinas]], protector del tesoro fae. Habla con cuatro voces, desaparece entre las plantas y usa un orbe que libera nubes venenosas y cegadoras.
 - El guardián reconoce a [[Lir'Ohn]] como un dendrómata que le tenía inquina.
 - Más allá hay una sala con una cascada que nace de una boca de piedra, cae sobre dos manos gigantescas y termina en un estanque. Las runas de la lengua esculpida dicen: "Bajo el espejo de las palmas".
 - El cofre buscado por [[Lir'Ohn]] está en el fondo del estanque. Tras recuperarlo, el grupo sale por una gruta hacia el obelisco exterior.
@@ -44,7 +44,7 @@ El grupo completa la exploración principal de las ruinas en la [[Sesión 35]] y
 - Quién construyó las ruinas y por qué los glifos están en fae.
 - Qué relación tienen las gárgolas lechúcico con la vigilancia de [[Castimandra]] o con la defensa del lugar.
 - Si el cadáver traicionado pertenece a la historia de las ruinas, al objeto buscado por [[Lir'Ohn]] o a otro conflicto anterior.
-- Qué relación tuvo [[Lir'Ohn]] con el guardián fae o con los antiguos protectores del lugar.
+- Qué relación tuvo [[Lir'Ohn]] con el [[Guardián fae de las ruinas]] o con los antiguos protectores del lugar.
 
 ## Sesiones relacionadas
 

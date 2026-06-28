@@ -34,6 +34,8 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - En la [[Sesión 33]], [[Alyre A'Dariir|Alyre]] acepta un tatuaje mágico de [[Pov]] que refuerza su vínculo con [[Loth]] y permite contactar con ella una vez al mes.
 - En la [[Sesión 35]], Alyre usa por primera vez el tatuaje. [[Loth]] refuerza el hilo que la une a ella, pero exige que [[Elendar]] muera como asunto pendiente por la orden desobedecida.
 - En la [[Sesión 36]], tras aquel encuentro, Alyre propone a [[Nérthoran Yúribel|Nérthoran]] desafiar a los dioses si el grupo reúne poder suficiente; Nérthoran acepta. Sus pesadillas repiten muertes a manos de Loth, Xerathor, Bhaal y Elendar, sin que se confirme que sean proféticas.
+- En la [[Sesión 37]], Nérthoran obtiene un fragmento de la corona de espinas que una mortal utilizó para matar a [[Myrkull]]. Alyre lo interpreta como un posible punto de partida para la empresa de desafiar o matar dioses.
+- En esa misma sesión, [[El Nido]] transmite información procedente de [[Ibermaris]] sobre rituales y sucesos extraños con pinta de estar relacionados con [[Bhaal]].
 
 ## Conflictos abiertos
 
@@ -45,6 +47,7 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - [[Loth]] no ha resuelto el conflicto por ella: exige fe, obediencia y prueba, y ha situado la muerte de [[Elendar]] como deuda explícita.
 - [[Bhaal]] conoce vulnerabilidades íntimas de [[Alyre A'Dariir|Alyre]] y no parece aceptar el rechazo.
 - [[Elendar]] sigue siendo punto de presión compartido por [[Loth]], [[Xerathor]] y [[Bhaal]].
+- La existencia del fragmento de corona ofrece una vía concreta, pero potencialmente peligrosa, para convertir la idea de matar dioses en algo menos abstracto.
 
 ## Preguntas abiertas
 
@@ -53,6 +56,8 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - ¿Qué hará Alyre con la exigencia de [[Loth]] de matar a [[Elendar]]?
 - ¿Qué alcance tiene la frase de [[Loth]] sobre "la sombra de tu secreto"?
 - ¿Qué quiere exactamente [[Bhaal]] de [[Alyre A'Dariir|Alyre]]?
+- ¿Los rituales relacionados con [[Bhaal]] en [[Ibermaris]] forman parte de su presión sobre Alyre o de una amenaza independiente?
+- ¿Qué precio tiene conservar o usar el fragmento de la corona de espinas contra una divinidad?
 - ¿[[Loth]] acabará protegiendo a [[Alyre A'Dariir|Alyre]], reclamándola con más dureza o castigándola por el pacto?
 - ¿Hasta dónde llegará [[Alyre A'Dariir|Alyre]] antes de considerar que el poder de [[Xerathor]] cuesta demasiado?
 - ¿Podrá Alyre volver al [[Menzoberranzan#Underdark|Underdark]] sin que el pacto con [[Xerathor]] la destruya política, religiosa o personalmente?
@@ -70,6 +75,7 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - [[Sesión 30]]
 - [[Sesión 33]]
 - [[Sesión 35]]
+- [[Sesión 37]]
 
 ## Relacionado
 

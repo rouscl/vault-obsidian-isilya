@@ -14,15 +14,14 @@ El huevo de [[Juaniguel de la Ola|Juaniguel]] es un huevo que el personaje lleva
 
 En la [[Sesión 31]], [[Lir'Ohn]], regente de la tienda de magia de [[Castimandra]], ofrece acelerar su eclosión hasta reducirla a tres días si el grupo recupera para ella un objeto mágico a las afueras de la ciudad.
 
-En la [[Sesión 35]], tras entregar a Lir'Ohn el cofre recuperado de las [[Ruinas bajo el monolito]], el huevo eclosiona. De él nace un dracohalcón. Lir'Ohn lanza además un hechizo acelerador que permitirá usarlo como montura en cuatro meses.
+En la [[Sesión 35]], tras entregar a Lir'Ohn el cofre recuperado de las [[Ruinas bajo el monolito]], el huevo eclosiona. De él nace [[Brillo]], un dracohalcón. Lir'Ohn lanza además un hechizo acelerador que permitirá usarlo como montura en cuatro meses.
 
 ## Estado actual
 
-El huevo ya ha eclosionado en la [[Sesión 35]]. La criatura nacida es un dracohalcón vinculado a [[Juaniguel de la Ola|Juaniguel]]; todavía no consta nombre propio en las notas.
+El huevo ya ha eclosionado en la [[Sesión 35]]. La criatura nacida es [[Brillo]], un dracohalcón vinculado a [[Juaniguel de la Ola|Juaniguel]].
 
 ## Dudas abiertas
 
-- Qué nombre recibirá el dracohalcón.
 - Qué capacidades tendrá cuando pueda usarse como montura.
 - Si el hechizo acelerador de [[Lir'Ohn]] tendrá alguna consecuencia mágica, emocional o práctica para Juaniguel o para la criatura.
 
@@ -36,6 +35,7 @@ El huevo ya ha eclosionado en la [[Sesión 35]]. La criatura nacida es un dracoh
 ## Relacionado
 
 - [[Juaniguel de la Ola]]
+- [[Brillo]]
 - [[Lir'Ohn]]
 - [[Encargo de Lir'Ohn]]
 - [[Ruinas bajo el monolito]]

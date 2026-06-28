@@ -10,7 +10,7 @@ tags:
 
 ## Estado
 
-Trama activa. La amenaza de [[Castimandra]] conecta niños asesinados, madres alteradas, lloronas, energía nigromántica y el posible deterioro del árbol madre.
+Trama activa. La amenaza de [[Castimandra]] conecta niños asesinados, madres alteradas, lloronas, energía nigromántica y el deterioro del árbol madre. La corrupción inmediata del guardián queda resuelta en la [[Sesión 37]]: el guardián corrupto era el foco de infección en Castimandra, aunque sigue sin saberse quién lo subyugó.
 
 ## Núcleo de la trama
 
@@ -25,20 +25,24 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 - [[Paige]] y [[Lovna]] fueron alteradas o poseídas tras la muerte de su hija.
 - Las lloronas son espectros que transforman el amor en odio irracional.
 - Los cuerpos de niños son desmembrados y colgados del árbol, y parecen alimentar de algún modo la amenaza.
-- Dos personas no identificadas abandonaron [[Castimandra]] durante la madrugada posterior al ataque en la granja.
-- El grupo plantea que el guardián más amante del árbol madre podría estar maldito e infectando el árbol desde dentro.
+- Dos personas no identificadas abandonaron [[Castimandra]] durante la madrugada posterior al ataque en la granja y se fueron hacia el Este, sin que se les atribuya de momento un papel relevante en la corrupción del guardián.
+- La hipótesis del grupo sobre el guardián queda confirmada en la [[Sesión 37]]: el guardián corrupto era el foco de infección de [[Castimandra]].
 - En la [[Sesión 36]], el consejo organiza una expedición hacia el guardián por el Camino del Norte. El grupo atraviesa un bosque-laberinto, pero aún no llega a su destino; las [[Ruinas bajo el monolito]] corresponden al encargo secundario de [[Lir'Ohn]], no a esta investigación.
+- En la [[Sesión 37]], el grupo alcanza al guardián y descubre que era el foco de infección de [[Castimandra]]. La corrupción procede de un fragmento de una corona metálica astada clavado detrás de su nuca, usado como medio para controlarlo. Al retirarlo, el guardián deja de atacar y ayuda a restaurar el bosque.
+- Nérthoran identifica el fragmento como parte de la corona de espinas que una mortal utilizó para matar a [[Myrkull]].
+- La magia que subyuga al guardián es nigromancia de [[Myrkull]], vinculada al heraldo al que el grupo está buscando.
+- [[Paige]] y [[Lovna]] salen de su encierro voluntario con ayuda de [[Juaniguel de la Ola|Juaniguel]] y [[Mishka]], pero piden refugiarse unos días en casa de Mishka porque aún no se sienten listas para volver a su granja.
 - Durante su muerte, [[Nérthoran Yúribel|Nérthoran]] percibe un punto de energía en el reino de las almas que podría permitir desmontar el enlace de las lloronas con el plano mortal.
 
 ## Sospechas y preguntas abiertas
 
-- No está confirmado que el guardián del árbol madre sea la fuente real de la corrupción.
 - No se sabe quién es el nigromante que ha encontrado la manera de usar a los niños.
+- No se sabe quién subyugó al guardián, quién clavó el fragmento de corona en su nuca ni cómo obtuvo un objeto vinculado a la muerte de [[Myrkull]].
 - No está claro si el heraldo de [[Myrkull]] actúa por voluntad propia, por mandato de Myrkull o como pieza manipulada por otra fuerza.
 - Falta saber si las lloronas son víctimas, herramientas, agentes conscientes o todo a la vez.
 - La conexión entre la luna roja, [[Reiro]] y la amenaza de [[Castimandra]] sigue sin resolverse.
 - Falta confirmar si Nérthoran puede volver a localizar ese punto de energía desde el reino de las almas sin morir otra vez, que sería un método bastante poco cómodo incluso para esta campaña.
-- No se sabe qué relación guardan las ranas gigantes con siluetas humanoides en sus buches, el acertijo de las coronas o el camino hasta el guardián.
+- La información de [[El Nido]] sobre rituales relacionados con [[Bhaal]] en [[Ibermaris]] puede conectar esta trama con una amenaza más amplia, pero de momento no está confirmado.
 
 ## Sesiones clave
 
@@ -48,6 +52,7 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 - [[Sesión 33]]
 - [[Sesión 34]]
 - [[Sesión 36]]
+- [[Sesión 37]]
 
 ## Relacionado
 
@@ -59,3 +64,5 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 - [[Viuda Fillai]]
 - [[Myrkull]]
 - [[Reiro]]
+- [[Bhaal]]
+- [[Mishka]]

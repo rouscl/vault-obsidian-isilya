@@ -37,6 +37,7 @@ tags:
 - En la [[Sesión 31]], despierta tras el combate y expulsa al grupo de su casa, dolida porque no limpiaron la sangre de su hija de sus manos.
 - En la [[Sesión 32]], el grupo evita encontrarse directamente con Paige y [[Lovna]] en la Asamblea de [[Castimandra]] por miedo a que sigan enfadadas y puedan delatarlos ante [[Alphonse Valdrak|La Mano]].
 - En la [[Sesión 33]], comparece en el juicio con aspecto desmejorado y ausente. Mantiene una ira contenida hacia el grupo, aunque no hacia [[Juaniguel de la Ola|Juaniguel]], que declara como testigo.
+- En la [[Sesión 37]], [[Juaniguel de la Ola|Juaniguel]] y [[Mishka]] acuden a sacar a Paige y [[Lovna]] del encierro voluntario en el que permanecían para no dañar a sus hijos. Mishka, que las conoce de antes, las abraza y consigue darles una mínima esperanza. Paige pide a Juaniguel que, si descubre al responsable de maldecirlas, la avise en el código postal 3478 de [[Castimandra]]. Ella y Lovna piden quedarse unos días en casa de Mishka, porque aún no se sienten con fuerzas para volver a su granja.
 
 ## Notas
 
@@ -46,4 +47,4 @@ tags:
 
 ## Estado actual
 
-Paige sigue siendo relevante dentro de la trama de [[Castimandra]]. Su vínculo con el grupo no es puntual: viajó con ellos, los llevó en barco, compartió conversaciones personales y después los acogió en su granja. El ataque que terminó con la muerte de su hija rompió esa confianza. Su dolor, su ira contenida y el deterioro de su relación con Alyre pueden seguir teniendo consecuencias mientras la amenaza de las lloronas siga abierta.
+Paige sigue siendo relevante dentro de la trama de [[Castimandra]]. Su vínculo con el grupo no es puntual: viajó con ellos, los llevó en barco, compartió conversaciones personales y después los acogió en su granja. El ataque que terminó con la muerte de su hija rompió esa confianza. Tras la [[Sesión 37]], ya no permanece recluida, pero sigue marcada por el dolor y quiere saber quién la maldijo. Su relación con Alyre continúa deteriorada.

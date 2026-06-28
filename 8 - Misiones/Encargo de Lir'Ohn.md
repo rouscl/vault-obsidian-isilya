@@ -25,7 +25,7 @@ En la [[Sesión 31]], [[Juaniguel de la Ola|Juaniguel]] visita la tienda de magi
 
 ## Recompensa ofrecida
 
-[[Lir'Ohn]] acelera la eclosión del [[Huevo de Juaniguel]] en la [[Sesión 35]]. Del huevo nace un dracohalcón que, gracias al hechizo acelerador de Lir'Ohn, podrá usarse como montura en cuatro meses.
+[[Lir'Ohn]] acelera la eclosión del [[Huevo de Juaniguel]] en la [[Sesión 35]]. Del huevo nace [[Brillo]], un dracohalcón que, gracias al hechizo acelerador de Lir'Ohn, podrá usarse como montura en cuatro meses.
 
 ## Información conocida
 
@@ -36,7 +36,7 @@ En la [[Sesión 31]], [[Juaniguel de la Ola|Juaniguel]] visita la tienda de magi
 - En la [[Sesión 34]], la sala de las gárgolas se derrumba durante el combate. [[Nérthoran Yúribel|Nérthoran]] y [[Juaniguel de la Ola|Juaniguel]] mueren y son devueltos a la vida por la [[La Luna Roja|Luna Roja]].
 - El grupo avanza después hasta una cámara inundada con una puerta rúnica y dos palancas. Al accionar el mecanismo, el agua baja y empieza a salir un humo verde.
 - Tras cruzar la puerta, el grupo llega a una sala cubierta de musgo verde donde una figura estilizada y errática se mueve al fondo.
-- En la [[Sesión 35]], la figura se revela como un guardián fae que protege el tesoro de las ruinas. Habla con cuatro voces, usa un orbe que libera nubes venenosas y cegadoras, y reconoce a Lir'Ohn como un dendrómata hostil para él.
+- En la [[Sesión 35]], la figura se revela como el [[Guardián fae de las ruinas]], protector del tesoro fae. Habla con cuatro voces, usa un orbe que libera nubes venenosas y cegadoras, y reconoce a Lir'Ohn como un dendrómata hostil para él.
 - Tras derrotar al guardián, el grupo encuentra una sala con una cascada nacida de una boca de piedra, dos manos gigantescas y runas que dicen: "Bajo el espejo de las palmas".
 - El cofre buscado está en el fondo del estanque bajo las manos de piedra.
 - Lir'Ohn revela después que el cofre contiene dagas pixie, armas capaces de matar de verdad a los faes y vinculadas a la primera persona que ven.
@@ -59,5 +59,7 @@ En la [[Sesión 31]], [[Juaniguel de la Ola|Juaniguel]] visita la tienda de magi
 
 - [[Lir'Ohn]]
 - [[Juaniguel de la Ola]]
+- [[Brillo]]
 - [[Huevo de Juaniguel]]
 - [[Ruinas bajo el monolito]]
+- [[Guardián fae de las ruinas]]

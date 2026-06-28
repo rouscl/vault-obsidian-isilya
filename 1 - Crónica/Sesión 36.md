@@ -45,7 +45,7 @@ date_created: 2026-06-21
 
 <br>
 
-# Capítulo 36: Halfscale bajo las ranas
+# Capítulo 36: Media Escala bajo las ranas
 
 Después de los acontecimientos de la noche anterior, [[Alyre A'Dariir|Alyre]] permaneció en la habitación destrozada preparando venenos. Cuando subieron [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]], no disimuló la gravedad de lo ocurrido con [[Loth]]: había sido un mal encuentro. Se acercó a Nérthoran con una urgencia poco habitual y le preguntó si, después de haber buscado siempre el poder, estaría dispuesto a desafiar a los dioses si encontraban la fuerza necesaria. Nérthoran respondió que sí. Alyre lo abrazó. Juaniguel celebró la idea de matar a un dios maligno, pero ella le dejó claro que, para ella, matar a Loth no era un juego ni una encomienda divertida: era algo sacro y doloroso.
 
@@ -67,15 +67,14 @@ Tras la lucha, el camino se convirtió en un laberinto que se abría en tres sen
 
 ## Especulaciones
 
-- El apoyo de Nérthoran a Alyre confirma su disposición a desafiar a los dioses, pero no define todavía qué entidad concreta pretenden enfrentar ni qué coste tendría ese desafío.
-- Las pesadillas de Alyre reflejan sus temores tras la exigencia de [[Loth]] sobre [[Elendar]], pero no queda confirmado que sean una visión profética o una intervención sobrenatural.
+
 - La investigación de [[Tunia]] puede aclarar si el aspecto de Juaniguel y Nérthoran es una secuela de su resurrección y si acarrea efectos más allá de lo visible.
-- Las figuras humanoides dentro de las ranas y el acertijo de las coronas podrían estar vinculados al camino hacia el guardián del árbol madre, pero aún no se conoce su función ni la solución del laberinto.
-- La condición del hada sobre la sangre real y el recuerdo de Juaniguel apuntan a una solución basada en invertir o reinterpretar colores, aunque sigue siendo una deducción pendiente de probar.
+- Las figuras humanoides dentro de las ranas y el acertijo de las coronas podrían estar vinculados al camino hacia el guardián del árbol madre. En la [[Sesión 37]], el grupo alcanza al guardián y descubre que la corrupción procede de un fragmento de corona clavado en su nuca, aunque la función exacta de las ranas no queda aclarada.
+
 
 <br>
 
 #### Seguir leyendo
 
 [[Sesión 35|Página anterior]]
-Página siguiente pendiente
+[[Sesión 37|Página siguiente]]

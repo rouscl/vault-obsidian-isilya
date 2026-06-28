@@ -11,9 +11,9 @@ Relacionado con: [[Juaniguel de la Ola]]
 > [!summary] Estado actual
 > - **Raza / linaje:** Humano común
 > - **Clase / subclase:** Bardo, Colegio de la Elocuencia / Paladín de [[Timora]]
-> - **Aspecto actual:** Pendiente de actualizar según el último estado confirmado.
-> - **Estado narrativo:** Personaje jugador activo; viaja con [[Mathulio]], [[Alyre A'Dariir]] y [[Nérthoran Yúribel]]. Lleva consigo el [[Huevo de Juaniguel]], cuya eclosión intenta acelerar mediante el [[Encargo de Lir'Ohn]].
-> - **Imagen principal actual:** ![[Juaniguel.png]]
+> - **Aspecto actual:** Sin cambio físico estable confirmado; su referencia visual actual es la etapa como paladín de [[Timora]].
+> - **Estado narrativo:** Personaje jugador activo; viaja con [[Mathulio]], [[Alyre A'Dariir]], [[Nérthoran Yúribel]] y [[Mishka]]. El [[Huevo de Juaniguel]] ya eclosionó y de él nació [[Brillo]].
+> - **Imagen principal actual:** ![[Juaniguel paladín.png]]
 
 ## Línea de evolución
 
