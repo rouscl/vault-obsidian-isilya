@@ -23,6 +23,14 @@ function Get-RelativeVaultPath {
   throw "Target path is not inside vault root: $TargetPath"
 }
 
+function ConvertTo-VaultKey {
+  param(
+    [Parameter(Mandatory = $true)][string]$Value
+  )
+
+  return $Value.Normalize([System.Text.NormalizationForm]::FormC).ToLowerInvariant()
+}
+
 $failures = New-Object System.Collections.Generic.List[string]
 
 $allFiles = Get-ChildItem -LiteralPath $root -Recurse -File -Force |
@@ -34,11 +42,13 @@ $markdownByStem = @{}
 
 foreach ($file in $allFiles) {
   $relative = Get-RelativeVaultPath -BasePath $root -TargetPath $file.FullName
-  $filesByRelative[$relative.ToLowerInvariant()] = $true
-  $filesByName[$file.Name.ToLowerInvariant()] = $true
+  $relativeKey = ConvertTo-VaultKey -Value $relative
+  $fileNameKey = ConvertTo-VaultKey -Value $file.Name
+  $filesByRelative[$relativeKey] = $true
+  $filesByName[$fileNameKey] = $true
 
   if ($file.Extension -ieq ".md") {
-    $stem = [System.IO.Path]::GetFileNameWithoutExtension($file.Name).ToLowerInvariant()
+    $stem = ConvertTo-VaultKey -Value ([System.IO.Path]::GetFileNameWithoutExtension($file.Name))
     if (-not $markdownByStem.ContainsKey($stem)) {
       $markdownByStem[$stem] = New-Object System.Collections.Generic.List[string]
     }
@@ -74,13 +84,13 @@ foreach ($file in $markdownFiles) {
     $hasExtension = [System.IO.Path]::GetExtension($target)
 
     if ($hasExtension) {
-      $normalized = $target.TrimStart("/").ToLowerInvariant()
-      $fileName = [System.IO.Path]::GetFileName($target).ToLowerInvariant()
+      $normalized = ConvertTo-VaultKey -Value $target.TrimStart("/")
+      $fileName = ConvertTo-VaultKey -Value ([System.IO.Path]::GetFileName($target))
       if (-not $filesByRelative.ContainsKey($normalized) -and -not $filesByName.ContainsKey($fileName)) {
         $failures.Add("$relativeFile links to missing file '$target'")
       }
     } else {
-      $stem = [System.IO.Path]::GetFileNameWithoutExtension($target).ToLowerInvariant()
+      $stem = ConvertTo-VaultKey -Value ([System.IO.Path]::GetFileNameWithoutExtension($target))
       if (-not $markdownByStem.ContainsKey($stem)) {
         $failures.Add("$relativeFile links to missing note '$target'")
       }
