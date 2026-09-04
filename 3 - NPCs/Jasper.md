@@ -26,7 +26,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Contacto importante y de confianza de [[Alyre A'Dariir|Alyre]] |
+> | Contacto importante y de confianza de [[Alyre A'Dariir]] |
 
 ## Información
 

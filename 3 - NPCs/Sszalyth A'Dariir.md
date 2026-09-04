@@ -24,7 +24,7 @@ tags:
 >
 > | Relación |
 > | --- |
-> | Madre de [[Livra]] y abuela materna de [[Alyre A'Dariir|Alyre]] |
+> | Madre de [[Livra]] y abuela materna de [[Alyre A'Dariir]] |
 
 ## Información
 

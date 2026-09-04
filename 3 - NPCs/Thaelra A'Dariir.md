@@ -23,7 +23,7 @@ tags:
 >
 > | Relación |
 > | --- |
-> | Tatarabuela de [[Alyre A'Dariir|Alyre]] y antepasada de la [[Casa A'Dariir]] |
+> | Tatarabuela de [[Alyre A'Dariir]] y antepasada de la [[Casa A'Dariir]] |
 
 ## Información
 

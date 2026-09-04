@@ -24,7 +24,7 @@ tags:
 >
 > | Relación |
 > | ----------------- |
-> | Clériga que recibe a [[Juaniguel de la Ola|Juaniguel]] |
+> | Clériga que recibe a [[Juaniguel de la Ola]] |
 
 ## Información
 

@@ -26,7 +26,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Madre, referente y obstáculo político de [[Alyre A'Dariir|Alyre]] |
+> | Madre, referente y obstáculo político de [[Alyre A'Dariir]] |
 
 ## Información
 

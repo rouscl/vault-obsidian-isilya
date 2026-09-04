@@ -25,7 +25,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Traidora / asesina enviada contra [[Alyre A'Dariir|Alyre]] |
+> | Traidora / asesina enviada contra [[Alyre A'Dariir]] |
 
 ## Información
 

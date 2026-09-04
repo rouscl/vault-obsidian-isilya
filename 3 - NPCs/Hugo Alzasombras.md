@@ -24,7 +24,7 @@ tags:
 >
 > | Relación |
 > | ----------------- |
-> | Devoto que reconoce a [[Nérthoran Yúribel|Nérthoran]] como «mi señor» |
+> | Devoto que reconoce a [[Nérthoran Yúribel]] como «mi señor» |
 
 ## Información
 

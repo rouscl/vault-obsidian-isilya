@@ -27,7 +27,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Informante política / posible aliada condicionada de [[Alyre A'Dariir|Alyre]] |
+> | Informante política / posible aliada condicionada de [[Alyre A'Dariir]] |
 
 ## Información
 

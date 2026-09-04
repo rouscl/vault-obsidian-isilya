@@ -24,7 +24,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Contacto comercial potencial de [[Alyre A'Dariir|Alyre]] |
+> | Contacto comercial potencial de [[Alyre A'Dariir]] |
 
 ## Información
 

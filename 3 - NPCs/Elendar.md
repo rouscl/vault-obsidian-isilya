@@ -26,7 +26,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Amante y compañero de [[Alyre A'Dariir|Alyre]]; separado de ella durante la crónica |
+> | Amante y compañero de [[Alyre A'Dariir]]; separado de ella durante la crónica |
 
 ## Información
 

@@ -23,7 +23,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Contacto del gremio; interés no correspondido por [[Alyre A'Dariir|Alyre]] |
+> | Contacto del gremio; interés no correspondido por [[Alyre A'Dariir]] |
 
 ## Información
 

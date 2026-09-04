@@ -24,7 +24,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Miembro de [[Rogaril#Estructura Política#"Los Cinco"|"Los Cinco"]] |
+> | Miembro de [[Rogaril#Estructura Política#"Los Cinco"]] |
 
 ## Información
 Perteneciente a la [[Casa Umbrafel]], es uno de [[Rogaril#Estructura Política#"Los Cinco"|"Los Cinco"]], líderes de [[Rogaril]]. 

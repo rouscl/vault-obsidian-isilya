@@ -24,7 +24,7 @@ tags:
 >
 > | Relación |
 > | --- |
-> | Matrona de la [[Casa Rhomduil]] y enemiga precrónica de [[Alyre A'Dariir|Alyre]] |
+> | Matrona de la [[Casa Rhomduil]] y enemiga precrónica de [[Alyre A'Dariir]] |
 
 ## Información
 

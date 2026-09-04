@@ -20,11 +20,11 @@ tags:
 > 
 > | Lugar de encuentro |
 > | --------- | 
-> | Trasfondo de [[Juaniguel de la Ola|Juaniguel]], [[Ibermaris]] | 
+> | Trasfondo de [[Juaniguel de la Ola]], [[Ibermaris]] |
 > 
 > | Relación       |
 > | ----------------- |
-> | Padre adoptivo de [[Juaniguel de la Ola|Juaniguel]] |
+> | Padre adoptivo de [[Juaniguel de la Ola]] |
 
 ## Información
 

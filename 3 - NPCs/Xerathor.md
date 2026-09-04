@@ -26,7 +26,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Antagonista personal y patrón forzoso de [[Alyre A'Dariir|Alyre]] |
+> | Antagonista personal y patrón forzoso de [[Alyre A'Dariir]] |
 
 ## Información
 

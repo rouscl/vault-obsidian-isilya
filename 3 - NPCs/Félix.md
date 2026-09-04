@@ -24,7 +24,7 @@ tags:
 >
 > | Relación |
 > | ----------------- |
-> | Contacto del gremio para [[Mathulio]] y [[Alyre A'Dariir|Alyre]] |
+> | Contacto del gremio para [[Mathulio]] y [[Alyre A'Dariir]] |
 
 ## Información
 

@@ -22,7 +22,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Contacto circunstancial de [[Juaniguel de la Ola|Juaniguel]] |
+> | Contacto circunstancial de [[Juaniguel de la Ola]] |
 
 ## Información
 
