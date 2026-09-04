@@ -27,6 +27,7 @@ En las sesiones recientes, [[Vaeris]] y [[Jasper]] aportan señales preocupantes
 - [[Vaeris]] informa de que [[Livra]], la madre de [[Alyre A'Dariir|Alyre]], está provocando conflictos en [[Menzoberranzan]].
 - [[Vaeris]] entrega una lista de personas a liberar y añade una condición: la matriarca [[Casa A'Dariir|A'Dariir]] debe morir.
 - [[Jasper]] descubre que [[Alyre A'Dariir|Alyre]] pertenece a la [[Casa A'Dariir]] y advierte que la Casa de los Susurros no suele interesarse por ecos lejanos sin motivo.
+- En la [[Sesión 39]], [[Lorena Neciente]] transmite a Alyre una posible oferta de trabajo bajo las órdenes exclusivas de [[Yaharis Eledhril]], vinculada a la Casa de los Susurros. Para que avance, Alyre tendría que demostrar quién robó en casa de Lorena. No hay confirmación directa de que Yaharis haya autorizado la propuesta.
 
 ## Rumores y datos no confirmados
 
@@ -34,6 +35,7 @@ En las sesiones recientes, [[Vaeris]] y [[Jasper]] aportan señales preocupantes
 - [[Jasper]] sospecha que a [[Livra]], la madre de [[Alyre A'Dariir|Alyre]], puede haberle ocurrido algo o que está abriendo guerras contra cualquiera capaz de sostener una daga.
 - [[Pov]] menciona a una drow que se hizo un tatuaje relacionado con el mar; [[Alyre A'Dariir|Alyre]] deduce que podría ser [[Vaeris]], pero no está confirmado.
 - La naturaleza exacta del interés de la Casa de los Susurros no está clara.
+- [[Lorena Neciente]] puede ser hermana de [[Lidy Lumena]], pero la identificación procede de un desliz al presentarse y de la deducción de Alyre.
 
 ## Preguntas abiertas
 
@@ -42,6 +44,7 @@ En las sesiones recientes, [[Vaeris]] y [[Jasper]] aportan señales preocupantes
 - ¿Qué papel tendrá [[Vaeris]] si [[Alyre A'Dariir|Alyre]] vuelve al [[Menzoberranzan#Underdark|Underdark]]?
 - ¿La condición de matar a la matriarca [[Casa A'Dariir|A'Dariir]] será inevitable, negociable o una bomba esperando el peor momento?
 - ¿Qué quiere la Casa de los Susurros de [[Rogaril]] con esta información?
+- ¿La propuesta de [[Lorena Neciente]] ofrece una vía real hacia [[Yaharis Eledhril|Eledhril]] o persigue un objetivo distinto?
 
 ## Sesiones clave
 
@@ -53,6 +56,7 @@ En las sesiones recientes, [[Vaeris]] y [[Jasper]] aportan señales preocupantes
 - [[Sesión 30]]
 - [[Sesión 31]]
 - [[Sesión 33]]
+- [[Sesión 39]]
 
 ## Relacionado
 
@@ -64,3 +68,5 @@ En las sesiones recientes, [[Vaeris]] y [[Jasper]] aportan señales preocupantes
 - [[Jasper]]
 - [[Livra]]
 - [[Casa Ilythiss]]
+- [[Yaharis Eledhril]]
+- [[Lorena Neciente]]

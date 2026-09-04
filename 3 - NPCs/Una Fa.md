@@ -36,11 +36,14 @@ En la [[Sesión 32]], Una Fa aparece entre las personas presentes en la Asamblea
 
 En la [[Sesión 35]], Alyre investiga la flor que Una Fa le había regalado. Descubre que permite preparar dosis capaces de ver a los muertos durante una hora, hablar con ellos y ser vista por ellos. Cuando Nérthoran le transmite que Alyre ha identificado sus usos en un solo día, Una Fa se sorprende, porque ella tardó dos.
 
+Tras la [[Sesión 38]], Alyre quiere preguntarle por los efectos de los componentes vegetales que consiguió en la fiesta de la cosecha de [[Castimandra]].
+
 ## Notas
 
 - Su nombre es Una Fa; no se trata de una descripción genérica ni de una referencia a una persona anónima.
 - La flor que entregó a Alyre permite preparar dosis de percepción e interacción con muertos durante una hora.
 - Puede convertirse en una aliada comercial si Alyre logra abrir una vía hacia el Underdark.
+- Queda pendiente identificar con ella los componentes obtenidos por Alyre y [[Mishka]] en la fiesta de la cosecha.
 
 ## Estado actual
 

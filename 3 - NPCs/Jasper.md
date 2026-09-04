@@ -42,6 +42,7 @@ Para [[Alyre A'Dariir|Alyre]], Jasper es uno de sus contactos más importantes y
 - Conoce a: [[Mathulio]], [[Juaniguel de la Ola|Juaniguel]]
 - Ha encargado trabajos a Alyre y le ha proporcionado información, mapas, advertencias y respuestas por carta.
 - En la [[Sesión 31]], informa a Alyre de rumores preocupantes sobre [[Livra]] y la [[Casa A'Dariir]], y queda claro que ya sabe quién es su madre y a qué casa pertenece.
+- En la [[Sesión 39]], Alyre recuerda que Jasper le habló de un gran golpe que salió bien y apenas tuvo repercusión pública. La casa asaltada era la de [[Lorena Neciente]]. No se confirma en la sesión quién ejecutó el robo.
 
 ## Estado actual
 

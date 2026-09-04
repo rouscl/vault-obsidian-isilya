@@ -34,8 +34,13 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - En la [[Sesión 33]], [[Alyre A'Dariir|Alyre]] acepta un tatuaje mágico de [[Pov]] que refuerza su vínculo con [[Loth]] y permite contactar con ella una vez al mes.
 - En la [[Sesión 35]], Alyre usa por primera vez el tatuaje. [[Loth]] refuerza el hilo que la une a ella, pero exige que [[Elendar]] muera como asunto pendiente por la orden desobedecida.
 - En la [[Sesión 36]], tras aquel encuentro, Alyre propone a [[Nérthoran Yúribel|Nérthoran]] desafiar a los dioses si el grupo reúne poder suficiente; Nérthoran acepta. Sus pesadillas repiten muertes a manos de Loth, Xerathor, Bhaal y Elendar, sin que se confirme que sean proféticas.
-- En la [[Sesión 37]], Nérthoran obtiene un fragmento de la corona de espinas que una mortal utilizó para matar a [[Myrkull]]. Alyre lo interpreta como un posible punto de partida para la empresa de desafiar o matar dioses.
+- En la [[Sesión 37]], Nérthoran obtiene el [[Fragmento de la corona de espinas|fragmento de la corona de espinas]] que una mortal utilizó para matar a [[Myrkull]]. Alyre lo interpreta como un posible punto de partida para la empresa de desafiar o matar dioses.
 - En esa misma sesión, [[El Nido]] transmite información procedente de [[Ibermaris]] sobre rituales y sucesos extraños con pinta de estar relacionados con [[Bhaal]].
+- En la [[Sesión 39]], durante el viaje hacia Ibermaris, la moneda de Bhaal reaparece en la mochila de Alyre con los ojos rojos encendidos. Al pasar a las manos de [[Mishka]], los ojos se apagan; no se conoce la causa.
+- En la [[Sesión 40]], el grupo llega a [[Ibermaris]]. [[Félix]] habla de personas vinculadas a cultos en las catacumbas, pero no confirma que sean bhaalitas. [[Mathulio]] tiene una reunión con [[Malasaña]], Gran Maestra de [[El Nido]], dentro de dos días.
+- En la [[Sesión 41]], la moneda de Bhaal reacciona al acercarla al [[Fragmento de la corona de espinas]]. La naturaleza de la sinergia no queda identificada.
+- Alyre y [[Nérthoran Yúribel|Nérthoran]] estudian relatos bibliográficos sobre Bhaal, [[Myrkull]], Jergal y la Era de los Trastornos. Nérthoran propone un ritual para que Alyre contacte con Bhaal, pero ella teme la reacción de [[Loth]] y no lo realizan.
+- Alyre pide a Nérthoran que acceda al santuario de Bhaal desde el [[Templo de la Orden de Santiago]] y busque información sobre sectarios cercanos. Nérthoran entra al final de la sesión, antes de obtener respuestas.
 
 ## Conflictos abiertos
 
@@ -46,8 +51,10 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - [[Juaniguel de la Ola|Juaniguel]] y [[Mathulio]] también tienen motivos para querer matar a [[Xerathor]] por el pacto fallido de Mathulio.
 - [[Loth]] no ha resuelto el conflicto por ella: exige fe, obediencia y prueba, y ha situado la muerte de [[Elendar]] como deuda explícita.
 - [[Bhaal]] conoce vulnerabilidades íntimas de [[Alyre A'Dariir|Alyre]] y no parece aceptar el rechazo.
+- La reacción de la moneda al contacto con [[Mishka]] puede ser relevante, pero todavía no demuestra que ella tenga protección, poder o relación alguna frente a Bhaal.
 - [[Elendar]] sigue siendo punto de presión compartido por [[Loth]], [[Xerathor]] y [[Bhaal]].
 - La existencia del fragmento de corona ofrece una vía concreta, pero potencialmente peligrosa, para convertir la idea de matar dioses en algo menos abstracto.
+- La reacción entre la moneda de Bhaal y el fragmento de corona vinculado a la muerte de Myrkull abre una posible conexión entre ambas tramas, pero no confirma su origen ni propósito.
 
 ## Preguntas abiertas
 
@@ -56,8 +63,10 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - ¿Qué hará Alyre con la exigencia de [[Loth]] de matar a [[Elendar]]?
 - ¿Qué alcance tiene la frase de [[Loth]] sobre "la sombra de tu secreto"?
 - ¿Qué quiere exactamente [[Bhaal]] de [[Alyre A'Dariir|Alyre]]?
-- ¿Los rituales relacionados con [[Bhaal]] en [[Ibermaris]] forman parte de su presión sobre Alyre o de una amenaza independiente?
+- ¿Las personas de cultos presentes en las catacumbas de [[Ibermaris]] tienen relación con [[Bhaal]], con su presión sobre Alyre o con una amenaza independiente?
 - ¿Qué precio tiene conservar o usar el fragmento de la corona de espinas contra una divinidad?
+- ¿Por qué reaccionan entre sí la moneda de Bhaal y el fragmento de la corona?
+- ¿Qué encontrará Nérthoran en el santuario de Bhaal y qué relación tiene, si alguna, con la Luminaris encontrada inconsciente?
 - ¿[[Loth]] acabará protegiendo a [[Alyre A'Dariir|Alyre]], reclamándola con más dureza o castigándola por el pacto?
 - ¿Hasta dónde llegará [[Alyre A'Dariir|Alyre]] antes de considerar que el poder de [[Xerathor]] cuesta demasiado?
 - ¿Podrá Alyre volver al [[Menzoberranzan#Underdark|Underdark]] sin que el pacto con [[Xerathor]] la destruya política, religiosa o personalmente?
@@ -76,6 +85,10 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - [[Sesión 33]]
 - [[Sesión 35]]
 - [[Sesión 37]]
+- [[Sesión 38]]
+- [[Sesión 39]]
+- [[Sesión 40]]
+- [[Sesión 41]]
 
 ## Relacionado
 
@@ -87,3 +100,4 @@ La aparición de [[Bhaal]] añade otro frente. El dios del asesinato no se limit
 - [[Mama Rott]]
 - [[Mathulio]]
 - [[Juaniguel de la Ola]]
+- [[Fragmento de la corona de espinas]]

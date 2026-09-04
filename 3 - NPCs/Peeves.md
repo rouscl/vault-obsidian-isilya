@@ -37,6 +37,8 @@ En la [[Sesión 36]], explica que los carteles de búsqueda del grupo se han rep
 
 En la [[Sesión 37]], tras la resolución de la misión del guardián, [[Nérthoran Yúribel|Nérthoran]] le reclama una varita que Peeves le había robado durante la noche. Ella afirma que se gastó, la tiró y la perdió. La discusión escala hasta que Nérthoran la coge del cuello, aunque Peeves logra zafarse. Más tarde evita acudir a la cita que Nérthoran intenta prepararle en la taberna y deja dos notas en élfico: "no soy gilipollas" y "De verdad, no soy gilipollas".
 
+En la [[Sesión 38]], Peeves no aparece directamente, pero Nérthoran plantea ofrecerle trabajo como cuidadora de su casa mientras él esté fuera. [[Alyre A'Dariir|Alyre]] considera despreciable esa respuesta y defiende tomar represalias.
+
 ## Notas
 
 - En el tablón de [[El Nido]] aparecen carteles de búsqueda del grupo y un cartel de unas dagas llamadas _Pixie's Wawings_.
@@ -44,4 +46,4 @@ En la [[Sesión 37]], tras la resolución de la misión del guardián, [[Nértho
 
 ## Estado actual
 
-Sigue siendo un contacto útil en [[Castimandra]] y en [[El Nido]]. No tiene una trama activa propia, pero puede servir como vía de información, acceso al gremio de ladrones local o lectura de riesgos dentro de la ciudad.
+Sigue siendo un contacto útil en [[Castimandra]] y en [[El Nido]]. No tiene una trama activa propia, pero puede servir como vía de información, acceso al gremio de ladrones local o lectura de riesgos dentro de la ciudad. Su conflicto con Nérthoran queda abierto entre posible arreglo práctico y represalia.

@@ -55,3 +55,11 @@ En la [[Sesión 25]], Bhaal se manifiesta ante [[Alyre A'Dariir|Alyre]] en una v
 En la [[Sesión 28]], la moneda de Bhaal reaparece cada mañana en la mochila de Alyre pese a que ella la arroja al mar. Esa misma sesión, un esbirro de Bhaal adopta la apariencia de [[Elendar]] para atraerla a una trampa y herirla gravemente.
 
 En la [[Sesión 29]], el engendro de Bhaal mata o deja inerte a Alyre dos veces antes de que [[Juaniguel de la Ola|Juaniguel]] y [[Mathulio]] logren sacarla con vida.
+
+En la [[Sesión 39]], la moneda vuelve a vibrar dentro de la mochila de Alyre y sus ojos aparecen rojos y encendidos. Cuando [[Mishka]] la sostiene, los ojos se apagan. No se sabe si esto ocurre por alguna cualidad de Mishka o simplemente porque la moneda deja de estar en manos de Alyre.
+
+En la [[Sesión 40]], ya en [[Ibermaris]], [[Félix]] menciona personas vinculadas a cultos en las catacumbas. Alyre insiste en preguntar por Bhaal, pero no recibe confirmación de que esos cultos sean bhaalitas ni de que estén relacionados con el acoso que ella sufre.
+
+En la [[Sesión 41]], la moneda vuelve a aparecer y reacciona al acercarla al [[Fragmento de la corona de espinas]], aunque la naturaleza de esa sinergia no queda determinada. Alyre y [[Nérthoran Yúribel|Nérthoran]] consultan varios libros sobre la Era de los Trastornos. Uno afirma que Bhaal y [[Myrkull]] robaron unas tablillas, fueron expulsados del cielo y que Bhaal consumió a todos sus fieles para obtener poder y matar a Thor; otro presenta a Bane, Bhaal y Myrkull como mortales que desafiaron a Jergal y se repartieron los dominios de la muerte. Estos relatos se conservan como versiones bibliográficas, no como hechos corroborados por el grupo.
+
+Nérthoran propone realizar un ritual para que Alyre contacte con Bhaal. Ella teme la reacción de [[Loth]] y el ritual no se lleva a cabo en ese momento. Al final de la sesión, Nérthoran accede al santuario de Bhaal desde el [[Templo de la Orden de Santiago]] para buscar información sobre sectarios cercanos. Poco antes, una Adepta Luminaris había sido encontrada inconsciente dentro del templo; no se confirma ninguna relación con Bhaal.

@@ -41,6 +41,7 @@
 > - Alyre
 > - Duster
 > - [[Nérthoran Yúribel]]
+> - [[Mishka]]
 
 ## Evolución en campaña
 
@@ -53,6 +54,14 @@ Juaniguel es un personaje jugador activo. En la partida actual, el grupo está f
 En la [[Sesión 34]], Juaniguel muere en las [[Ruinas bajo el monolito]] y es devuelto a la vida por la [[La Luna Roja|Luna Roja]]. Durante su muerte alcanza los jardines dorados de [[Timora]], pero es arrancado hacia un mar infinito donde la Luna Roja se manifiesta ante él y [[Nérthoran Yúribel|Nérthoran]]. Juaniguel identifica a esa entidad como Grana en canciones de [[Ibermaris]] y como [[Reiro]] en [[Gallix]].
 
 Tras la resolución de la misión del guardián de [[Castimandra]], las recompensas del grupo con la ciudad quedan saldadas y Juaniguel recibe una casa en propiedad.
+
+En la [[Sesión 38]], Juaniguel aparece en la escultura de los héroes de [[Castimandra]] y gana el concurso extraoficial de bardos organizado durante la fiesta de la cosecha. También canta una canción propia sobre una paloma rubia y un cuervo negro, en referencia a él y [[Mathulio]].
+
+En la [[Sesión 39]], durante el viaje hacia [[Ibermaris]], recuerda y canta una canción ya en declive sobre una joven Prendebrozas acompañada por un orco, un goblin, un dracónico y una elfa. [[Mishka]] reconoce en ella a su antiguo grupo. Tras la emboscada al bichobús, Juaniguel perdona la vida de [[Elric]] y de otros dos guardias a cambio de que escolten a la familia Neciente hasta Ibermaris y abandonen después la guardia.
+
+En la [[Sesión 40]], confirma ante Mishka el relato de [[Alyre A'Dariir|Alyre]] sobre la persecución de [[Rogaril]]. Tras huir de las sombras de [[Yeraimus de Abajo]], queda afectado junto a Alyre y [[Mathulio]] por una dolencia debilitadora que, según [[Nérthoran Yúribel|Nérthoran]], debe retirarse en un templo. Llega con el grupo a [[Ibermaris]] y se aloja en [[Casa Paco]].
+
+En la [[Sesión 41]], [[Ayamar]] le lee **El Sol** y **La Rueda de la Fortuna**, que interpreta como claridad, esperanza y un espacio de paz seguidos de giros inesperados y cíclicos fuera de su control. La lectura no se considera un futuro confirmado. Juaniguel discute con Mathulio por negarse siquiera a saludar a [[Mari Carmen]]. En el [[Templo de la Orden de Santiago]], accede al santuario de [[Timora]] y habla con la [[Hermana Solenum]]; la fuente no detalla la conversación ni confirma expresamente el estado posterior de su afección.
 
 ## **Infancia**
 

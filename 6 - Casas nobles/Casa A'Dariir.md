@@ -17,6 +17,8 @@ La Casa A'Dariir es una de las casas nobles de [[Menzoberranzan]], conocida por 
 	- [[Alyre A'Dariir|Alyre]]
 	- [[Livra]]
 	- [[Ildan]]
+	- [[Sszalyth A'Dariir]]
+	- [[Thaelra A'Dariir]]
 - Casas menores
 
 ## Aliados y enemigos
@@ -24,5 +26,4 @@ La Casa A'Dariir es una de las casas nobles de [[Menzoberranzan]], conocida por 
 > [!kith|friend] **[[Casa Ilythiss]], otras casas menores de [[Menzoberranzan]]**
 
 > [!kith|antagonist] **[[Casa Rhomduil]]** 
-
 

@@ -29,9 +29,31 @@ En la [[Sesión 35]], [[Mathulio]] y [[Alyre A'Dariir|Alyre]] identifican a dos 
 
 En la [[Sesión 37]], Mathulio y Alyre vuelven al Nido para comprobar si [[Púpil]] ha cumplido la retirada de sus carteles de búsqueda. El tabernero pide saber el nombre de la casa de Alyre antes de dar información sobre posibles cultos de [[Bhaal]]; ella no lo pronuncia, sino que le muestra su sello personal para que deduzca la [[Casa A'Dariir]]. A cambio, reciben una pista procedente del gremio de [[Ibermaris]] sobre rituales y sucesos extraños con pinta de estar relacionados con Bhaal.
 
+En la [[Sesión 38]], [[Mathulio]] detecta marcas relacionadas con El Nido colocadas por la ciudad en comercios concurridos. La persona que las pone lleva una capa larga y sombrero de ala. El significado de las marcas y su objetivo no quedan confirmados.
+
 ### Rogaril
 
 En [[Rogaril]] ya se había mostrado una red de ladrones, maleantes e informantes conectada con [[Jasper]], [[Klorg]] y _The Spoon_. [[Jasper]] advierte a Alyre en la [[Sesión 5]] de que uno de sus nuevos compañeros pertenece a su mismo gremio, apuntando a [[Mathulio]]. Aunque en esas primeras sesiones no se usa todavía el nombre "El Nido", encaja con la denominación general del Gremio de Ladrones establecida para la partida.
+
+### Ibermaris
+
+En la [[Sesión 40]], [[Mathulio]] localiza El Nido de [[Ibermaris]] y habla con [[Félix]], el tabernero. Félix le explica que la rama local ha adoptado una jerarquía definida:
+
+- **Red de apoyo:** personas de fuera de la estructura principal que facilitan recursos o cobertura.
+- **Fuelles:** informantes.
+- **Coberteras:** madres de acogida para situaciones delicadas.
+- **Chulaperos:** jóvenes que están aprendiendo.
+- **Gambucheros:** ladrones.
+- **Punteadores:** asesinos.
+- **Guapos:** veteranos que se reúnen en **El Corrillo**, contrastan rumores y dirigen los asuntos complicados.
+- **Capataces:** responsables del reparto logístico.
+- **Gran Maestra:** [[Malasaña]], máxima autoridad conocida de esta rama.
+
+Esta jerarquía está confirmada para Ibermaris; no se asume que todas las ramas de El Nido funcionen del mismo modo.
+
+Félix cuenta que el gremio envió una comitiva a [[Yeraimus de Abajo]] aproximadamente una semana antes. El alcalde del pueblo y dos molineros describen un grupo de supuestos héroes vestido con los colores rojo y dorado de Ibermaris, pero no está confirmado que se trate de la misma comitiva.
+
+También menciona personas vinculadas a cultos en las catacumbas. [[Alyre A'Dariir|Alyre]] pide a Mathulio que pregunte por [[Bhaal]], pero Félix no confirma que sean bhaalitas. Mathulio queda citado para reunirse con Malasaña dentro de dos días.
 
 ### Castimandra como destino preparado
 
@@ -43,6 +65,8 @@ En la [[Sesión 28]], a Mathulio le lanzan una moneda con el símbolo del gremio
 - [[Jasper]], contacto de Alyre en los bajos fondos de [[Rogaril]].
 - [[Klorg]], regente de _The Spoon_, taberna conectada con los bajos fondos de Rogaril.
 - [[Mathulio]], señalado por Jasper como miembro del mismo gremio.
+- [[Félix]], tabernero y contacto de la rama de Ibermaris.
+- [[Malasaña]], Gran Maestra de la rama de Ibermaris.
 
 ## Sesiones relacionadas
 
@@ -50,3 +74,6 @@ En la [[Sesión 28]], a Mathulio le lanzan una moneda con el símbolo del gremio
 - [[Sesión 28]]
 - [[Sesión 32]]
 - [[Sesión 35]]
+- [[Sesión 37]]
+- [[Sesión 38]]
+- [[Sesión 40]]

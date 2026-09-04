@@ -17,7 +17,7 @@ Castimandra es una ciudad druídica organizada por alturas, con una relación pr
 
 - Castimandra está habitada por druidas y criaturas vinculadas a formas naturales. Algunos druidas pasan la vida en la forma en la que se sienten más cómodos, incluso como animales.
 - La ciudad no parece organizarse por barrios, sino por alturas; las zonas altas son más descuidadas y menos decoradas.
-- Lugares y personas relevantes vistos en la crónica: Correos y paquetes de Lorien, La Carnívora, la biblioteca, la tienda de magia de [[Lir'Ohn]], la herboristería de [[Una Fa]], la herrería de Veggie, la tienda de tatuajes de [[Pov]] y [[El Nido]], sede local del gremio de ladrones.
+- Lugares y personas relevantes vistos en la crónica: Correos y paquetes de Lorien, La Carnívora de [[Inei]], la biblioteca, la tienda de magia de [[Lir'Ohn]], la herboristería de [[Una Fa]], la herrería de Veggie, la tienda de tatuajes de [[Pov]] y [[El Nido]], sede local del gremio de ladrones.
 
 ## Amenazas actuales
 
@@ -29,8 +29,13 @@ Castimandra es una ciudad druídica organizada por alturas, con una relación pr
 - En esa misma sesión, el grupo acepta resolver la misión del guardián si la teoría se confirma, pero las [[Ruinas bajo el monolito]] pertenecen al encargo secundario de [[Lir'Ohn]] para acelerar la eclosión del [[Huevo de Juaniguel]].
 - El consejo ofrece al grupo vivienda, necesidades básicas cubiertas de por vida y el título de héroes de Castimandra si eliminan al guardián y la teoría se confirma.
 - En la [[Sesión 36]], el consejo proporciona una expedición por el Camino del Norte hacia el guardián. El grupo atraviesa un bosque-laberinto con ranas gigantes que contienen siluetas humanoides en sus buches y acampa en un claro antes de resolver el camino.
-- En la [[Sesión 37]], el grupo libera al guardián de la corrupción al retirar de su nuca un fragmento de corona metálica astada. El bosque y el Árbol Madre se revitalizan, la ciudad recibe al grupo como héroes y [[Tunia]] confirma que se está preparando una escultura conmemorativa, aunque [[Alyre A'Dariir|Alyre]] queda fuera por petición propia.
+- En la [[Sesión 37]], el grupo libera al guardián de la corrupción al retirar de su nuca el [[Fragmento de la corona de espinas|fragmento de una corona metálica astada]]. El bosque y el Árbol Madre se revitalizan, la ciudad recibe al grupo como héroes y [[Tunia]] confirma que se está preparando una escultura conmemorativa, aunque [[Alyre A'Dariir|Alyre]] queda fuera por petición propia.
 - Tras la resolución de la misión, las recompensas acordadas con Castimandra quedan saldadas: [[Púpil]] cumple la retirada de las búsquedas de [[Alyre A'Dariir|Alyre]] y [[Mathulio]], y [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]] reciben casas en propiedad. El cartel de búsqueda de Juaniguel no formaba parte del trato con Púpil.
+- En la [[Sesión 38]], la ciudad celebra la fiesta de la cosecha tras la recuperación del Árbol Madre. Se muestra la escultura de [[Nérthoran Yúribel|Nérthoran]], [[Juaniguel de la Ola|Juaniguel]] y Mathulio como héroes de Castimandra, se honra a [[Mishka]] con la Arboleda Prendebrozas y varios druidas conjuran truenos para dar paso a la estación de las lluvias.
+
+## Arboleda Prendebrozas
+
+En la [[Sesión 38]], [[Castimandra]] expande una arboleda en honor a [[Mishka]] y la nombra **Arboleda Prendebrozas**. El árbol central tiene una placa con el nombre "Riley", en memoria de la hija muerta de [[Paige]] y [[Lovna]].
 
 ## Ubicación Geográfica
 

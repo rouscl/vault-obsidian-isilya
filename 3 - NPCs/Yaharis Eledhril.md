@@ -43,9 +43,11 @@ Esa misma noche, [[Duster Sukuna|Duster]] consigue pasarle una nota para concert
 
 En la [[Sesión 30]], [[Vaeris]] informa a [[Alyre A'Dariir|Alyre]] de que [[Livra]], su madre, está removiendo [[Menzoberranzan]] hasta el punto de atraer la atención de la Casa de los Susurros de [[Rogaril]]. Esto refuerza que la red de información vinculada a Yaharis no solo mira hacia la política de la superficie, sino también hacia movimientos relevantes del [[Menzoberranzan#Underdark|Underdark]] cuando estos empiezan a proyectarse sobre Rogaril.
 
+En la [[Sesión 39]], [[Lorena Neciente]] ofrece a Alyre la posibilidad de avanzar hacia un contrato de trabajo directo bajo las órdenes exclusivas de Eledhril. La condición sería averiguar quién robó en casa de Lorena y aportar pruebas. Yaharis no aparece personalmente y no se confirma que haya autorizado ya la propuesta.
+
 ## Estado actual
 
-Yaharis sigue siendo una figura política relevante de [[Rogaril]] y una posible puerta de entrada a información sensible. No hay contacto directo posterior confirmado con el grupo después de la [[Sesión 3]], pero las menciones recientes a la Casa de los Susurros mantienen activa su importancia para la trama del [[Menzoberranzan#Underdark|Underdark]] y la [[Casa A'Dariir]].
+Yaharis sigue siendo una figura política relevante de [[Rogaril]] y una posible puerta de entrada a información sensible. No hay contacto directo posterior confirmado con el grupo después de la [[Sesión 3]], pero las menciones a la Casa de los Susurros y la propuesta transmitida por [[Lorena Neciente]] mantienen activa su importancia para la trama del [[Menzoberranzan#Underdark|Underdark]], la [[Casa A'Dariir]] y el futuro de Alyre como posible agente.
 
 ## Dudas abiertas
 
@@ -53,6 +55,7 @@ Yaharis sigue siendo una figura política relevante de [[Rogaril]] y una posible
 - No está claro qué sabe realmente sobre el [[Menzoberranzan#Underdark|Underdark]], sobre la presencia de drow en [[Rogaril]] ni sobre los movimientos de [[Livra]].
 - No se sabe por qué la Casa de los Susurros se ha fijado en la [[Casa A'Dariir]] ni qué espera obtener de esa información.
 - No se ha confirmado si su interés por la información la convierte en aliada potencial, amenaza política o ambas cosas según el precio.
+- No se ha confirmado si Yaharis ha autorizado la oferta de [[Lorena Neciente]] ni qué funciones asignaría a Alyre si el contrato llegara a formalizarse.
 
 ## Notas
 

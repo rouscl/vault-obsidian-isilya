@@ -14,12 +14,14 @@ Línea de misión principal activa. El grupo está vinculado a una profecía rel
 
 ## Resumen
 
-Desde las primeras sesiones, [[Caraxys]] ofrece ayuda sobre el vínculo del grupo a cambio de recuperar armas legendarias. Más adelante, la búsqueda se concreta alrededor de una profecía de los vestigios que interesa a líderes, facciones y fuerzas divinas. En la [[Sesión 32]], Caraxys afirma que la profecía que recibe está incompleta y que existe una segunda parte en las ruinas del Este. El primer objetivo parece ser el vestigio de [[Mathulio]]. En la [[Sesión 34]], la [[La Luna Roja|Luna Roja]] devuelve la vida a [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]], y afirma necesitar las reliquias para liberarse de su yugo. En la [[Sesión 37]], Nérthoran identifica un fragmento de corona de espinas como parte de la corona que una mortal usó para matar a [[Myrkull]], lo que abre una posible vía paralela para desafiar o matar dioses.
+Desde las primeras sesiones, [[Caraxys]] ofrece ayuda sobre el vínculo del grupo a cambio de recuperar armas legendarias. Más adelante, la búsqueda se concreta alrededor de una profecía de los vestigios que interesa a líderes, facciones y fuerzas divinas. En la [[Sesión 32]], Caraxys afirma que la profecía que recibe está incompleta y que existe una segunda parte en las ruinas del Este. El primer objetivo parece ser el vestigio de [[Mathulio]]. En la [[Sesión 34]], la [[La Luna Roja|Luna Roja]] devuelve la vida a [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]], y afirma necesitar las reliquias para liberarse de su yugo. En la [[Sesión 37]], Nérthoran identifica el [[Fragmento de la corona de espinas|fragmento de corona de espinas]] como parte de la corona que una mortal usó para matar a [[Myrkull]], lo que abre una posible vía paralela para desafiar o matar dioses. En la [[Sesión 40]], un libro atribuido a Caraxys revela que el [[Reo Lunático]] ya hablaba durante su cautiverio de una luna roja y cuatro armas bendecidas. En la [[Sesión 41]], una informante desconocida aporta localizaciones parciales para figuras de la profecía y un ritual permite ver otro fragmento de la corona en movimiento al norte de [[Ibermaris]].
 
 ## Objetivos actuales
 
-- Ir hacia el este para buscar la segunda parte de la profecía.
-- Localizar el primer vestigio, aparentemente ligado a [[Mathulio]].
+- Contrastar la información de la mujer desconocida sobre el supuesto segundo fragmento de la profecía y su clave de reconocimiento.
+- Investigar [[Almariz]] como pista del paladín de Midas y [[Ándalor]] como pista de la madre seda.
+- Cuando terminen los asuntos pendientes en [[Ibermaris]], seguir hacia el norte el fragmento de la corona visto por Nérthoran.
+- Aclarar cómo encajan estas pistas con la antigua instrucción de ir hacia el este y con el primer vestigio, aparentemente ligado a [[Mathulio]].
 - Entender qué son exactamente los vestigios y por qué importan a tantas fuerzas.
 - Averiguar si las reliquias son una vía para romper la maldición del vínculo o una misión paralela que Caraxys está usando como moneda de cambio.
 - Reunirse después con [[Caraxys]] en [[Ibermaris]], según sus instrucciones.
@@ -41,6 +43,11 @@ Desde las primeras sesiones, [[Caraxys]] ofrece ayuda sobre el vínculo del grup
 - La Luna Roja afirma estar sometida y necesitar las reliquias para liberarse.
 - En la [[Sesión 37]], [[Nérthoran Yúribel|Nérthoran]] retira de la nuca del [[Guardián del árbol madre|guardián de Castimandra]] un fragmento de una corona metálica astada.
 - Nérthoran identifica ese fragmento como parte de la corona de espinas que una mortal utilizó para matar a [[Myrkull]].
+- En la [[Sesión 40]], el libro atribuido a Caraxys afirma que un [[Reo Lunático]] encerrado cerca de él hablaba de una luna roja, cuatro armas bendecidas por «la Roja» y dirigentes destinados a Isilya. Esto ofrece una posible fuente temprana para la petición de armas legendarias, pero no confirma que armas y vestigios sean lo mismo.
+- En la [[Sesión 41]], una mujer desconocida afirma que se ha descubierto el segundo fragmento de la profecía, «la sombra de oro»; sitúa al paladín de Midas en [[Almariz]] y a la madre seda en [[Ándalor]]. «La sombra de oro» y «la sombra dorada» del pergamino son la misma figura.
+- La misma mujer afirma que hay aliados en [[Ibermaris]] y ofrece como posible clave una frase sobre la paz de Isilya y cuatro armas bendecidas por la Roja. No se confirma quién reconocería la clave.
+- La moneda de [[Bhaal]] reacciona al acercarla al [[Fragmento de la corona de espinas]], sin que se identifique el vínculo entre ambos objetos.
+- Un ritual de Nérthoran con [[Hugo Alzasombras]] y [[Chelterra]] muestra el fragmento opuesto de la corona envuelto en cuero, dentro de una mochila que sale de Ibermaris hacia el norte.
 
 ## Personas y fuerzas implicadas
 
@@ -64,7 +71,7 @@ Caraxys habla al principio de recuperar armas legendarias. Aún no está confirm
 
 ### Fragmento de la corona de espinas
 
-En la [[Sesión 37]], Nérthoran conserva un fragmento de la corona de espinas que una mortal usó para matar a [[Myrkull]]. No está confirmado que sea un vestigio, pero sí funciona como pista relevante dentro de la búsqueda de reliquias capaces de alterar el equilibrio divino.
+En la [[Sesión 37]], Nérthoran conserva el [[Fragmento de la corona de espinas|fragmento de la corona de espinas]] que una mortal usó para matar a [[Myrkull]]. No está confirmado que sea un vestigio, pero sí funciona como pista relevante dentro de la búsqueda de reliquias capaces de alterar el equilibrio divino. En la [[Sesión 41]], otro fragmento aparece en una visión mientras es transportado al norte de Ibermaris.
 
 ## Preguntas abiertas
 
@@ -77,6 +84,9 @@ En la [[Sesión 37]], Nérthoran conserva un fragmento de la corona de espinas q
 - ¿Qué significa que la Luna Roja pueda devolver la vida y aun así esté sometida?
 - ¿Qué yugo mantiene sometida a la Luna Roja?
 - ¿El fragmento de la corona de espinas es un vestigio, una reliquia independiente o una herramienta de otra trama divina?
+- ¿Las cuatro armas del [[Reo Lunático]] son los cuatro vestigios, y hasta qué punto Caraxys construyó su misión a partir de esa formulación?
+- ¿Quién es la informante de Casa Paco y de dónde procede su conocimiento?
+- ¿Quién transporta el fragmento opuesto de la corona hacia el norte?
 
 ## Riesgos
 
@@ -97,6 +107,8 @@ En la [[Sesión 37]], Nérthoran conserva un fragmento de la corona de espinas q
 - [[Sesión 33]]
 - [[Sesión 34]]
 - [[Sesión 37]]
+- [[Sesión 40]]
+- [[Sesión 41]]
 
 ## Relacionado
 
@@ -106,5 +118,6 @@ En la [[Sesión 37]], Nérthoran conserva un fragmento de la corona de espinas q
 - [[Caraxys]]
 - [[Mathulio]]
 - [[Nérthoran Yúribel]]
+- [[Fragmento de la corona de espinas]]
 - [[Reiro]]
 - [[Myrkull]]

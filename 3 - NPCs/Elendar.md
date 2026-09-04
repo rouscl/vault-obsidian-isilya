@@ -48,7 +48,7 @@ Más adelante volvieron a coincidir en zonas de entrenamiento y misiones conjunt
 
 Con el tiempo, ambos se convirtieron en un equipo letal al servicio de sus casas. Luchaban espalda con espalda y funcionaban casi como una misma unidad. Su relación evolucionó hacia un vínculo romántico intenso, sostenido por la ambición, la confianza táctica y un deseo compartido de gobernar algún día la [[Casa A'Dariir]] con una autoridad más eficaz que la de [[Livra]].
 
-Durante una misión contra mercenarios, un agente de la [[Casa Rhomduil]] hirió a Elendar con una daga envenenada. El corte parecía menor, pero el veneno resultó incurable por medios ordinarios. Alyre buscó ayuda en alquimistas y en el templo de [[Loth]], pero no obtuvo una solución. Las sacerdotisas interpretaron la posible muerte de Elendar como una prueba o una voluntad de la diosa, no como algo que debiera revertirse.
+Durante una misión contra mercenarios, [[Dravyl]], un agente de la [[Casa Rhomduil]], hirió a Elendar con una daga envenenada. El corte parecía menor, pero el veneno resultó incurable por medios ordinarios. Alyre buscó ayuda en alquimistas y en el templo de [[Loth]], pero no obtuvo una solución. Las sacerdotisas interpretaron la posible muerte de Elendar como una prueba o una voluntad de la diosa, no como algo que debiera revertirse.
 
 Desesperada, Alyre invocó a [[Xerathor]] y pactó con él para obtener poder sobre la sangre. Con el estoque concedido por el demonio, extrajo poco a poco la sangre contaminada de Elendar y consiguió salvarlo. Elendar supo que Alyre había hecho algo extraño y peligroso, pero ella le ocultó la naturaleza real del pacto, atribuyendo la salvación a [[Loth]] y a recursos de la [[Casa A'Dariir]].
 

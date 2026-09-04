@@ -12,7 +12,7 @@ Relacionado con: [[Nérthoran Yúribel]]
 > - **Raza / linaje:** Alto elfo
 > - **Clase / subclase:** Clérigo / Mago, nigromante.
 > - **Aspecto actual:** Representado por `Nérthoran joven.png`; su cuerpo parece rejuvenecer a medida que gana poder y usa magia nigromántica.
-> - **Estado narrativo:** Personaje jugador activo; viaja con [[Alyre A'Dariir]], [[Juaniguel de la Ola]] y [[Mathulio]].
+> - **Estado narrativo:** Personaje jugador activo; viaja con [[Alyre A'Dariir]], [[Juaniguel de la Ola]], [[Mathulio]] y [[Mishka]].
 > - **Imagen principal actual:** ![[Nérthoran joven.png]]
 
 ## Línea de evolución
@@ -67,6 +67,15 @@ Relacionado con: [[Nérthoran Yúribel]]
 - **Cambios narrativos:** Durante su muerte viaja por el reino de [[Myrkull]], ve lloronas e hilos conectados con el plano mortal, y percibe la intervención de un heraldo de Myrkull. Después se encuentra junto a [[Juaniguel de la Ola|Juaniguel]] ante la [[La Luna Roja|Luna Roja]], que los devuelve a la vida.
 - **Consecuencias:** Nérthoran interpreta que el grupo ha sido elegido para encontrar y desvelar las reliquias, y que la misión es mucho más importante de lo que [[Caraxys]] había explicado. Tras la experiencia, trata al grupo con más respeto y promete ayudar a [[Alyre A'Dariir|Alyre]] a romper las cadenas impuestas por entidades superiores si surge la oportunidad.
 
+### Reconocimiento en el santuario de Myrkull
+
+- **Sesión / momento:** [[Sesión 41]], durante la visita al [[Templo de la Orden de Santiago]].
+- **Causa:** Nérthoran accede mediante la sala de teletransporte al santuario de [[Myrkull]].
+- **Cambios físicos:** No consta un cambio físico estable.
+- **Cambios mecánicos:** Junto a [[Hugo Alzasombras]] y [[Chelterra]], realiza un ritual que le permite ver el fragmento opuesto de la corona en una mochila que se desplaza hacia el norte desde [[Ibermaris]].
+- **Cambios narrativos:** Los dos clérigos se arrodillan ante él, lo llaman «mi señor» y afirman que lo creían una leyenda.
+- **Consecuencias:** Se abre una nueva incógnita sobre el lugar de Nérthoran dentro del culto de Myrkull y una pista inmediata para localizar otro [[Fragmento de la corona de espinas|fragmento de la corona]].
+
 ## Estados visuales documentados y pendientes
 
 - ![[Nérthoran pirata.png]]
@@ -82,3 +91,4 @@ Relacionado con: [[Nérthoran Yúribel]]
 ## Dudas o datos pendientes
 
 - Añadir el trasfondo de Nérthoran cuando esté disponible.
+- Averiguar qué leyenda conocen los clérigos de [[Myrkull]] sobre Nérthoran y por qué lo reconocen como a un superior.

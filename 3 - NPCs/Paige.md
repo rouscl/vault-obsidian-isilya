@@ -28,7 +28,7 @@ tags:
 
 ## Información
 
-- En la [[Sesión 14]], Paige aparece como líder de un grupo de viajeros camino de [[Gallix]]. Quiere ganar dinero para pagar una maestra a su hija Rily y hace un trato comercial con [[Alyre A'Dariir|Alyre]] sobre los cuernos de un jabalí.
+- En la [[Sesión 14]], Paige aparece como líder de un grupo de viajeros camino de [[Gallix]]. Quiere ganar dinero para pagar una maestra a su hija Riley y hace un trato comercial con [[Alyre A'Dariir|Alyre]] sobre los cuernos de un jabalí.
 - Capitana que transporta al grupo hacia [[Castimandra]] desde el [[Puente de la Paz]].
 - En la [[Sesión 24]], asigna funciones a bordo: [[Alyre A'Dariir|Alyre]] queda como contramaestre y responsable del inventario de la bodega.
 - Durante la travesía, el grupo tiene bastante contacto con ella. En una fiesta a bordo hablan de asuntos personales, pasados y antiguos amores.
@@ -38,6 +38,8 @@ tags:
 - En la [[Sesión 32]], el grupo evita encontrarse directamente con Paige y [[Lovna]] en la Asamblea de [[Castimandra]] por miedo a que sigan enfadadas y puedan delatarlos ante [[Alphonse Valdrak|La Mano]].
 - En la [[Sesión 33]], comparece en el juicio con aspecto desmejorado y ausente. Mantiene una ira contenida hacia el grupo, aunque no hacia [[Juaniguel de la Ola|Juaniguel]], que declara como testigo.
 - En la [[Sesión 37]], [[Juaniguel de la Ola|Juaniguel]] y [[Mishka]] acuden a sacar a Paige y [[Lovna]] del encierro voluntario en el que permanecían para no dañar a sus hijos. Mishka, que las conoce de antes, las abraza y consigue darles una mínima esperanza. Paige pide a Juaniguel que, si descubre al responsable de maldecirlas, la avise en el código postal 3478 de [[Castimandra]]. Ella y Lovna piden quedarse unos días en casa de Mishka, porque aún no se sienten con fuerzas para volver a su granja.
+- En la [[Sesión 38]], recibe a [[Nérthoran Yúribel|Nérthoran]] en El Invernadero y agradece su propuesta de ceremonia, pero le dice que ella y Lovna ya hicieron la ceremonia que necesitaban.
+- En la [[Sesión 41]], [[Mishka]] accede desde el santuario de [[Chauntea]] a una visión de El Invernadero y observa que Paige y [[Lovna]] están de nuevo embarazadas.
 
 ## Notas
 
@@ -47,4 +49,4 @@ tags:
 
 ## Estado actual
 
-Paige sigue siendo relevante dentro de la trama de [[Castimandra]]. Su vínculo con el grupo no es puntual: viajó con ellos, los llevó en barco, compartió conversaciones personales y después los acogió en su granja. El ataque que terminó con la muerte de su hija rompió esa confianza. Tras la [[Sesión 37]], ya no permanece recluida, pero sigue marcada por el dolor y quiere saber quién la maldijo. Su relación con Alyre continúa deteriorada.
+Paige sigue siendo relevante dentro de la trama de [[Castimandra]]. Su vínculo con el grupo no es puntual: viajó con ellos, los llevó en barco, compartió conversaciones personales y después los acogió en su granja. El ataque que terminó con la muerte de su hija rompió esa confianza. Tras la [[Sesión 41]], permanece con Lovna en El Invernadero y ambas vuelven a estar embarazadas. Paige sigue marcada por el dolor y quiere saber quién la maldijo; su relación con Alyre continúa deteriorada.

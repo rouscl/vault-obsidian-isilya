@@ -12,7 +12,7 @@ Relacionado con: [[Mathulio]]
 > - **Raza / linaje:** Humano común
 > - **Clase / subclase:** Pícaro, Embaucador arcano
 > - **Aspecto actual:** Mathulio conserva el cuerno impuesto por [[Xerathor]], visible como castigo y marca social.
-> - **Estado narrativo:** Personaje jugador activo; viaja con [[Juaniguel de la Ola]], [[Alyre A'Dariir]] y [[Nérthoran Yúribel]].
+> - **Estado narrativo:** Personaje jugador activo; viaja con [[Juaniguel de la Ola]], [[Alyre A'Dariir]], [[Nérthoran Yúribel]] y [[Mishka]].
 > - **Imagen principal actual:** ![[Mathulio cuerno.jpg]]
 
 ## Línea de evolución
