@@ -12,7 +12,7 @@ date_created: 2026-04-18
 | [[Nérthoran Yúribel]] | Asiste disfrazado a la Asamblea, es detectado como nigromante y recibe un libro prestado. |
 | [[Mathulio]] | Acompaña a Nérthoran, ayuda a Alyre con jerga de ladrones y arranca carteles de búsqueda. |
 | [[Juaniguel de la Ola]] | Compra equipo, se ofrece para el juicio de [[Paige]] y Lovna y participa en la zona de la verdad a [[Caraxys]]. |
-| Inei | Explica que el gato de la goblin es una persona druida que prefiere vivir en esa forma. |
+| [[Inei]] | Explica que el gato de la goblin es una persona druida que prefiere vivir en esa forma. |
 | Veggie | Herrera de [[Castimandra]]; recibe un encargo de armadura de Juaniguel. |
 | [[Pov]] | Tatuador mágico; tatúa a [[Nérthoran Yúribel]]. |
 | [[Tunia]] | Figura de autoridad que abre la Asamblea. |
@@ -63,7 +63,7 @@ date_created: 2026-04-18
 
 Por la mañana, [[Alyre A'Dariir|Alyre]] habló con [[Nérthoran Yúribel|Nérthoran]] sobre el riesgo de encontrarse con [[Paige]] y [[Lovna]] en la Asamblea. Si seguían enfadadas, podían vender al grupo a los guardias de [[Alphonse Valdrak|La Mano]]. Decidieron que Nérthoran y [[Mathulio]] irían disfrazados, mientras Alyre y [[Juaniguel de la Ola|Juaniguel]] se quedarían cerca, fuera de la plaza, preparados para intervenir.
 
-Nérthoran detectó magia en el gato de la goblin. Inei explicó que era un enano o una enana, pareja de la goblin, y que en [[Castimandra]] muchos druidas elegían permanecer en la forma en la que se sentían más cómodos.
+Nérthoran detectó magia en el gato de la goblin. [[Inei]] explicó que era un enano o una enana, pareja de la goblin, y que en [[Castimandra]] muchos druidas elegían permanecer en la forma en la que se sentían más cómodos.
 
 Alyre preguntó a Mathulio si había encontrado señales del gremio de ladrones local. Al no obtener nada útil, se marchó sola a buscar información. Mientras tanto, el resto del grupo fue al banco, a la herrería y a la tienda de tatuajes. Veggie, la herrera, recibió de Juaniguel el encargo de una armadura. [[Pov]], el tatuador mágico, hizo a Nérthoran un tatuaje que le permitiría lanzar _hablar con los muertos_ una vez al día sin coste.
 

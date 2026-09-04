@@ -8,7 +8,7 @@ date_created: 2025-03-21
 
 |   NPC   |                   Motivo                   | 
 |---------|--------------------------------------------| 
-| [[Paige]] | Líder del grupo de viajeros. Busca financiar la educación de su hija Rily. Hace trato con Alyre para compartir los beneficios de los cuernos del jabalí.| 
+| [[Paige]] | Líder del grupo de viajeros. Busca financiar la educación de su hija Riley. Hace trato con Alyre para compartir los beneficios de los cuernos del jabalí.|
 | [[Xuai]] | Hermanos gemelos que acompañan a Paige|
 | [[Kerindall]] | Elfo borracho que acosó a Alyre en el día 0. Ella le manipula emocionalmente para que crea que intentó abusar de ella. Jura dejar el alcohol.|
 | [[Ruka]] | Goliath que regenta _La Pezuña_. Informa sobre los icetooth, las monturas mágicas.|
@@ -67,7 +67,7 @@ Un monstruo entre la nieve, con un colmillo atravesando la **bolsa de oro de [[A
 
 Entonces llegaron los viajeros.
 
-**[[Paige]]**, su hija Rily en mente, propuso un trato honesto: cocinaban juntos el jabalí, ella vendería los cuernos y enviaría las ganancias a [[Alyre A'Dariir|Alyre]]. Mencionó a **Bethan**, su pareja, y la granja en **[[Castimandra]]**. El grupo aceptó. Todos menos [[Alyre A'Dariir|Alyre]].
+**[[Paige]]**, su hija Riley en mente, propuso un trato honesto: cocinaban juntos el jabalí, ella vendería los cuernos y enviaría las ganancias a [[Alyre A'Dariir|Alyre]]. Mencionó a **Bethan**, su pareja, y la granja en **[[Castimandra]]**. El grupo aceptó. Todos menos [[Alyre A'Dariir|Alyre]].
 
 Entre los viajeros estaba **[[Kerindall]]**, el elfo borracho que intentó acosarla en un callejón de [[Rogaril]] el día 0. [[Alyre A'Dariir|Alyre]], pese a saber que eso sólo ocurrió en su vivencia personal pero no en la realidad, vio su oportunidad.
 

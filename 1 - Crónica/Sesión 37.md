@@ -33,11 +33,11 @@ date_created: 2026-06-27
 
 ## Información relevante
 
-- El guardián de [[Castimandra]] estaba afectado por un fragmento de una corona metálica astada, clavado detrás de su nuca.
+- El guardián de [[Castimandra]] estaba afectado por el [[Fragmento de la corona de espinas|fragmento de una corona metálica astada]], clavado detrás de su nuca.
 - La energía nigromántica de los ataques de [[Nérthoran Yúribel|Nérthoran]] se alojaba en ese punto, mientras un hilo marrón procedente de una estatua de [[Chauntea]] entraba en conflicto con un hilo verde nigromántico.
 - Al retirar el fragmento, el guardián deja de atacar, mengua hasta unos tres o cuatro metros y vuelve a colaborar en la restauración del bosque.
 - El Guardián de Castimandra afirma que todo comenzó hace un par de semanas.
-- [[Nérthoran Yúribel|Nérthoran]] identifica el fragmento como parte de la corona de espinas que una mortal usó para matar a [[Myrkull]].
+- [[Nérthoran Yúribel|Nérthoran]] identifica el [[Fragmento de la corona de espinas|fragmento]] como parte de la corona de espinas que una mortal usó para matar a [[Myrkull]].
 - La [[La Luna Roja|Luna Roja]] parece dirigirse a Nérthoran con un "lo has hecho bien".
 - La misión del guardián queda resuelta: el árbol madre y la ciudad se revitalizan, y [[Castimandra]] reconoce al grupo como héroes.
 - Las recompensas acordadas con [[Castimandra]] quedan saldadas: [[Púpil]] cumple la retirada de las búsquedas de [[Alyre A'Dariir|Alyre]] y [[Mathulio]], y [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]] reciben casas en propiedad.
@@ -57,7 +57,7 @@ Tras una larga caminata, la expedición llegó a un gran claro. Allí, del suelo
 
 El combate reveló que el problema no estaba solo en la fuerza del guardián. Cuando Nérthoran atacó con energía nigromántica, percibió que esa energía recorría el cuerpo de la criatura y se alojaba con naturalidad en un punto concreto detrás de la nuca. Cuando el guardián quedó terriblemente herido, se teletransportó al estanque cercano y se curó por completo. El entorno, antes verde y vivo, quedó seco e infértil. [[Mathulio]] pudo ver entonces dos fuerzas enfrentadas: de una estatua de [[Chauntea]] salía un hilo mágico marrón hacia el guardián, mientras un hilo verde nigromántico brotaba de la nuca de la criatura.
 
-Nérthoran consiguió alcanzar la parte alta del guardián y vio allí el foco de la corrupción: un fragmento de una corona metálica astada clavado en su nuca. Al arrancarlo, la criatura empezó a soltar latigazos a su alrededor y su cuerpo comenzó a menguar. Las plantas y flores que lo cubrían cambiaron poco a poco, y finalmente el coloso quedó reducido a una altura de unos tres o cuatro metros. Ya no atacaba. Solo jadeaba.
+Nérthoran consiguió alcanzar la parte alta del guardián y vio allí el foco de la corrupción: el [[Fragmento de la corona de espinas|fragmento de una corona metálica astada]] clavado en su nuca. Al arrancarlo, la criatura empezó a soltar latigazos a su alrededor y su cuerpo comenzó a menguar. Las plantas y flores que lo cubrían cambiaron poco a poco, y finalmente el coloso quedó reducido a una altura de unos tres o cuatro metros. Ya no atacaba. Solo jadeaba.
 
 El guardián preguntó por su madre. Mishka corrió hacia él, le dio palmaditas y lo apremió con una mezcla de ternura y urgencia práctica: tenían que ponerse a arreglar la vegetación cercana. Entre ambos hicieron crecer de nuevo el bosque muerto alrededor. La amenaza inmediata había cedido. El guardián explicó que todo había comenzado hacía un par de semanas.
 
@@ -85,7 +85,7 @@ Paige le pidió que, si descubría al responsable, la avisara de inmediato en el
 
 ## Especulaciones
 
-- El fragmento de corona retirado de la nuca del guardián puede ser una herramienta real para desafiar o matar dioses, pero aún no se sabe qué riesgos tiene conservarlo ni qué consecuencias arrastra por haber sido usado contra [[Myrkull]].
+- El [[Fragmento de la corona de espinas|fragmento de corona]] retirado de la nuca del guardián puede ser una herramienta real para desafiar o matar dioses, pero aún no se sabe qué riesgos tiene conservarlo ni qué consecuencias arrastra por haber sido usado contra [[Myrkull]].
 - La mención de rituales relacionados con [[Bhaal]] en [[Ibermaris]] puede conectar la presión sobre Alyre con una amenaza más amplia, pero de momento solo es información de gremio.
 - Los dos desconocidos que abandonaron [[Castimandra]] siguen sin identificar. Que partiesen al Este puede ser importante, aunque no hay datos suficientes para confirmarlo.
 - El responsable de maldecir a [[Paige]] y [[Lovna]] no ha sido identificado. La liberación del guardián resuelve el foco inmediato, pero no necesariamente el origen de la amenaza.
@@ -95,4 +95,4 @@ Paige le pidió que, si descubría al responsable, la avisara de inmediato en el
 #### Seguir leyendo
 
 [[Sesión 36|Página anterior]]
-Página siguiente pendiente
+[[Sesión 38|Página siguiente]]
