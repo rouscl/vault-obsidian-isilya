@@ -86,7 +86,7 @@ Paige le pidió que, si descubría al responsable, la avisara de inmediato en el
 ## Especulaciones
 
 - El [[Fragmento de la corona de espinas|fragmento de corona]] retirado de la nuca del guardián puede ser una herramienta real para desafiar o matar dioses, pero aún no se sabe qué riesgos tiene conservarlo ni qué consecuencias arrastra por haber sido usado contra [[Myrkull]].
-- La mención de rituales relacionados con [[Bhaal]] en [[Ibermaris]] puede conectar la presión sobre Alyre con una amenaza más amplia, pero de momento solo es información de gremio.
+- La mención de rituales relacionados con [[Bhaal]] en [[Ibermaris]] puede conectar la presión sobre Alyre con una amenaza más amplia, pero de momento solo es información de gremio. **Confirmación parcial en la [[Sesión 42]]:** el grupo presencia un ritual bhaalita en las catacumbas. Su alcance y su relación con otras amenazas siguen abiertos.
 - Los dos desconocidos que abandonaron [[Castimandra]] siguen sin identificar. Que partiesen al Este puede ser importante, aunque no hay datos suficientes para confirmarlo.
 - El responsable de maldecir a [[Paige]] y [[Lovna]] no ha sido identificado. La liberación del guardián resuelve el foco inmediato, pero no necesariamente el origen de la amenaza.
 

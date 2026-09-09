@@ -50,7 +50,7 @@ date_created: 2026-08-30
 - Alyre prepara con gran éxito una nueva dosis de Sueño de Gallix. Consume uno de sus usos gratuitos de creación de venenos.
 - Alyre y Mathulio repasan la jerga de [[El Nido]]. Alyre considera que mencionar a [[Jasper]] ante [[Malasaña]] podría ser una ventaja o un riesgo, según la relación entre ambos.
 - Alyre y Mathulio mantienen una conversación inusualmente larga sobre lo que supone para ella haber perdido su antigua destreza con el estoque. Después acuerdan entrenar juntos.
-- [[Yaya]] regenta [[La Garduña]], una posada que levantó con su esposa y que conserva en su honor desde que murió.
+- [[Yaya]] regenta [[La Garduña]], una posada que fundó en honor de su esposa tras enviudar, según la aclaración recogida al procesar la [[Sesión 42]].
 - [[Hernán Cortés|El rey Cortés]] va a casarse con una mujer que no es de Ibermaris y a la que, según el rumor transmitido por Yaya, conoció durante una aventura.
 - [[Leo]] y [[Tauro]], dos de los doce mensajeros reales de [[Ándalor]], han acudido como embajadores porque la reina no podía asistir. Su presencia está vinculada a la boda y a un acuerdo de concordia.
 - [[Ayamar]] cobra cinco monedas de oro por realizar una lectura de tarot al grupo. Presenta la primera carta como un dolor o estado del presente y la segunda como un futuro que debe interpretar cada persona.
@@ -86,9 +86,9 @@ Mientras el resto se ocupaba de la llegada a la ciudad, [[Nérthoran Yúribel|N�
 
 [[Alyre A'Dariir|Alyre]] aprovechó ese tiempo para preparar Sueño de Gallix. La dosis salió especialmente bien, a costa de uno de los usos gratuitos que todavía conservaba para fabricar venenos. Después sentó a [[Mathulio]] a repasar la jerga de ladrones. Anotó palabras nuevas, lo interrogó sobre [[El Nido]] y valoró si convenía mencionar a [[Jasper]] ante [[Malasaña]]. El nombre podía abrir puertas si ambos mantenían buenas relaciones, o cerrarlas con violencia si ocurría lo contrario.
 
-La conversación terminó alejándose del gremio. Alyre habló con Mathulio, durante mucho más tiempo del que era habitual entre ambos, sobre lo que significaba no conservar la misma destreza que había tenido con el estoque. Aunque ya no lo empuñaba como antes, la pérdida seguía formando parte de la transformación que le habían impuesto. Antes de separarse acordaron entrenar juntos.
+La conversación terminó alejándose del gremio. Alyre habló con Mathulio, durante mucho más tiempo del que era habitual entre ambos, sobre lo que significaba no conservar la misma destreza que había tenido con el estoque. Nunca había dejado de llevarlo, pero ya no lo empuñaba como antes: sin las propiedades infernales que perdió al transformarse en bruja y sin sentirse tan poderosa con él, había pasado a combatir sobre todo con las garras y la magia. Antes de separarse acordaron entrenar juntos.
 
-Mishka, entretanto, regresó a una posada que conocía bien: [[La Garduña]]. La regentaba [[Yaya]], quien la había levantado muchos años atrás junto a su esposa. El negocio había sido el sueño de aquella mujer y Yaya lo mantuvo abierto en su honor después de su muerte. La conversación despejó por fin la confusión: La Garduña no era Casa Paco y Yaya no era [[Mari Carmen]].
+Mishka, entretanto, regresó a una posada que conocía bien: [[La Garduña]]. La regentaba [[Yaya]]. El negocio había sido el sueño de su esposa y Yaya lo fundó en su honor después de enviudar, cuando se retiró de las aventuras. La conversación despejó por fin la confusión: La Garduña no era Casa Paco y Yaya no era [[Mari Carmen]].
 
 Yaya tenía además noticias de palacio. [[Hernán Cortés|El rey Cortés]] iba a casarse con una mujer que nadie parecía conocer, extranjera y, según se decía, encontrada durante una de sus aventuras. En un rincón del piso superior, una tabaxi llamada [[Leo]] bebía té caliente. Había llegado una semana antes, hablaba poco y pagaba una de las habitaciones más baratas pese a llevar una armadura de gran valor. Era mensajera real de [[Ándalor]] y había acudido con su compañero [[Tauro]]. Formaban parte de un cuerpo de doce mensajeros reales y, como su reina no podía asistir, los dos habían llegado como embajadores para la boda y para un acuerdo de concordia.
 
@@ -142,4 +142,4 @@ Allí terminó la jornada, con la puerta del dios del asesinato abierta ante Né
 #### Seguir leyendo
 
 [[Sesión 40|Página anterior]]
-Página siguiente pendiente
+[[Sesión 42|Página siguiente]]
