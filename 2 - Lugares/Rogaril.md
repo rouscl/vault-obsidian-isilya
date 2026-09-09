@@ -28,6 +28,7 @@ Rogaril está gobernada por "Los Cinco", un bloque de casas nobles y figuras de 
 ## Orden, conflicto y bajos fondos
 
 - La Mano mantiene presencia militar y capacidad de persecución fuera de la ciudad. En la [[Sesión 23]], soldados vinculados a ella intentan arrestar a [[Juaniguel de la Ola|Juaniguel]] en el [[Puente de la Paz]] y llevan órdenes de captura contra [[Alyre A'Dariir|Alyre]], [[Mathulio]] y Juaniguel.
+- En la [[Sesión 39]], una fuerza de guardias de Rogaril embosca el bichobús del grupo camino de [[Ibermaris]]. Llevan el escudo de la [[Casa Umbrafel]] y afirman que las cabezas de varios integrantes del grupo tienen precio en la capital. La insignia está confirmada, pero no la cadena de mando exacta ni quién ordenó el ataque.
 - La ciudad tiene un gremio de aventureros dirigido por [[Erik Kael Stormborn]], con [[Mel]] como curandera y [[Kaziya]] como responsable cuando Erik no está.
 - En los bajos fondos opera una red de ladrones, maleantes e informantes conectada con [[Jasper]], [[Klorg]] y _The Spoon_.
 - La ejecución pública de [[Caraxys]], antiguo líder de Los Alados, revela tensiones sociales profundas: un movimiento nacido como revuelta de pobres y oprimidos terminó asociado a terrorismo, magia oscura y represión gubernamental.
@@ -66,6 +67,8 @@ Rogaril está gobernada por "Los Cinco", un bloque de casas nobles y figuras de 
 - En la [[Sesión 10]], el grupo prepara el viaje a [[Gallix]], recibe el mapa de [[Jasper]] y establece la ruta hacia el [[Puente de la Paz]].
 - En sesiones posteriores se confirma que Rogaril sigue siendo relevante aunque el grupo esté lejos: La Mano les busca, la Casa de los Susurros se interesa por movimientos de la [[Casa A'Dariir]] y [[Jasper]] continúa funcionando como contacto de información.
 - En Rogaril hay misiones de matar mímicos, según comenta [[Paige]] durante la travesía hacia [[Castimandra]], señal de que algo extraño ocurre también con esas criaturas.
+- En la [[Sesión 39]], la familia de [[Yorag Neciente]] y [[Lorena Neciente]] viaja desde Rogaril para entrevistarse con el rey de [[Ibermaris]]. Durante el mismo trayecto, los guardias de la capital atacan al grupo y confirman que siguen vigentes recompensas por sus cabezas.
+- En la [[Sesión 40]], un libro atribuido a [[Caraxys]] ofrece su versión de la historia de Los Alados. Afirma que la represión institucional empujó al movimiento hacia una violencia que acabó afectando a civiles, acusa a [[Rodrick]] de venderlos a la [[Casa Eledhril]] y atribuye a un «[[Alphonse Valdrak|Valdrak]]» las torturas sufridas durante su cautiverio. También sostiene que el cuerpo mostrado al pueblo durante la ejecución no era el de Caraxys. Todo ello permanece como testimonio no corroborado.
 
 ## Ubicación geográfica
 
@@ -88,3 +91,5 @@ Rogaril está gobernada por "Los Cinco", un bloque de casas nobles y figuras de 
 - [[Sesión 30]]
 - [[Sesión 31]]
 - [[Sesión 33]]
+- [[Sesión 39]]
+- [[Sesión 40]]

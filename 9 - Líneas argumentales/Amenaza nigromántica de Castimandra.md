@@ -28,19 +28,21 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 - Dos personas no identificadas abandonaron [[Castimandra]] durante la madrugada posterior al ataque en la granja y se fueron hacia el Este, sin que se les atribuya de momento un papel relevante en la corrupción del guardián.
 - La hipótesis del grupo sobre el guardián queda confirmada en la [[Sesión 37]]: el guardián corrupto era el foco de infección de [[Castimandra]].
 - En la [[Sesión 36]], el consejo organiza una expedición hacia el guardián por el Camino del Norte. El grupo atraviesa un bosque-laberinto, pero aún no llega a su destino; las [[Ruinas bajo el monolito]] corresponden al encargo secundario de [[Lir'Ohn]], no a esta investigación.
-- En la [[Sesión 37]], el grupo alcanza al guardián y descubre que era el foco de infección de [[Castimandra]]. La corrupción procede de un fragmento de una corona metálica astada clavado detrás de su nuca, usado como medio para controlarlo. Al retirarlo, el guardián deja de atacar y ayuda a restaurar el bosque.
-- Nérthoran identifica el fragmento como parte de la corona de espinas que una mortal utilizó para matar a [[Myrkull]].
+- En la [[Sesión 37]], el grupo alcanza al guardián y descubre que era el foco de infección de [[Castimandra]]. La corrupción procede del [[Fragmento de la corona de espinas|fragmento de una corona metálica astada]] clavado detrás de su nuca, usado como medio para controlarlo. Al retirarlo, el guardián deja de atacar y ayuda a restaurar el bosque.
+- Nérthoran identifica el [[Fragmento de la corona de espinas|fragmento]] como parte de la corona de espinas que una mortal utilizó para matar a [[Myrkull]].
 - La magia que subyuga al guardián es nigromancia de [[Myrkull]], vinculada al heraldo al que el grupo está buscando.
 - [[Paige]] y [[Lovna]] salen de su encierro voluntario con ayuda de [[Juaniguel de la Ola|Juaniguel]] y [[Mishka]], pero piden refugiarse unos días en casa de Mishka porque aún no se sienten listas para volver a su granja.
+- En la [[Sesión 41]], Mishka las ve desde el santuario de [[Chauntea]] en El Invernadero y comprueba que están embarazadas de nuevo.
 - Durante su muerte, [[Nérthoran Yúribel|Nérthoran]] percibe un punto de energía en el reino de las almas que podría permitir desmontar el enlace de las lloronas con el plano mortal.
 
 ## Sospechas y preguntas abiertas
 
 - No se sabe quién es el nigromante que ha encontrado la manera de usar a los niños.
-- No se sabe quién subyugó al guardián, quién clavó el fragmento de corona en su nuca ni cómo obtuvo un objeto vinculado a la muerte de [[Myrkull]].
+- No se sabe quién subyugó al guardián, quién clavó el [[Fragmento de la corona de espinas|fragmento de corona]] en su nuca ni cómo obtuvo un objeto vinculado a la muerte de [[Myrkull]].
 - No está claro si el heraldo de [[Myrkull]] actúa por voluntad propia, por mandato de Myrkull o como pieza manipulada por otra fuerza.
 - Falta saber si las lloronas son víctimas, herramientas, agentes conscientes o todo a la vez.
 - La conexión entre la luna roja, [[Reiro]] y la amenaza de [[Castimandra]] sigue sin resolverse.
+- No se sabe si el nuevo embarazo de [[Paige]] y [[Lovna]] tiene alguna relación con la maldición anterior o si transcurre con normalidad.
 - Falta confirmar si Nérthoran puede volver a localizar ese punto de energía desde el reino de las almas sin morir otra vez, que sería un método bastante poco cómodo incluso para esta campaña.
 - La información de [[El Nido]] sobre rituales relacionados con [[Bhaal]] en [[Ibermaris]] puede conectar esta trama con una amenaza más amplia, pero de momento no está confirmado.
 
@@ -53,10 +55,12 @@ La frase "los niños no sucumben, los niños no despiertan" revela una lógica t
 - [[Sesión 34]]
 - [[Sesión 36]]
 - [[Sesión 37]]
+- [[Sesión 41]]
 
 ## Relacionado
 
 - [[Guardián del árbol madre]]
+- [[Fragmento de la corona de espinas]]
 - [[Castimandra]]
 - [[Mama Rott]]
 - [[Paige]]

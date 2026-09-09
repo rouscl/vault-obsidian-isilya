@@ -36,6 +36,7 @@ Alphonse, también conocido entre el pueblo como "La Mano", es un hombre temido 
 
 - En la [[Sesión 23]], soldados de [[Alphonse Valdrak|La Mano]] interceptan al grupo y arrestan a [[Juaniguel de la Ola|Juaniguel]]. El grupo los mata y encuentra órdenes de captura contra [[Alyre A'Dariir|Alyre]], [[Mathulio]] y Juaniguel, además de una piedra de alma.
 - En la [[Sesión 32]], el grupo sigue temiendo que [[Paige]] y [[Lovna]] puedan delatarlos ante La Mano en [[Castimandra]].
+- En la [[Sesión 40]], el libro atribuido a [[Caraxys]] afirma que La Mano reprimió a Los Alados y se dirige a un «Valdrak» como responsable de torturar y mutilar a Caraxys durante su cautiverio. La coincidencia apunta a Alphonse, pero el texto no da nombre de pila y la acusación no está corroborada.
 
 ## Estado actual
 
@@ -47,3 +48,4 @@ Alphonse sigue siendo importante para la trama actual porque es quien ejecutó l
 - [[Sesión 11]]
 - [[Sesión 23]]
 - [[Sesión 32]]
+- [[Sesión 40]]

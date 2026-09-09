@@ -24,7 +24,7 @@ tags:
 >
 > | Relación       |
 > | ----------------- |
-> | Criatura vinculada a [[Juaniguel de la Ola|Juaniguel]] |
+> | Criatura vinculada a [[Juaniguel de la Ola]] |
 
 ## Información
 

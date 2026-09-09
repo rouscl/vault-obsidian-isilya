@@ -41,3 +41,7 @@ Humbert es un hombre cuya retórica mantenía a la clase trabajadora leal y cont
 ## Estado actual
 
 Su situación parece haber cambiado en [[Rogaril]]: según un pergamino visto en el [[El Nido|Nido]] durante la [[Sesión 35]], será juzgado por lo descubierto sobre el Culto de la Carne Retorcida. Conviene confirmar los detalles si el grupo vuelve a la ciudad.
+
+## Seguimiento del juicio
+
+En la [[Sesión 42]], la carta de [[Jasper]] anuncia que el juicio ha sido pospuesto, pero se celebrará, y que se sigue considerando un sucesor. El mensaje enlaza con el proceso anunciado en la [[Sesión 35]]. La necesidad de mantener un Talorian en el gobierno aparece como leyenda, no como ley confirmada; no hay fecha ni sentencia.

@@ -22,4 +22,6 @@ La Casa Ilythiss es una familia noble menor del intrincado entramado político d
 
 > [!kith|antagonist] **No se conocen**
 
+## Pista en la superficie
 
+En la [[Sesión 42]], una carta de [[Jasper]] informa de que el [[Barón Ilythiss]] fue visto en la capital con otro drow y que su última dirección conocida era el [[Puente de la Paz]]. No se sabe si el barón o el acompañante son [[Elendar]] ni si coinciden con el varón del rumor de [[Vaeris]]. [[Gallix]] o una partida por barco son posibilidades, no destinos confirmados.

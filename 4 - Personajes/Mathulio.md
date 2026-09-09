@@ -33,14 +33,15 @@
 >
 > # Vínculos Antiguos
 > - [[Juaniguel de la Ola]]
-> - Paco
-> - Mari Carmen
-> - Hernán Cortés
+> - [[Paco]]
+> - [[Mari Carmen]]
+> - [[Hernán Cortés]]
 >
 > # Vínculos Nuevos
 > - [[Alyre A'Dariir | Alyre]]
 > - [[Urko Puño de Viuda Lamento de Hierro]]
 > - [[Nérthoran Yúribel]]
+> - [[Mishka]]
 
 ## Evolución en campaña
 
@@ -50,11 +51,29 @@ Ver: [[Mathulio - evolución]]
 
 Mathulio es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]], [[Nérthoran Yúribel]] y [[Mishka]].
 
+En la [[Sesión 38]], durante la fiesta de la cosecha de [[Castimandra]], Mathulio detecta marcas relacionadas con [[El Nido]] colocadas por una figura con capa larga y sombrero de ala en comercios concurridos. También roba a una artificiera una especie de granada de forma extraña.
+
+En la [[Sesión 40]], regresa a [[Ibermaris]] después de atravesar [[Yeraimus de Abajo]], donde él, [[Alyre A'Dariir|Alyre]] y [[Juaniguel de la Ola|Juaniguel]] contraen una afección debilitadora que requiere ayuda de un templo. En la rama local de [[El Nido]], [[Félix]] le explica la jerarquía del gremio y concierta una reunión con [[Malasaña]] dentro de dos días. Después vuelve a [[Casa Paco]], la posada vinculada a su crianza por Paco y Mari Carmen.
+
+En la [[Sesión 41]], enseña a Alyre más jerga de ladrones y habla con ella sobre lo que supone haber perdido su antigua destreza con el estoque. Acuerdan entrenar juntos. Mathulio evita comer en Casa Paco para que sus figuras parentales no lo vean y, cuando [[Mishka]] lo despierta a bastonazos por no saludar a [[Mari Carmen]], huye por una ventana tras discutir con Juaniguel.
+
+[[Ayamar]] le lee **El Loco** y **El Diablo**, interpretando en él una necesidad de lanzarse a lo desconocido, una tentación casi obsesiva, deseos ocultos y una cadena que lo mantiene atado. La lectura no se trata como un futuro confirmado. La cita quedó pendiente al cierre de la Sesión 41 y se celebra en la [[Sesión 42]].
+
+### Amnesia y encuentro con Bhaal
+
+En la [[Sesión 42]], el grupo se traslada a [[La Garduña]] para evitar que Mathulio vuelva a [[Casa Paco]]. La descripción de una fotografía que solo ha visto [[Mishka]] lleva a [[Juaniguel de la Ola]] a proponer que la [[Prometida de Hernán Cortés]] sea la antigua pareja de Mathulio en El Dorado. Mathulio se preocupa y quiere comprobarlo.
+
+Se reúne con [[Malasaña]] junto a Alyre, abre la tumba de [[Milagros Figueral]] con los golpes del Nido y participa en la incursión. En el monolito ve una versión de sí mismo ensangrentada y consigue apartarse. En la sala del cuenco confiesa su avaricia y su intento de ocultarla.
+
+Ataca a la figura de [[Bhaal]] con dos dagas. Una, desconocida para Alyre, se fusiona con el cuerpo de Bhaal y desaparece. Bhaal lo deja inconsciente y Mishka lo cura. Al despertar, **ha perdido los recuerdos desde que fue al templo a quitarse la afección de Yeraimus hasta ese momento**. El origen de la daga y la causa de la amnesia no se conocen; no consta que recupere los recuerdos al salir.
+
+Mishka le pide que corra hacia la entrada. Desde allí presencia la muerte de Alyre. Tras su retorno y la expulsión del grupo, comenta que Mishka y él son los únicos que nunca han muerto; ella responde de manera ambigua. La reunión, la pista de la novia y la incursión anteriores a despertar pertenecen al periodo perdido y no deben tratarse como recuerdos accesibles a Mathulio sin que alguien se los vuelva a contar.
+
 ## **Infancia**
 
 Mathulio fue un niño marcado por la tragedia desde temprana edad. A los cinco años, una mañana cualquiera, despertó para encontrar que sus padres habían desaparecido sin dejar rastro. Nadie en la pequeña aldea sabía qué les había pasado; simplemente se esfumaron. Huérfano y sin recursos, Mathulio quedó a merced del mundo.
 
-Fue entonces cuando Paco, el tabernero de una posada de mala muerte, decidió acogerlo. Claro que no lo hizo por caridad, sino porque necesitaba un ayudante que no pidiera salario. Junto a su esposa Mari Carmen, Paco le ofreció techo y comida a cambio de trabajo, encargándole las tareas más ingratas: barrer, lavar platos, limpiar vómitos de borrachos y atender a los clientes más problemáticos. Mathulio creció en ese ambiente hostil, donde no existían el cariño ni la empatía, solo órdenes y gritos.
+Fue entonces cuando [[Paco]], el tabernero de una posada de mala muerte, decidió acogerlo. Claro que no lo hizo por caridad, sino porque necesitaba un ayudante que no pidiera salario. Junto a su esposa [[Mari Carmen]], Paco le ofreció techo y comida a cambio de trabajo, encargándole las tareas más ingratas: barrer, lavar platos, limpiar vómitos de borrachos y atender a los clientes más problemáticos. Mathulio creció en ese ambiente hostil, donde no existían el cariño ni la empatía, solo órdenes y gritos.
 
 Sin embargo, aprendió mucho de los clientes de la taberna. Observaba y escuchaba atentamente cómo hablaban, cómo mentían, cómo se reían y cómo se peleaban. Poco a poco, desarrolló una capacidad casi instintiva para leer a las personas. Sabía cuándo alguien ocultaba algo, cuándo mentía y, más importante, cuándo tenía dinero. Paco y Mari Carmen nunca le ofrecieron un vínculo familiar real, pero sin quererlo, lo convirtieron en un joven astuto, desconfiado y resiliente.
 
@@ -118,7 +137,6 @@ A pesar de la situación, Mathulio no podía evitar sonreír. Había algo reconf
 
 > [!kith|friend] **[[Juaniguel de la Ola]]**
 
-> [!kith|family] **Paco, Mari Carmen**
+> [!kith|family] **[[Paco]], [[Mari Carmen]]**
 
 > [!kith|antagonist] **Hernán Cortés**
-

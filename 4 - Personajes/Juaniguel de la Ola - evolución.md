@@ -11,7 +11,7 @@ Relacionado con: [[Juaniguel de la Ola]]
 > [!summary] Estado actual
 > - **Raza / linaje:** Humano común
 > - **Clase / subclase:** Bardo, Colegio de la Elocuencia / Paladín de [[Timora]]
-> - **Aspecto actual:** Sin cambio físico estable confirmado; su referencia visual actual es la etapa como paladín de [[Timora]].
+> - **Aspecto actual:** Brillo rojo del esqueleto tras su retorno por la Luna Roja, confirmado en la [[Sesión 42]]. Su referencia visual sigue siendo la etapa como paladín de [[Timora]].
 > - **Estado narrativo:** Personaje jugador activo; viaja con [[Mathulio]], [[Alyre A'Dariir]], [[Nérthoran Yúribel]] y [[Mishka]]. El [[Huevo de Juaniguel]] ya eclosionó y de él nació [[Brillo]].
 > - **Imagen principal actual:** ![[Juaniguel paladín.png]]
 
@@ -44,10 +44,16 @@ Relacionado con: [[Juaniguel de la Ola]]
 
 - **Sesión / momento:** [[Sesión 34]].
 - **Causa:** Muere durante el combate contra las gárgolas en las [[Ruinas bajo el monolito]].
-- **Cambios físicos:** Regresa a la vida con un aspecto demacrado y alterado.
+- **Cambios físicos:** Regresa a la vida con un aspecto demacrado y alterado. La [[Sesión 42]] confirma que su esqueleto emite un brillo rojo, comparable al nuevo brillo de Alyre.
 - **Cambios mecánicos:** No consta un cambio mecánico concreto documentado.
 - **Cambios narrativos:** Durante su muerte alcanza los jardines dorados de [[Timora]], pero es arrancado hacia un mar infinito donde encuentra a [[Nérthoran Yúribel|Nérthoran]] y a la [[La Luna Roja|Luna Roja]]. Cuenta que en una canción de [[Ibermaris]] la Luna Roja se llama Grana, mientras que en [[Gallix]] era [[Reiro]], y que está sometida y necesita las reliquias para liberarse.
 - **Consecuencias:** Juaniguel interpreta que el grupo está en manos de entidades superiores. Su conversación posterior con [[Mathulio]] deja dudas sobre cuánto le ha afectado la experiencia de muerte y retorno.
+
+### Tentaciones en los dominios de Bhaal
+
+- **Sesión / momento:** [[Sesión 42]].
+- **Cambios narrativos:** El monolito le muestra una versión sangrienta de sí mismo y lo acerca a la corrupción más que nunca. Bajo el deseo impuesto por una guardiana llega a atacar a Mishka. Confiesa su curiosidad como pecado.
+- **Consecuencias:** Se documentan la tentación y la influencia sufrida, sin convertirlas en un cambio de alineamiento o de fe.
 
 ## Estados visuales documentados y pendientes
 

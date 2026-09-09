@@ -11,8 +11,8 @@ Relacionado con: [[Nérthoran Yúribel]]
 > [!summary] Estado actual
 > - **Raza / linaje:** Alto elfo
 > - **Clase / subclase:** Clérigo / Mago, nigromante.
-> - **Aspecto actual:** Representado por `Nérthoran joven.png`; su cuerpo parece rejuvenecer a medida que gana poder y usa magia nigromántica.
-> - **Estado narrativo:** Personaje jugador activo; viaja con [[Alyre A'Dariir]], [[Juaniguel de la Ola]] y [[Mathulio]].
+> - **Aspecto actual:** Representado por `Nérthoran joven.png`; su cuerpo parece rejuvenecer a medida que gana poder y usa magia nigromántica. La [[Sesión 42]] confirma el brillo rojo de su esqueleto tras la resurrección.
+> - **Estado narrativo:** Personaje jugador activo; viaja con [[Alyre A'Dariir]], [[Juaniguel de la Ola]], [[Mathulio]] y [[Mishka]].
 > - **Imagen principal actual:** ![[Nérthoran joven.png]]
 
 ## Línea de evolución
@@ -62,10 +62,26 @@ Relacionado con: [[Nérthoran Yúribel]]
 
 - **Sesión / momento:** [[Sesión 34]].
 - **Causa:** Muere durante el combate contra las gárgolas en las [[Ruinas bajo el monolito]].
-- **Cambios físicos:** Regresa a la vida con un aspecto demacrado y alterado.
+- **Cambios físicos:** Regresa a la vida con un aspecto demacrado y alterado. La [[Sesión 42]] confirma que su esqueleto emite un brillo rojo, comparable al nuevo brillo de Alyre.
 - **Cambios mecánicos:** No consta un cambio mecánico concreto documentado.
 - **Cambios narrativos:** Durante su muerte viaja por el reino de [[Myrkull]], ve lloronas e hilos conectados con el plano mortal, y percibe la intervención de un heraldo de Myrkull. Después se encuentra junto a [[Juaniguel de la Ola|Juaniguel]] ante la [[La Luna Roja|Luna Roja]], que los devuelve a la vida.
 - **Consecuencias:** Nérthoran interpreta que el grupo ha sido elegido para encontrar y desvelar las reliquias, y que la misión es mucho más importante de lo que [[Caraxys]] había explicado. Tras la experiencia, trata al grupo con más respeto y promete ayudar a [[Alyre A'Dariir|Alyre]] a romper las cadenas impuestas por entidades superiores si surge la oportunidad.
+
+### Reconocimiento en el santuario de Myrkull
+
+- **Sesión / momento:** [[Sesión 41]], durante la visita al [[Templo de la Orden de Santiago]].
+- **Causa:** Nérthoran accede mediante la sala de teletransporte al santuario de [[Myrkull]].
+- **Cambios físicos:** No consta un cambio físico estable.
+- **Cambios mecánicos:** Junto a [[Hugo Alzasombras]] y [[Chelterra]], realiza un ritual que le permite ver el fragmento opuesto de la corona en una mochila que se desplaza hacia el norte desde [[Ibermaris]].
+- **Cambios narrativos:** Los dos clérigos se arrodillan ante él, lo llaman «mi señor» y afirman que lo creían una leyenda.
+- **Consecuencias:** Se abre una nueva incógnita sobre el lugar de Nérthoran dentro del culto de Myrkull y una pista inmediata para localizar otro [[Fragmento de la corona de espinas|fragmento de la corona]].
+
+### Ayuda solicitada a Bhaal
+
+- **Sesión / momento:** [[Sesión 42]].
+- **Cambios mecánicos documentados:** Recibe un anillo cuyo donante afirma que invoca asesinos al rezar a Bhaal con él puesto. No consta activación ni reglas adicionales.
+- **Cambios narrativos:** Solicita la muerte de quienes llevan los fragmentos de corona restantes. En la prueba del cuenco confiesa que conocía el ritual de sus padres y permitió que ocurriera.
+- **Consecuencias:** La búsqueda de la corona incorpora una ayuda bhaalita cuyo coste y condiciones no se conocen. El trasfondo familiar continúa incompleto.
 
 ## Estados visuales documentados y pendientes
 
@@ -82,3 +98,4 @@ Relacionado con: [[Nérthoran Yúribel]]
 ## Dudas o datos pendientes
 
 - Añadir el trasfondo de Nérthoran cuando esté disponible.
+- Averiguar qué leyenda conocen los clérigos de [[Myrkull]] sobre Nérthoran y por qué lo reconocen como a un superior.

@@ -9,7 +9,7 @@ tags:
 
 ## Estado
 
-Misión resuelta en [[Castimandra]]. En la [[Sesión 37]], el grupo alcanza al guardián del árbol madre y descubre que estaba corrompido por un fragmento de una corona metálica astada clavado detrás de la nuca. [[Nérthoran Yúribel|Nérthoran]] retira el fragmento, el guardián deja de atacar y el bosque se revitaliza. No debe confundirse con el encargo secundario de [[Lir'Ohn]] en las [[Ruinas bajo el monolito]].
+Misión resuelta en [[Castimandra]]. En la [[Sesión 37]], el grupo alcanza al guardián del árbol madre y descubre que estaba corrompido por el [[Fragmento de la corona de espinas|fragmento de una corona metálica astada]] clavado detrás de la nuca. [[Nérthoran Yúribel|Nérthoran]] retira el fragmento, el guardián deja de atacar y el bosque se revitaliza. No debe confundirse con el encargo secundario de [[Lir'Ohn]] en las [[Ruinas bajo el monolito]].
 
 ## Origen de la misión
 
@@ -84,6 +84,7 @@ Tras la resolución de la misión, todas las recompensas acordadas con [[Castima
 
 - [[Romper la maldición del vínculo]]
 - [[Reliquias y vestigios]]
+- [[Fragmento de la corona de espinas]]
 - [[Amenaza nigromántica de Castimandra]]
 - [[Castimandra]]
 - [[Mama Rott]]

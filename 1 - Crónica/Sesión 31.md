@@ -17,7 +17,7 @@ date_created: 2026-04-02
 | [[Jasper]] | Informa a Alyre de rumores preocupantes sobre su madre y la [[Casa A'Dariir]]. |
 | Falba | Atiende el servicio de correos y banco de Lorien. |
 | [[Chauntea]] | Patrona principal de [[Castimandra]]. |
-| Inei | Tabernera de La Carnívora. |
+| [[Inei]] | Tabernera de La Carnívora. |
 | [[Lir'Ohn]] | Dendrómata que regenta la tienda de magia. |
 | [[Una Fa]] | Herborista que vende útiles de envenenador y deja una muestra a Alyre. |
 
@@ -66,7 +66,7 @@ Falba los atendió y explicó que también gestionaban servicios bancarios. Alyr
 
 En el banco, Alyre ingresó cinco amatistas y comprobó que tenía las 1000 piezas de oro de [[Caraxys]] y el dinero prometido por [[Paige]], acompañado de una nota afectuosa. [[Mathulio]] recibió una carta de sus padres. [[Nérthoran Yúribel|Nérthoran]], por su parte, descubrió que tenía una cuenta compartida con ellos y que era rico, lo que desembocó en una invitación a botellas de vino excelentes.
 
-La taberna elegida fue La Carnívora. La regentaba Inei, una criatura de casi tres metros y voz muy suave. Allí vieron también a una goblin con un gato precioso.
+La taberna elegida fue La Carnívora. La regentaba [[Inei]], una criatura de casi tres metros y voz muy suave. Allí vieron también a una goblin con un gato precioso.
 
 En la tienda de magia, [[Lir'Ohn]], una dendrómata, dijo a [[Juaniguel de la Ola|Juaniguel]] que podía ayudarle a eclosionar el [[Huevo de Juaniguel|huevo]] en tres días si el grupo recuperaba para ella un objeto mágico situado a las afueras de la ciudad.
 

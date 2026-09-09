@@ -14,11 +14,11 @@ El dinero es un recurso valioso y debe ser gestionado con sabiduría. El oro es 
 
 - Familia Lumena
 	- [[Lidy Lumena|Lidy]]
+	- [[Lorena Neciente|Lorena]] — identificada por [[Alyre A'Dariir|Alyre]] como posible hermana de Lidy en la [[Sesión 39]]; vínculo pendiente de corroboración.
 - Otras familias menores
 ## Aliados y enemigos
 
 > [!kith|friend] **[[Casa Talorian]], [[Casa Umbrafel]], [[Casa Valdrak]], [[Casa Eledhril]].**
 
 > [!kith|antagonist] Casa Goldpeak
-
 

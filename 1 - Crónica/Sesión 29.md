@@ -36,6 +36,7 @@ date_created: 2026-02-01
 - [[Xerathor]] afirma que seres importantes están detrás de Alyre y que tendrá que ayudarla aunque no quiera.
 - Alyre despierta transformada: ojos rojos, un hueco luminoso en la cicatriz de la frente, tatuajes tenues de [[Xerathor]] y una nueva naturaleza mágica.
 - Alyre pasa a ser bruja de [[Xerathor]].
+- El estoque que Alyre llevaba desde antes del pacto pierde las propiedades infernales con las que Xerathor lo había potenciado, pero ella conserva el arma.
 
 
 <br>
@@ -58,7 +59,7 @@ Al despertar, Alyre rezó a [[Loth]]. La vela del ritual de [[Xerathor]] no pren
 
 De pronto estaba en el reino de [[Xerathor]]. El demonio habló de lo solicitada que estaba su muerte últimamente. Alyre bromeó con que Mathulio no había sido el mejor intento, y Xerathor dejó caer que el mediano era listo por haberle contado aquello. También le dijo que iba a tener que ayudarla aunque ella no quisiera: seres aparentemente importantes estaban detrás de ella.
 
-Cuando Alyre regresó al plano habitual, su cuerpo era distinto. Su piel se sentía extraña. La magia corría a través de ella como un flujo nuevo. En las manos llevaba un arma que no era su estoque. Su vestimenta había cambiado. La cicatriz de la frente era ahora un hueco que brillaba con el mismo rojo que sus ojos, completamente rojos. Bajo la piel se insinuaban los tatuajes de [[Xerathor]].
+Cuando Alyre regresó al plano habitual, su cuerpo era distinto. Su piel se sentía extraña. La magia corría a través de ella como un flujo nuevo. En las manos llevaba un arma que no era su estoque. Su vestimenta había cambiado. La cicatriz de la frente era ahora un hueco que brillaba con el mismo rojo que sus ojos, completamente rojos. Bajo la piel se insinuaban los tatuajes de [[Xerathor]]. Su estoque seguía con ella, pero había perdido las propiedades infernales con las que el demonio lo había potenciado al sellar el pacto.
 
 Alyre había cambiado de raíz. Desde ese momento, era bruja de [[Xerathor]].
 

@@ -41,6 +41,8 @@ La Ponzoña aparece en la crónica a través de sus sacerdotisas, un grupo de mu
 
 En la [[Sesión 4]], el grupo acude a buscarlas y las encuentra asediadas por no muertos. En la [[Sesión 5]], después de recibir ayuda, las sacerdotisas ofrecen realizar un ritual para intentar romper la maldición del vínculo. El ritual falla con un estallido rojo y todas mueren, aunque el vínculo queda debilitado.
 
+En la [[Sesión 40]], el libro atribuido a [[Caraxys]] afirma que sus padres se consumieron en la miseria mientras aguardaban un milagro del culto de Ponzoña y que aquella experiencia lo llevó a rechazar a los dioses. Se trata de su testimonio, no de una valoración objetiva de la deidad. Durante el paso por [[Yeraimus de Abajo]], [[Alyre A'Dariir|Alyre]] no reconoce que la enfermedad aparente del pueblo esté relacionada con Ponzoña.
+
 ## Dogmas
 
 No hay dogma confirmado en la crónica. Por lo visto en mesa, su culto parece convivir con enfermedad, marginalidad, podredumbre y prácticas rituales peligrosas, pero no está claro si eso representa una fe formal, una tradición local o una necesidad nacida de su situación.
@@ -86,6 +88,7 @@ No consta una iglesia organizada. Lo conocido apunta a un grupo reducido de sace
 
 - [[Sesión 4]]
 - [[Sesión 5]]
+- [[Sesión 40]]
 
 ## Relacionado
 

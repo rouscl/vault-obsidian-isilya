@@ -26,4 +26,6 @@ Con el sudor de nuestro trabajo cimentamos un mañana más próspero que en nues
 
 > [!kith|antagonist] **No se conocen**
 
+## Juicio y sucesión
 
+La carta de [[Jasper]] recibida en la [[Sesión 42]] anuncia que el juicio se ha pospuesto, pero se celebrará. El contexto es el proceso de [[Humbert Talorian]] anunciado en la [[Sesión 35]]. Todavía consideran quién será su sucesor. Jasper presenta como leyenda la necesidad de que haya un Talorian en el gobierno; no se confirma como requisito legal.

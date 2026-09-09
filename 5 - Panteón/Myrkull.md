@@ -42,8 +42,14 @@ En la [[Sesión 23]], Myrkull se manifiesta a [[Nérthoran Yúribel]] durante un
 
 Los rituales asociados a Myrkull suelen girar en torno a huesos, restos mortales, gemas de alma, cadáveres y comunicación con los muertos. En la campaña, [[Nérthoran Yúribel|Nérthoran]] utiliza prácticas nigrománticas precisas, como vincular un alma a una amatista en la [[Sesión 19]], y mantiene una relación directa con Myrkull como fuente religiosa de su poder.
 
+En la [[Sesión 39]], Nérthoran toma la vida de uno de los magos derrotados tras la emboscada al bichobús y la ofrece a su dios. La fuente no describe una respuesta directa de Myrkull.
+
+En la [[Sesión 41]], Nérthoran consulta dos relatos de la Era de los Trastornos. Uno afirma que Myrkull y [[Bhaal]] robaron unas tablillas, fueron expulsados del cielo y que Myrkull se hizo con la corona de espinas. Otro presenta a Bane, Bhaal y Myrkull como tres mortales que desafiaron a Jergal y se repartieron los dominios de la muerte. El grupo no corrobora estas versiones ni resuelve sus diferencias.
+
+En el santuario de Myrkull accesible desde el [[Templo de la Orden de Santiago]], [[Hugo Alzasombras]] y [[Chelterra]] se arrodillan ante Nérthoran, lo llaman «mi señor» y afirman que lo creían una leyenda. Los tres realizan un ritual sobre los fragmentos de la corona, que permite localizar visualmente el fragmento opuesto al de Nérthoran mientras viaja al norte de [[Ibermaris]].
+
 ## Estructura Religiosa
 
 Los cultos de Myrkull tienden a organizarse alrededor de sacerdotes, nigromantes, guardianes de tumbas y servidores capaces de tratar con la muerte sin rechazo ni superstición. Pueden operar de forma pública donde el culto a la muerte esté aceptado, o como círculos discretos cuando su práctica resulta peligrosa políticamente.
 
-En el grupo actual, [[Nérthoran Yúribel|Nérthoran]] es el principal vínculo conocido con Myrkull.
+En el grupo actual, [[Nérthoran Yúribel|Nérthoran]] es el principal vínculo conocido con Myrkull. El trato que recibe de Hugo y Chelterra sugiere que ocupa un lugar excepcional dentro del culto, pero todavía no se sabe cuál.

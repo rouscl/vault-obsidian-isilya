@@ -12,7 +12,7 @@ Una entrada limpia al vault de campaña: crónica, mundo, personajes y tramas ac
 
 ## Seguir la partida
 
-- [[Sesión 37|Última sesión jugada]]
+- [[Sesión 42|Última sesión jugada]]
 - [[Sesión 1|Comienzo de la campaña]]
 - [[Índice de líneas argumentales|Tramas abiertas]]
 
@@ -31,6 +31,7 @@ Una entrada limpia al vault de campaña: crónica, mundo, personajes y tramas ac
 - [[Isilya]]
 - [[Gallix]]
 - [[Castimandra]]
+- [[Ibermaris]]
 - [[Menzoberranzan]]
 - [[Felindraith]]
 

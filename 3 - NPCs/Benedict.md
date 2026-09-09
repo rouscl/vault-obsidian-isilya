@@ -23,7 +23,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Encuentro puntual ligado a [[Juaniguel de la Ola|Juaniguel]] |
+> | Encuentro puntual ligado a [[Juaniguel de la Ola]] |
 
 ## Información
 

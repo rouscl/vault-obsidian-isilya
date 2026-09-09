@@ -9,7 +9,7 @@ tags:
 
 > [!infobox]
 > # Ildan A'Dariir
-> ![[Padres Alyre.png]]
+> ![[Padre de Alyre - retrato.png]]
 > ###### Información
 > | Raza  |
 > | ----- |
@@ -25,7 +25,7 @@ tags:
 > 
 > | Relación       |
 > | ----------------- |
-> | Padre despreciado por [[Alyre A'Dariir|Alyre]]; consorte de [[Livra]] |
+> | Padre despreciado por [[Alyre A'Dariir]]; consorte de [[Livra]] |
 
 ## Información
 

@@ -27,12 +27,16 @@ El vínculo aparece tras la ejecución pública de [[Caraxys]] en [[Rogaril]]. D
 - El ritual de [[Nérthoran Yúribel|Nérthoran]] no rompió la maldición; la multiplicó, creando vínculos entre el grupo y él.
 - [[Nérthoran Yúribel|Nérthoran]] confesó que faltaba una gema de alma para completar el ritual.
 - En la [[Sesión 32]], [[Caraxys]] asegura bajo zona de verdad que no sabe de dónde viene la maldición, por qué fueron elegidos ni que el ritual fallaría.
+- En la [[Sesión 39]], el grupo encuentra una [[Casa abandonada del camino a Ibermaris|casa dañada]] que podría haber pertenecido a Caraxys: hay un retrato de un hombre parecido a él antes de la mutilación y un sello de [[Rogaril]] trazado con lo que parece sangre. La propiedad de la casa no está confirmada.
+- En la [[Sesión 40]], [[Mishka]] encuentra en la casa un libro atribuido a Caraxys. El texto sostiene que el cuerpo mostrado al pueblo durante su ejecución no era el suyo y ofrece una posible fuente de su interés por las armas legendarias: un [[Reo Lunático]] que hablaba de una luna roja y cuatro armas bendecidas. El documento no explica el origen del vínculo ni está corroborado de forma independiente.
 
 ## Tensiones abiertas
 
 - [[Alyre A'Dariir|Alyre]] sospecha que [[Caraxys]] está usando al grupo y que el ritual fallido de [[Nérthoran Yúribel|Nérthoran]] podía formar parte de un proceso.
 - La zona de verdad limita la mentira directa, pero no garantiza que [[Caraxys]] haya contado todo lo que sabe o que entienda todos los hilos en juego.
 - La maldición puede estar conectada con la profecía, con los vestigios, con la energía nigromántica de [[Castimandra]] o con varias cosas a la vez, porque aparentemente la trama no tenía suficiente con un solo incendio.
+- La posible antigua casa de Caraxys puede aportar contexto sobre su vida anterior, su captura o la violencia ejercida por Rogaril, pero por ahora solo hay indicios visuales.
+- El libro refuerza la relación de la casa con Caraxys y aclara parte de su pasado, pero no demuestra que la vivienda fuera suya, cómo llegó allí el texto ni cuánto sabía realmente sobre la profecía cuando empezó a guiar al grupo.
 
 ## Sesiones clave
 
@@ -43,6 +47,8 @@ El vínculo aparece tras la ejecución pública de [[Caraxys]] en [[Rogaril]]. D
 - [[Sesión 22]]
 - [[Sesión 27]]
 - [[Sesión 32]]
+- [[Sesión 39]]
+- [[Sesión 40]]
 
 ## Relacionado
 
