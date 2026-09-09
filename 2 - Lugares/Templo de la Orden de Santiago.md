@@ -33,7 +33,14 @@ Cuando [[Mishka]] explica que los habitantes se transformaron en sombras y que p
 
 Antes de que Nérthoran acceda al santuario de Bhaal, dos Luminaris comentan que una encontró inconsciente a la otra dentro del templo. Se desconoce la causa y si guarda relación con el santuario.
 
+## Novedades de la sesión 42
+
+En el santuario de [[Bhaal]], [[Nérthoran Yúribel]] encuentra a cinco mujeres que se pintan con sangre y a un ser enorme y membranoso. Le pide asesinos para matar a los portadores de los fragmentos de corona restantes y recibe un anillo con instrucciones de rezar a Bhaal llevándolo puesto para invocarlos. No llega a activarlo.
+
+[[Mishka]] oye a una Regularis y una Veritas hablar de actividad en las [[Catacumbas de Ibermaris]] y de una conexión ritual con la sala de Bhaal. El grupo usa después un acceso situado en la tumba de [[Milagros Figueral]], en el cementerio junto al templo. El rito de los sectarios los lleva a los [[Dominios de Bhaal]]; no se precisa si son el mismo espacio que el santuario inicial ni se explica la inconsciencia de la Luminaris.
+
 ## Sesiones relacionadas
 
 - [[Sesión 40]]
 - [[Sesión 41]]
+- [[Sesión 42]]

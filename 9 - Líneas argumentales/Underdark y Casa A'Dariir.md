@@ -29,6 +29,10 @@ En las sesiones recientes, [[Vaeris]] y [[Jasper]] aportan señales preocupantes
 - [[Jasper]] descubre que [[Alyre A'Dariir|Alyre]] pertenece a la [[Casa A'Dariir]] y advierte que la Casa de los Susurros no suele interesarse por ecos lejanos sin motivo.
 - En la [[Sesión 39]], [[Lorena Neciente]] transmite a Alyre una posible oferta de trabajo bajo las órdenes exclusivas de [[Yaharis Eledhril]], vinculada a la Casa de los Susurros. Para que avance, Alyre tendría que demostrar quién robó en casa de Lorena. No hay confirmación directa de que Yaharis haya autorizado la propuesta.
 
+- En la [[Sesión 42]], Alyre recibe a través de [[Malasaña]] una carta de Jasper: informa del [[Barón Ilythiss]] y otro drow en la capital y de su marcha hacia el [[Puente de la Paz]]. No identifica a ninguno como Elendar. Gallix o un viaje por barco son hipótesis posteriores.
+- Jasper afirma que las trampas de la casa de Alyre habían sido desactivadas, pero sus bienes seguían allí, y que él las ha reactivado. No identifica al intruso.
+- Durante los meses que pasa en la [[Gran Telaraña]] después de morir, Alyre encuentra a [[Sszalyth A'Dariir]]. Su abuela la reprende por morir joven y le exige paciencia y adaptación. Alyre vuelve a la vida; no consta que la casa sepa lo ocurrido.
+
 ## Rumores y datos no confirmados
 
 - [[Vaeris]] transmite el rumor de que hay un varón [[Casa Ilythiss|Ilythiss]] en la superficie, pero no está confirmado que sea [[Elendar]].
@@ -37,10 +41,12 @@ En las sesiones recientes, [[Vaeris]] y [[Jasper]] aportan señales preocupantes
 - La naturaleza exacta del interés de la Casa de los Susurros no está clara.
 - [[Lorena Neciente]] puede ser hermana de [[Lidy Lumena]], pero la identificación procede de un desliz al presentarse y de la deducción de Alyre.
 
+- La carta de Jasper de la [[Sesión 42]] menciona rumores de locura y conjuraciones oscuras de Livra; él mismo advierte que no están confirmados.
+
 ## Preguntas abiertas
 
 - ¿Qué está haciendo exactamente [[Livra]] en el [[Menzoberranzan#Underdark|Underdark]]?
-- ¿Sigue [[Elendar]] en [[Menzoberranzan]] o el rumor del varón [[Casa Ilythiss|Ilythiss]] apunta a él?
+- ¿El barón Ilythiss o su acompañante son [[Elendar]], y coinciden con el varón del rumor de Vaeris? ¿Quién entró en la casa de Alyre y qué buscaba?
 - ¿Qué papel tendrá [[Vaeris]] si [[Alyre A'Dariir|Alyre]] vuelve al [[Menzoberranzan#Underdark|Underdark]]?
 - ¿La condición de matar a la matriarca [[Casa A'Dariir|A'Dariir]] será inevitable, negociable o una bomba esperando el peor momento?
 - ¿Qué quiere la Casa de los Susurros de [[Rogaril]] con esta información?
@@ -70,3 +76,7 @@ En las sesiones recientes, [[Vaeris]] y [[Jasper]] aportan señales preocupantes
 - [[Casa Ilythiss]]
 - [[Yaharis Eledhril]]
 - [[Lorena Neciente]]
+
+## Última sesión incorporada
+
+[[Sesión 42]]; carta de Jasper y encuentro de Alyre con su abuela.

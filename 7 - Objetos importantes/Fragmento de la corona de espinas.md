@@ -23,6 +23,8 @@ Al retirar el fragmento, el guardián dejó de atacar, menguó hasta unos tres o
 
 En la [[Sesión 41]], la moneda de [[Bhaal]] reacciona al acercarla al fragmento, pero la naturaleza de la sinergia no queda identificada. Más tarde, Nérthoran celebra un ritual con [[Hugo Alzasombras]] y [[Chelterra]] y ve con nitidez el fragmento opuesto al suyo: está envuelto en cuero, dentro de una mochila que sale de [[Ibermaris]] hacia el norte. El grupo decide perseguir esta pista cuando resuelva sus asuntos pendientes en la ciudad.
 
+En la [[Sesión 42]], Nérthoran pide a un ser del santuario de [[Bhaal]] que sus asesinos maten a los portadores de los fragmentos restantes. Recibe un anillo que, según el donante, los invoca al rezar a Bhaal llevándolo puesto. No lo activa ni consigue otro fragmento en esta sesión; no se conocen el precio ni las condiciones de esa ayuda.
+
 ## Importancia
 
 - Nérthoran identifica el fragmento como parte de la corona de espinas que una mortal utilizó para matar a [[Myrkull]].
@@ -45,6 +47,7 @@ En la [[Sesión 41]], la moneda de [[Bhaal]] reacciona al acercarla al fragmento
 
 - [[Sesión 37]]
 - [[Sesión 41]]
+- [[Sesión 42]]
 
 ## Relacionado
 

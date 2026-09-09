@@ -73,6 +73,16 @@ En la [[Sesión 41]], visita [[La Garduña]] y se reencuentra con [[Yaya]], su r
 
 Mishka pregunta a la Orden de Santiago por Yeraimus y descubre que una comitiva del templo bendijo el pozo tras detectar energía nigromántica. Su relato provoca que la Orden decida enviar inquisidoras. Desde el santuario de [[Chauntea]], Mishka ve El Invernadero y observa que [[Paige]] y [[Lovna]] están de nuevo embarazadas.
 
+### Revelaciones en la sesión 42
+
+Mishka oye en el templo que las [[Catacumbas de Ibermaris]] tienen una conexión ritual con la sala de [[Bhaal]]. En [[La Garduña]], cuenta la historia aventurera de [[Yaya]] y es la única que ve la fotografía de la [[Prometida de Hernán Cortés]] que muestra [[Leo]]. Desconoce el pasado de El Dorado, por lo que solo transmite una descripción; Juaniguel propone la identificación.
+
+Acepta no impedir las acciones religiosas de Alyre contra Bhaal. Facilita la infiltración con *pasar sin rastro*, lucha como boa constrictor gigante y abandona esa forma para volver a lanzar el hechizo al evitar al beholder. Juaniguel la ataca bajo la influencia de una de las guardianas.
+
+Ante el cuenco de sangre confiesa que, después de que le quitaran todo lo que más quería, acabó con padres, madres, hijos y nonatos. No detalla identidades, lugar ni fecha. Alyre dice haber hecho algo semejante y lo aprueba. Mishka cura a [[Mathulio]] cuando Bhaal lo deja inconsciente y le pide que confíe en ella y se aleje.
+
+Al salir, responde de forma ambigua cuando Mathulio afirma que ambos son los únicos que nunca han muerto. Alyre quiere preguntarle por ello y por las tumbas de [[Egriño Palosio Pestiño Cirilo Abanusco]] y [[Pitinka Pitusa Nialusa Mamushka Saribris]]. No se confirma una resurrección previa ni parentesco con esas personas.
+
 ### Relaciones
 
 > [!kith|companion] **[[Melea]]**

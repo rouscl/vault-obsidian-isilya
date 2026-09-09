@@ -74,3 +74,7 @@ En la [[Sesión 33]], Alyre acepta en [[Castimandra]] un tatuaje mágico de [[Po
 En la [[Sesión 35]], Alyre usa por primera vez ese tatuaje y es llevada al Reino de la Gran Telaraña. Loth le pregunta si va a servirla sólo a ella; Alyre lo promete y besa el hilo que la diosa baja ante ella. El hilo brilla en morado y queda más fuerte, pero Loth señala un asunto pendiente: [[Elendar]] debe morir por la orden que Alyre desobedeció al salvarlo. Antes de desaparecer, le susurra en drow que "la sombra de tu secreto me pertenece".
 
 En la [[Sesión 41]], Alyre accede desde el [[Templo de la Orden de Santiago]] a un santuario de Loth que le devuelve la sensación de estar en el Underdark. Evita deliberadamente a la sacerdotisa presente, invoca a Lothi para que explore y permanece en el entorno sin rezar. La afección debilitadora adquirida en [[Yeraimus de Abajo]] desaparece durante la visita, sin que se describa una intervención directa de Loth.
+
+En la [[Sesión 42]], después de que Bhaal mate a Alyre, Loth la recibe inmóvil en una telaraña. Se declara decepcionada; Alyre defiende sus decisiones y responde con desprecio a esa decepción. Loth la devora y su alma pasa a la [[Gran Telaraña]], donde Alyre vive meses antes de aceptar el regreso ofrecido por la [[La Luna Roja|Luna Roja]].
+
+No consta que Loth retire su exigencia sobre [[Elendar]], que el vínculo religioso quede roto ni que el tiempo vivido entre los muertos recargue el tatuaje mensual.

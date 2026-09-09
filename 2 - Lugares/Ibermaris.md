@@ -40,6 +40,12 @@ Ibermaris es una región de clima agradable, carácter abierto y fuerte tradici�
 - El [[Templo de la Orden de Santiago]] dispone de una compleja jerarquía y de una sala de teletransporte conectada con santuarios divinos. La Orden confirma que envió una comitiva a [[Yeraimus de Abajo]] y bendijo el pozo.
 - Una mujer desconocida afirma que hay aliados en la ciudad dispuestos a acompañar al grupo y ofrece como posible frase de reconocimiento una referencia a la paz de Isilya y cuatro armas bendecidas por la Roja. Su identidad y la fiabilidad de la clave siguen abiertas.
 
+## Situación tras la sesión 42
+
+El grupo se aloja ahora en [[La Garduña]]. [[Alyre A'Dariir|Alyre]] ha encargado una coraza a un herrero orco, cuya entrega no consta. [[Leo]] muestra a Mishka una fotografía de la [[Prometida de Hernán Cortés]] que abre para el grupo la sospecha de que sea la antigua pareja de Mathulio en El Dorado.
+
+La reunión con [[Malasaña]] se celebra y permite acceder por la tumba de [[Milagros Figueral]] a las [[Catacumbas de Ibermaris]]. Allí se confirma un ritual de Bhaal que transporta al grupo a sus [[Dominios de Bhaal|dominios]]. Tras la muerte y el retorno de Alyre, el grupo reaparece ante la tumba y se retira a dormir. No se establece una relación del culto con Yeraimus ni un salto de meses en la ciudad.
+
 ## Sesiones relacionadas
 
 - [[Sesión 1]]
@@ -51,3 +57,4 @@ Ibermaris es una región de clima agradable, carácter abierto y fuerte tradici�
 - [[Sesión 39]]
 - [[Sesión 40]]
 - [[Sesión 41]]
+- [[Sesión 42]]

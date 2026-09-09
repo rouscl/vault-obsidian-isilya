@@ -10,7 +10,7 @@ tags:
 
 > [!infobox]
 > # Elendar Ilythiss
-> ![[Elendar.png]]
+> ![[Elendar nuevo.png]]
 > ###### Información
 > | Raza  |
 > | ----- |
@@ -89,3 +89,9 @@ Lo que sí está confirmado es que Elendar sigue siendo un punto de presión sob
 - [[Sesión 29]]
 - [[Sesión 30]]
 - [[Sesión 35]]
+
+## Pistas de la sesión 42
+
+[[Jasper]] comunica que el [[Barón Ilythiss]] fue visto en la capital con otro drow y se dirigía al [[Puente de la Paz]]. La carta no identifica a ninguno como Elendar ni permite confirmar su paradero.
+
+Durante su estancia en la [[Gran Telaraña]], Alyre busca a Elendar. Siente alivio al fracasar las pistas porque espera que su ausencia entre los muertos signifique que sigue vivo; esa esperanza no confirma su estado. Al regresar a la vida, no consta que [[Loth]] retire la exigencia de matarlo.

@@ -10,7 +10,7 @@ tags:
 
 > [!infobox]
 > # Livra A'Dariir
-> ![[Alyre y su madre.png]]
+> ![[Livra - retrato.png]]
 > ###### Información
 > | Raza  |
 > | ----- |
@@ -53,3 +53,9 @@ Livra evita mencionar la desaparición de [[Alyre A'Dariir|Alyre]] ante las otra
 ## Estado actual
 
 Livra tiene relevancia latente muy alta para Alyre y para cualquier regreso al [[Menzoberranzan#Underdark|Underdark]]. No es una antagonista simple: es madre, modelo drow, matrona, posible arquitecta del futuro político de Alyre y obstáculo inevitable si Alyre pretende tomar el control de la [[Casa A'Dariir]]. Su situación actual es incierta porque no se sabe hasta qué punto controla la ausencia de Alyre ni qué movimientos está haciendo desde que empezaron los rumores sobre la casa.
+
+## Noticias de la sesión 42
+
+La carta de [[Jasper]] recibida por Alyre menciona rumores de locura y conjuraciones oscuras de Livra. Jasper advierte expresamente que no tiene confirmación; no se incorporan como hechos sobre su estado.
+
+En la [[Gran Telaraña]], [[Sszalyth A'Dariir]] desacredita la crianza de Livra durante su encuentro con Alyre. Es el juicio de la abuela, no una nueva constatación sobre las acciones actuales de Livra.

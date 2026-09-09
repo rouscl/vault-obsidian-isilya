@@ -20,9 +20,11 @@ La nota [[La Luna Roja]] recoge la trama transversal de la entidad, sus nombres 
 - En la [[Sesión 34]], [[Juaniguel de la Ola|Juaniguel]] cuenta que en una canción de [[Ibermaris]] [[La Luna Roja]] recibe el nombre de Grana, mientras que en [[Gallix]] era conocida como Reiro.
 - Durante la muerte de Juaniguel y [[Nérthoran Yúribel|Nérthoran]], [[La Luna Roja]] se manifiesta ante ambos en una especie de limbo y los devuelve a la vida.
 - La entidad afirma estar sometida y necesitar las reliquias para liberarse de su yugo.
+- En la [[Sesión 42]], la [[La Luna Roja|Luna Roja]] se presenta ante [[Alyre A'Dariir|Alyre]] después de su estancia en la [[Gran Telaraña]] y le devuelve la vida. La sesión no la identifica de forma explícita con Reiro; la conexión queda recogida en [[La Luna Roja]].
 
 ## Sesiones relacionadas
 - [[Sesión 18]]
 - [[Sesión 19]]
 - [[Sesión 21]]
 - [[Sesión 34]]
+- [[Sesión 42]]

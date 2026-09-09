@@ -55,6 +55,10 @@ Félix cuenta que el gremio envió una comitiva a [[Yeraimus de Abajo]] aproxima
 
 También menciona personas vinculadas a cultos en las catacumbas. [[Alyre A'Dariir|Alyre]] pide a Mathulio que pregunte por [[Bhaal]], pero Félix no confirma que sean bhaalitas. Mathulio queda citado para reunirse con Malasaña dentro de dos días.
 
+En la [[Sesión 42]], Mathulio y Alyre se reúnen con Malasaña. Ella les ofrece un acceso a las [[Catacumbas de Ibermaris]] por la tumba de [[Milagros Figueral]] y les pide recuperar un colgante de plata, rubí y estrella de ocho puntas. También entrega a Alyre una carta de [[Jasper]]. La secuencia de golpes del Nido abre la tumba tras colocar tres lirios blancos. El grupo confirma la presencia de un ritual de Bhaal, aunque no se establece una alianza del gremio con ese culto.
+
+Alyre conserva el colgante al final de la sesión; la entrega a Malasaña sigue pendiente.
+
 ### Castimandra como destino preparado
 
 En la [[Sesión 28]], a Mathulio le lanzan una moneda con el símbolo del gremio de ladrones. A cambio de su capa mágica, recibe la instrucción de preguntar por [[Peeves]] al llegar a [[Castimandra]] y decir que va de parte de aquel contacto. Esa pista prepara el acceso posterior al Nido local.
@@ -77,3 +81,4 @@ En la [[Sesión 28]], a Mathulio le lanzan una moneda con el símbolo del gremio
 - [[Sesión 37]]
 - [[Sesión 38]]
 - [[Sesión 40]]
+- [[Sesión 42]]

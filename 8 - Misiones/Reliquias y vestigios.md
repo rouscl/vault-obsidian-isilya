@@ -49,6 +49,10 @@ Desde las primeras sesiones, [[Caraxys]] ofrece ayuda sobre el vínculo del grup
 - La moneda de [[Bhaal]] reacciona al acercarla al [[Fragmento de la corona de espinas]], sin que se identifique el vínculo entre ambos objetos.
 - Un ritual de Nérthoran con [[Hugo Alzasombras]] y [[Chelterra]] muestra el fragmento opuesto de la corona envuelto en cuero, dentro de una mochila que sale de Ibermaris hacia el norte.
 
+- En la [[Sesión 42]], la Luna Roja devuelve la vida a Alyre después de que ella acepte regresar. Afirma que aún tiene un destino que cumplir, sin asignarle un vestigio concreto ni explicar nuevas condiciones.
+- Nérthoran recibe de un ser del santuario de Bhaal un anillo para convocar asesinos, tras pedir la muerte de los portadores de los otros fragmentos de corona. No se activa ni se obtiene un fragmento nuevo.
+- El colgante recuperado para [[Malasaña]] y la daga que se fusiona con Bhaal no quedan identificados como vestigios.
+
 ## Personas y fuerzas implicadas
 
 - [[Caraxys]], fuente principal de instrucciones y una de las personas que más parece saber sobre la profecía.
@@ -93,7 +97,7 @@ En la [[Sesión 37]], Nérthoran conserva el [[Fragmento de la corona de espinas
 - Caraxys ha sido útil, pero también opaco.
 - La profecía puede atraer a facciones con intereses incompatibles con los del grupo.
 - Si los vestigios están ligados a cada personaje, recuperarlos puede forzar conflictos personales o revelar secretos peligrosos.
-- La resurrección de Juaniguel y Nérthoran puede haber creado una deuda o vínculo con la Luna Roja que el grupo todavía no entiende.
+- Las resurrecciones de Juaniguel, Nérthoran y Alyre pueden haber creado una deuda o vínculo con la Luna Roja que el grupo todavía no entiende. No se da por garantizada una nueva resurrección.
 
 ## Sesiones relacionadas
 
@@ -109,6 +113,7 @@ En la [[Sesión 37]], Nérthoran conserva el [[Fragmento de la corona de espinas
 - [[Sesión 37]]
 - [[Sesión 40]]
 - [[Sesión 41]]
+- [[Sesión 42]]
 
 ## Relacionado
 

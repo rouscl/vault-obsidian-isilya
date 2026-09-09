@@ -71,6 +71,14 @@ En la [[Sesión 41]], estudia varias teorías sobre antonomasia, sombras y nigro
 
 En el santuario de [[Myrkull]] accesible desde el [[Templo de la Orden de Santiago]], [[Hugo Alzasombras]] y [[Chelterra]] se arrodillan ante Nérthoran, lo llaman «mi señor» y afirman que lo creían una leyenda. Los tres realizan un ritual para localizar los dos fragmentos de la corona que faltan. Nérthoran ve el fragmento opuesto al suyo envuelto en cuero, dentro de una mochila que se aleja de [[Ibermaris]] hacia el norte. Al final de la sesión accede al santuario de Bhaal por petición de Alyre para buscar información sobre sectarios cercanos.
 
+### Anillo de Bhaal y confesión
+
+En la [[Sesión 42]], Nérthoran pide a un ser enorme y membranoso del santuario de [[Bhaal]] que sus asesinos maten a los portadores de los fragmentos restantes de la corona. Recibe un **anillo**: según ese ser, rezar a Bhaal llevándolo puesto hará aparecer a los asesinos. No se documentan activación, usos, coste, límites ni garantía de obediencia. En la tumba de [[Milagros Figueral]] evita rezar por no activar el objeto.
+
+En los [[Dominios de Bhaal]] resiste el contacto de una guardiana que sí afecta a Juaniguel. Ante el cuenco confiesa que sabía que sus padres iban a realizar el ritual y permitió que lo hicieran. No se concretan más detalles de ese episodio. Presencia la muerte y el retorno de Alyre.
+
+La descripción de la [[Sesión 42]] confirma que el brillo de su esqueleto es rojo, como el de Juaniguel. El de Alyre se ve morado a través de su piel azulada.
+
 ### Relaciones
 
 > [!kith|ally] **[[Alyre A'Dariir]], [[Juaniguel de la Ola]], [[Mathulio]], [[Mishka]]**

@@ -9,7 +9,7 @@ tags:
 
 # Casa Paco
 
-Casa Paco es una taberna o posada de [[Ibermaris]] vinculada a [[Paco]], [[Mari Carmen]] y la infancia de [[Mathulio]]. El grupo se aloja allí al final de la [[Sesión 40]].
+Casa Paco es una taberna o posada de [[Ibermaris]] vinculada a [[Paco]], [[Mari Carmen]] y la infancia de [[Mathulio]]. El grupo se aloja allí al final de la [[Sesión 40]] y se traslada a [[La Garduña]] en la [[Sesión 42]] para que Mathulio no tenga que volver a la posada de su infancia.
 
 ## Información conocida
 
@@ -27,5 +27,3 @@ El trasfondo de Mathulio cuenta que Paco y Mari Carmen lo acogieron a los cinco 
 ## Dudas abiertas
 
 - Quién es la mujer que aborda al grupo.
-- Si La Garduña es otro nombre de Casa Paco o un establecimiento distinto.
-- Si «La Mari», regente de La Garduña, es un apodo de Mari Carmen o una persona diferente.

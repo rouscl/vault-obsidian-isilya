@@ -9,7 +9,7 @@ tags:
 
 > [!infobox]
 > # Ildan A'Dariir
-> ![[Padres Alyre.png]]
+> ![[Padre de Alyre - retrato.png]]
 > ###### Información
 > | Raza  |
 > | ----- |

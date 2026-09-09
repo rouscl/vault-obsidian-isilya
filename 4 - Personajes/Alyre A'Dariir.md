@@ -1,7 +1,7 @@
 
 > [!infobox]
 > # Alyre A'Dariir
-> ![[Alyre tatuaje.png]]
+> ![[Alyre estoque y magia.png]]
 > ###### Información
 > | Raza  | Subraza |
 > | ------ | -------- |
@@ -9,11 +9,11 @@
 > 
 > | Clase      | Subclase                 |
 > | --------- | ------------------- |
-> | Guerrero / Bruja | Duelista de sangre / Bruja de [[Xerathor]] |
+> | Bruja 6 / Guerrera 1 | Bruja de [[Xerathor]] / Duelista de sangre |
 > 
 > | Alineamiento       |
 > | ----------------- |
-> | Caótico Malvado |
+> | Legal Malvado |
 > 
 > | Lugar de nacimiento                   |
 > | -------------------------------- |
@@ -54,13 +54,25 @@ Ver: [[Alyre A'Dariir - evolución]]
 
 Alyre es un personaje jugador activo. En la partida actual, el grupo está formado por [[Juaniguel de la Ola]], [[Mathulio]], [[Alyre A'Dariir|Alyre]], [[Nérthoran Yúribel]] y [[Mishka]].
 
-Su aspecto actual incorpora la transformación como bruja de [[Xerathor]] y el tatuaje mágico vinculado a [[Loth]], recibido en [[Castimandra]] durante la [[Sesión 33]].
+Su aspecto actual conserva la transformación como bruja de [[Xerathor]] y el tatuaje mágico vinculado a [[Loth]]. Tras regresar de la muerte en la [[Sesión 42]], tiene cuatro ojos en la frente y un brillo de su esqueleto que se ve morado a través de su piel azulada. Su clase actual es **bruja 6 / guerrera 1**.
 
 En la [[Sesión 40]], Alyre llega a [[Ibermaris]] después de atravesar [[Yeraimus de Abajo]]. Allí queda afectada junto a [[Juaniguel de la Ola|Juaniguel]] y [[Mathulio]] por una dolencia debilitadora que [[Nérthoran Yúribel|Nérthoran]] considera necesario retirar en un templo. Ya en la ciudad, escucha mediante los [[Pinganillos de Caraxys|pinganillos]] la conversación de Mathulio con [[Félix]] y toma nota de la jerarquía y la jerga de [[El Nido]].
 
-En la [[Sesión 41]], prepara una tercera dosis excelente de Sueño de Gallix y consume uno de sus usos gratuitos de veneno. Repasa con Mathulio la jerga de El Nido y mantiene con él una conversación inusualmente larga sobre la pérdida de su antigua destreza con el estoque; ambos acuerdan entrenar juntos.
+En la [[Sesión 41]], prepara una tercera dosis excelente de Sueño de Gallix y consume uno de sus usos gratuitos de veneno. Repasa con Mathulio la jerga de El Nido y mantiene con él una conversación inusualmente larga sobre la pérdida de su antigua destreza con el estoque; ambos acuerdan entrenar juntos. Alyre nunca había dejado de llevarlo, pero desde su transformación como bruja el arma ya no conservaba las propiedades infernales otorgadas por Xerathor y ella había dejado de usarla habitualmente porque no se sentía tan poderosa con él, prefiriendo las garras y la magia.
 
 La moneda de [[Bhaal]] reacciona al [[Fragmento de la corona de espinas]]. Nérthoran propone un ritual de contacto con el dios, pero Alyre teme la reacción de [[Loth]] y no acepta en ese momento. En el [[Templo de la Orden de Santiago]], accede a un santuario de Loth que le devuelve las sensaciones del Underdark. Evita a la sacerdotisa, no reza y deja explorar a Lothi; durante la visita desaparece la afección de [[Yeraimus de Abajo]]. Al regresar a la plaza siente que alguien la observa, sin conseguir localizarlo, y pide a Nérthoran que investigue sectarios cercanos desde el santuario de Bhaal.
+
+### Muerte y regreso en la sesión 42
+
+Alyre encarga una coraza de diseño propio a un herrero orco y decide retomar el uso activo del estoque en combate. La coraza aún no consta entregada. Se traslada con el grupo a [[La Garduña]], se reúne con [[Malasaña]] junto a Mathulio y recibe la carta de [[Jasper]]. Obtiene de la Gran Maestra una entrada a las catacumbas y un encargo: recuperar un colgante de plata, rubí y estrella de ocho puntas.
+
+En los [[Dominios de Bhaal]], su reflejo en el monolito se mantiene normal mientras los demás contemplan versiones sangrientas de sí mismos. Alyre obtiene el colgante con *orden imperiosa* y confiesa que exige normas a todos mientras pide una excepción para la muerte de la persona a la que ama. Rechaza a Bhaal porque cree que también exigiría esa renuncia como prueba de fidelidad. Bhaal le quita el estoque y la mata.
+
+Después de morir, [[Loth]] la recibe con decepción y la devora. Alyre vive meses en la [[Gran Telaraña]], donde se adapta, consigue contactos y una casa y recupera una sensación de libertad en un entorno cuyas reglas entiende. Busca a [[Elendar]] y siente alivio cuando no lo encuentra, sin que eso confirme que esté vivo. Su abuela [[Sszalyth A'Dariir]] le reprocha su muerte temprana y la insta a adaptarse y ser paciente.
+
+La [[La Luna Roja|Luna Roja]] le ofrece volver porque tiene un destino que cumplir. Alyre duda, pero finalmente elige regresar. Despierta en los dominios de Bhaal y sale viva con sus compañeros cuando él los expulsa. Tiene **cuatro ojos en la frente** y un brillo de su esqueleto que, a través de la piel azulada, se ve **morado**. Los nuevos rasgos no tienen facultades documentadas ni rompen sus vínculos divinos. Al terminar la sesión sube de nivel y pasa a ser **bruja 6 / guerrera 1**. Ya no conserva el estoque que le quitó Bhaal, pero planea comprar otro cuando vaya a recoger la coraza y retomará su uso en combate.
+
+Conserva el colgante y quiere identificarlo antes de entregarlo a Malasaña. Quiere hablar con [[Mishka]] sobre las tumbas de [[Egriño Palosio Pestiño Cirilo Abanusco]] y [[Pitinka Pitusa Nialusa Mamushka Saribris]], y sobre su respuesta ambigua acerca de una posible muerte anterior. Los meses vividos por Alyre no equivalen a meses transcurridos para el grupo.
 
 ## Símbolo personal
 

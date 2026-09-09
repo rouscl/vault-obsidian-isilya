@@ -38,3 +38,7 @@ En la [[Sesión 41]], [[Yaya]] cuenta que Cortés va a casarse con una mujer ext
 ## Estado actual
 
 Mencionado de forma indirecta. No se conocen aún las circunstancias de su ascenso, la identidad de su prometida ni su relación actual con Juaniguel y Mathulio. La audiencia de la familia Neciente, la boda y el acuerdo con Ándalor pueden aportar información concreta sobre sus prioridades como rey.
+
+## Boda: pista de la sesión 42
+
+[[Leo]] muestra a [[Mishka]] una fotografía de la [[Prometida de Hernán Cortés|prometida]]. Solo Mishka la ve, sin conocer el pasado de El Dorado. A partir de su descripción, [[Juaniguel de la Ola]] cree que podría ser la antigua pareja de [[Mathulio]], quien quiere investigarlo. La fuente de la jugadora identifica a ambas mujeres, pero los personajes aún no lo han comprobado.

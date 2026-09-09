@@ -13,7 +13,7 @@ aliases:
 
 ## Estado
 
-Misterio activo. La Luna Roja aparece como una entidad o manifestación divina vinculada a [[Reiro]], a la profecía de los vestigios, a la energía nigromántica detectada por [[Mama Rott]] y a la muerte y retorno de [[Juaniguel de la Ola|Juaniguel]] y [[Nérthoran Yúribel|Nérthoran]].
+Misterio activo. La Luna Roja aparece como una entidad o manifestación divina vinculada a [[Reiro]], a la profecía de los vestigios, a la energía nigromántica detectada por [[Mama Rott]] y a la muerte y retorno de [[Juaniguel de la Ola|Juaniguel]], [[Nérthoran Yúribel|Nérthoran]] y, desde la [[Sesión 42]], [[Alyre A'Dariir|Alyre]].
 
 ## Núcleo de la trama
 
@@ -35,6 +35,9 @@ La entidad no parece ser sólo un símbolo. [[Mama Rott]] percibe que la luna ro
 - La propia Luna Roja afirma estar sometida y necesitar las reliquias para liberarse de su yugo.
 - En la [[Sesión 40]], el libro atribuido a [[Caraxys]] afirma que un [[Reo Lunático]] encerrado junto a él hablaba de una luna roja, cuatro armas bendecidas por «la Roja» y dirigentes destinados a Isilya. Es un eco temprano de la profecía, no una confirmación de que armas y vestigios sean lo mismo.
 - En la [[Sesión 41]], una informante desconocida ofrece como posible clave para reconocer aliados la frase «Isilya verá la verdadera paz… cuatro armas bendecidas por la Roja…». La coincidencia con las palabras del Reo Lunático es clara, pero no identifica a «la Roja» ni demuestra que las armas sean los vestigios.
+
+- En la [[Sesión 42]], la Luna Roja se presenta ante Alyre después de los meses que vive en la [[Gran Telaraña]]. Le dice que tiene grandes cosas por hacer y un destino pendiente, le ofrece volver y sostiene que su futuro le pertenece. Alyre duda y finalmente acepta.
+- Alyre regresa a los [[Dominios de Bhaal]] con cuatro ojos en la frente y el brillo del esqueleto visible como morado a través de su piel azulada. La sesión compara esa marca con el brillo rojo de Juaniguel y Nérthoran.
 
 ## Menciones en la crónica
 
@@ -74,12 +77,16 @@ El libro hallado en la posible antigua casa de [[Caraxys]] atribuye al [[Reo Lun
 
 La mujer desconocida que aborda al grupo en [[Casa Paco]] repite una formulación muy cercana a la del Reo Lunático y la presenta como posible forma de reconocer aliados en [[Ibermaris]]. No explica el origen de la frase, quién debe responder a ella ni si «la Roja» es [[Reiro]], Grana u otra figura.
 
+### [[Sesión 42]]
+
+La intervención sobre Alyre amplía la experiencia de la [[Sesión 34]]. Después de que [[Bhaal]] la mate y [[Loth]] la devore, Alyre vive meses en la Gran Telaraña. La Luna Roja interrumpe esa estancia y le ofrece volver. Alyre ya había encontrado allí un lugar y vacila, pero elige regresar cuando la entidad insiste en que el futuro es suyo. No se especifica un precio, una nueva obligación ni la garantía de futuras resurrecciones.
+
 ## Sospechas y preguntas abiertas
 
 - No está claro si la Luna Roja y [[Reiro]] son exactamente la misma entidad, si Reiro es un nombre regional o si la Luna Roja es una manifestación más amplia que distintas culturas nombran de formas distintas.
 - Falta saber qué yugo mantiene sometida a la Luna Roja y quién se beneficia de ese sometimiento.
 - La energía nigromántica detectada por Mama Rott puede ser síntoma del daño sufrido por la Luna Roja, una manipulación externa o una mezcla bastante fea de ambas cosas.
-- No está claro si la resurrección de Juaniguel y Nérthoran crea una deuda, marca, obligación o vínculo nuevo.
+- Las resurrecciones de Juaniguel, Nérthoran y Alyre dejan cambios visibles; no se conoce si crean una deuda, obligación o vínculo nuevo ni sus efectos mecánicos.
 - La relación entre la Luna Roja, [[Myrkull]], las lloronas y la amenaza de Castimandra sigue abierta.
 - Alyre y Nérthoran han expresado la intención de no servir ciegamente a la Luna Roja, aunque todavía no saben si podrán usar su poder sin quedar atados a otra cadena.
 - No está claro si las cuatro armas del Reo Lunático son los cuatro vestigios, si «la Roja» es exactamente Reiro o Grana ni a quiénes llama dirigentes destinados.
@@ -96,6 +103,7 @@ La mujer desconocida que aborda al grupo en [[Casa Paco]] repite una formulació
 - [[Sesión 34]]
 - [[Sesión 40]]
 - [[Sesión 41]]
+- [[Sesión 42]]
 
 ## Relacionado
 

@@ -53,6 +53,8 @@ En la [[Sesión 41]], una mujer desconocida afirma que se ha descubierto el segu
 - El [[Reo Lunático]] formuló durante el cautiverio de Caraxys una visión sobre una luna roja, cuatro armas bendecidas y dirigentes destinados a Isilya, según el libro hallado en la [[Sesión 40]].
 - Una informante desconocida aporta en la [[Sesión 41]] localizaciones parciales para el paladín de Midas y la madre seda, además de una posible frase para reconocer aliados en Ibermaris.
 
+- En la [[Sesión 42]], la Luna Roja ofrece volver a la vida a Alyre porque tiene grandes cosas por hacer y un destino pendiente. Alyre acepta, sin que se le asigne un vestigio ni se aclare qué obligación conlleva su regreso.
+
 ## Sospechas y preguntas abiertas
 
 - No está claro si los vestigios son objetos, pruebas, poderes, reliquias personales o marcas de destino.
@@ -60,7 +62,7 @@ En la [[Sesión 41]], una mujer desconocida afirma que se ha descubierto el segu
 - [[Caraxys]] podría estar diciendo la verdad sobre lo que ignora, pero su forma de dosificar información sigue siendo sospechosa.
 - La profecía puede estar conectada con la maldición del vínculo, pero todavía no se sabe si es causa, consecuencia o simple herramienta de manipulación.
 - La relación entre [[Reiro]], la luna roja, las reliquias y la energía nigromántica detectada por [[Mama Rott]] sigue abierta.
-- No está claro si la resurrección de Juaniguel y Nérthoran crea una deuda, una marca o una obligación nueva con la Luna Roja.
+- Las resurrecciones de Juaniguel, Nérthoran y Alyre dejan cambios visibles, pero no se conocen sus efectos mecánicos ni si crean una deuda u obligación con la Luna Roja.
 - No está claro si las cuatro armas mencionadas por el Reo Lunático son los cuatro vestigios, otra clase de reliquias o una interpretación que Caraxys convirtió después en misión.
 - La indicación inicial de la informante sobre «las afueras, al sur» no tiene un referente inequívoco.
 - Se desconoce quién es la informante, qué aliados reconocerían su frase y si sus localizaciones son fiables.
@@ -76,6 +78,7 @@ En la [[Sesión 41]], una mujer desconocida afirma que se ha descubierto el segu
 - [[Sesión 34]]
 - [[Sesión 40]]
 - [[Sesión 41]]
+- [[Sesión 42]]
 
 ## Relacionado
 

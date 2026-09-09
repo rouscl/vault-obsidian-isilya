@@ -15,6 +15,7 @@ El Puente de la Paz es una parada importante en la ruta entre [[Rogaril]] y [[Ga
 - En la [[Sesión 12]], [[Alyre A'Dariir|Alyre]] se encuentra allí con [[Bornira]], antigua servidora de la [[Casa A'Dariir]], lo que conecta el lugar con la trama del [[Menzoberranzan#Underdark|Underdark]].
 - En la [[Sesión 23]], soldados de [[Alphonse Valdrak|La Mano]] interceptan al grupo cerca del puente, arrestan a [[Juaniguel de la Ola|Juaniguel]] y llevan carteles de "Se busca" con Alyre, [[Mathulio]] y Juaniguel.
 - [[Elyssian]] contacta mentalmente con Alyre desde la taberna y les ofrece una salida clandestina por barco.
+- En la carta de [[Jasper]] recibida en la [[Sesión 42]], la última dirección conocida del [[Barón Ilythiss]] era el Puente de la Paz. No se confirma que llegara allí ni que desde ese punto siguiera hacia [[Gallix]] o tomara un barco.
 
 ## Función en la ruta
 
@@ -26,3 +27,4 @@ El Puente de la Paz es una parada importante en la ruta entre [[Rogaril]] y [[Ga
 - [[Sesión 12]]
 - [[Sesión 13]]
 - [[Sesión 23]]
+- [[Sesión 42]]

@@ -57,7 +57,17 @@ En la [[Sesión 40]], regresa a [[Ibermaris]] después de atravesar [[Yeraimus d
 
 En la [[Sesión 41]], enseña a Alyre más jerga de ladrones y habla con ella sobre lo que supone haber perdido su antigua destreza con el estoque. Acuerdan entrenar juntos. Mathulio evita comer en Casa Paco para que sus figuras parentales no lo vean y, cuando [[Mishka]] lo despierta a bastonazos por no saludar a [[Mari Carmen]], huye por una ventana tras discutir con Juaniguel.
 
-[[Ayamar]] le lee **El Loco** y **El Diablo**, interpretando en él una necesidad de lanzarse a lo desconocido, una tentación casi obsesiva, deseos ocultos y una cadena que lo mantiene atado. La lectura no se trata como un futuro confirmado. La cita con Malasaña queda como asunto inmediato de la siguiente sesión.
+[[Ayamar]] le lee **El Loco** y **El Diablo**, interpretando en él una necesidad de lanzarse a lo desconocido, una tentación casi obsesiva, deseos ocultos y una cadena que lo mantiene atado. La lectura no se trata como un futuro confirmado. La cita quedó pendiente al cierre de la Sesión 41 y se celebra en la [[Sesión 42]].
+
+### Amnesia y encuentro con Bhaal
+
+En la [[Sesión 42]], el grupo se traslada a [[La Garduña]] para evitar que Mathulio vuelva a [[Casa Paco]]. La descripción de una fotografía que solo ha visto [[Mishka]] lleva a [[Juaniguel de la Ola]] a proponer que la [[Prometida de Hernán Cortés]] sea la antigua pareja de Mathulio en El Dorado. Mathulio se preocupa y quiere comprobarlo.
+
+Se reúne con [[Malasaña]] junto a Alyre, abre la tumba de [[Milagros Figueral]] con los golpes del Nido y participa en la incursión. En el monolito ve una versión de sí mismo ensangrentada y consigue apartarse. En la sala del cuenco confiesa su avaricia y su intento de ocultarla.
+
+Ataca a la figura de [[Bhaal]] con dos dagas. Una, desconocida para Alyre, se fusiona con el cuerpo de Bhaal y desaparece. Bhaal lo deja inconsciente y Mishka lo cura. Al despertar, **ha perdido los recuerdos desde que fue al templo a quitarse la afección de Yeraimus hasta ese momento**. El origen de la daga y la causa de la amnesia no se conocen; no consta que recupere los recuerdos al salir.
+
+Mishka le pide que corra hacia la entrada. Desde allí presencia la muerte de Alyre. Tras su retorno y la expulsión del grupo, comenta que Mishka y él son los únicos que nunca han muerto; ella responde de manera ambigua. La reunión, la pista de la novia y la incursión anteriores a despertar pertenecen al periodo perdido y no deben tratarse como recuerdos accesibles a Mathulio sin que alguien se los vuelva a contar.
 
 ## **Infancia**
 

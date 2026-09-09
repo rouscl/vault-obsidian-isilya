@@ -42,3 +42,9 @@ Muerta antes del nacimiento de Alyre. La forma exacta de su muerte no se formula
 - [[Livra]]
 - [[Alyre A'Dariir]]
 - [[Loth]]
+
+## Encuentro en la Gran Telaraña
+
+En la [[Sesión 42]], Alyre encuentra a su abuela durante los meses que pasa en la [[Gran Telaraña]] tras morir. Sszalyth la reprende por morir tan joven, culpa a [[Livra]] de haber criado a alguien incapaz de sobrevivir y recibe la réplica de Alyre sobre quién había criado a su madre.
+
+Le reprocha que la superficie la haya vuelto descuidada y que entre en un lugar sin saber qué puede ocurrir. Le recuerda la paciencia, la discreción y la preparación drow, y cierra con «Adáptate y sé paciente». El encuentro no modifica lo conocido sobre su muerte anterior a la crónica.

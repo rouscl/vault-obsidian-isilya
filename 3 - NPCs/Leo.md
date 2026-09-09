@@ -32,6 +32,8 @@ Leo es una de los doce mensajeros reales de Ándalor. En la [[Sesión 41]], llev
 
 Ha viajado con [[Tauro]] porque la reina de Ándalor no podía acudir personalmente. Ambos actúan como embajadores en un asunto relacionado con la boda de [[Hernán Cortés|Cortés]] y con un acuerdo de concordia.
 
+En la [[Sesión 42]], muestra a [[Mishka]] una fotografía de la [[Prometida de Hernán Cortés]]. Solo Mishka ve la imagen y no conoce la historia de El Dorado. La descripción que transmite después lleva a [[Juaniguel de la Ola]] a plantear que sea la antigua pareja de [[Mathulio]]; los personajes aún deben comprobarlo.
+
 ## Dudas abiertas
 
 - Qué condiciones tiene el acuerdo de concordia.

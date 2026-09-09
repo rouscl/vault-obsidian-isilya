@@ -63,6 +63,14 @@ En la [[Sesión 40]], confirma ante Mishka el relato de [[Alyre A'Dariir|Alyre]]
 
 En la [[Sesión 41]], [[Ayamar]] le lee **El Sol** y **La Rueda de la Fortuna**, que interpreta como claridad, esperanza y un espacio de paz seguidos de giros inesperados y cíclicos fuera de su control. La lectura no se considera un futuro confirmado. Juaniguel discute con Mathulio por negarse siquiera a saludar a [[Mari Carmen]]. En el [[Templo de la Orden de Santiago]], accede al santuario de [[Timora]] y habla con la [[Hermana Solenum]]; la fuente no detalla la conversación ni confirma expresamente el estado posterior de su afección.
 
+### Incursión de la sesión 42
+
+A partir de la descripción de [[Mishka]], Juaniguel cree que la [[Prometida de Hernán Cortés]] podría ser la antigua pareja de [[Mathulio]] en El Dorado. No ha visto la fotografía que [[Leo]] enseñó solo a Mishka.
+
+En los [[Dominios de Bhaal]], interpreta la inscripción del monolito y ve un reflejo de sí mismo con ojos ensangrentados, cadáveres y promesas de éxito. Nunca se había visto tan cerca de corromperse. Después, el contacto de una de las guardianas lo domina con deseo y llega a atacar a Mishka para defenderla. No consta un cambio de alineamiento, clase o lealtad religiosa.
+
+Confiesa que su pecado es la curiosidad, que le hace meterse en más problemas de los que debería. Presencia la muerte y el retorno de Alyre. La descripción final confirma el brillo rojo de su esqueleto asociado a su regreso anterior por la [[La Luna Roja|Luna Roja]]; Alyre adquiere un brillo que se ve morado.
+
 ## **Infancia**
 
 Juaniguel creció en la aldea costera de [[Ibermaris]], sin conocer a sus padres biológicos. Fue criado por un viejo marinero llamado **[[Ri’La’Or Stolzmoore]]**, a quien cariñosamente llamaba "el Viejo Morsa", por su barba descomunal. [[Ri’La’Or Stolzmoore|Ri'La'Or]], antiguo pirata y aventurero, le transmitió no solo su apellido, sino también un legado de historias, valores e independencia.

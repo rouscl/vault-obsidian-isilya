@@ -44,6 +44,13 @@ Relacionado con: [[Mishka]]
 - **Cambios narrativos:** Una vieja canción de [[Ibermaris]] sobre Prendebrozas le recuerda a su antiguo grupo, formado también por un orco, un goblin, un dracónico y una elfa. Cura al menor de la familia Neciente tras el accidente y se enfrenta a [[Alyre A'Dariir|Alyre]] por decapitar a un soldado derrotado.
 - **Consecuencias:** Queda abierta una conversación moral con Alyre y una nueva pista sobre el pasado de Mishka.
 
+### Confesión y pasado pendiente
+
+- **Sesión / momento:** [[Sesión 42]], en los [[Dominios de Bhaal]].
+- **Cambios físicos:** Usa la forma de boa constrictor gigante durante la incursión y la abandona para lanzar de nuevo *pasar sin rastro*. No es un cambio estable.
+- **Cambios narrativos:** Confiesa haber matado a padres, madres, hijos y nonatos después de que le quitaran lo que más quería. Cura a Mathulio y presencia la muerte y el regreso de Alyre.
+- **Consecuencias:** Al salir, su respuesta deja abierta la posibilidad de que haya muerto alguna vez. No se confirma. Alyre quiere preguntarle por ello y por las tumbas de Egriño «Pulsodefuego» y Pitinka «Almaencendida».
+
 ## Estados visuales documentados y pendientes
 
 - No hay imagen principal confirmada para Mishka.
